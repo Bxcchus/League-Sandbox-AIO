@@ -1,0 +1,3 @@
+tr "p2p-enable" = "true"
+tr "p2p-qualifier" = "F"
+tr "p2p-telem" = "54.200.102.180 54.191.60.206"

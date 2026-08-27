@@ -1,0 +1,59 @@
+2018-07-08T01-42-35: LogOut_File: : logfile started
+2018-07-08T01-42-35: Net Status: low-level initialize success.
+2018-07-08T01-42-35: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2018-07-08T01-42-35: time = time of logging
+2018-07-08T01-42-35: address = address of IP address
+2018-07-08T01-42-35: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2018-07-08T01-42-35: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2018-07-08T01-42-35: app_ctos = client to server bytes delta excluding overheads (app data only)
+2018-07-08T01-42-35: app_stoc = server to client bytes delta excluding overheads (app data only)
+2018-07-08T01-42-35: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2018-07-08T01-42-35: sent = number of packets sent. Spikes can indicate lag.
+2018-07-08T01-42-35: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2018-07-08T01-42-35: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2018-07-08T01-42-35: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2018-07-08T01-42-35: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2018-07-08T01-42-35: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2018-07-08T01-42-35: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2018-07-08T01-42-35: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+1198,X.X.X.X,116,118,0,0,0,3,384,177,0,0,0,0
+11248,X.X.X.X,13252,910,6532,444,0,28,18,27,0,0,2,0
+21251,X.X.X.X,19050,2671,8872,1119,0,69,7,7,0,0,5,0
+31252,X.X.X.X,21059,3641,1215,580,0,99,7,7,0,0,5,0
+41253,X.X.X.X,26284,4635,3905,448,0,130,7,7,0,0,5,0
+51255,X.X.X.X,51643,8377,21349,2590,0,203,7,7,0,0,5,0
+61256,X.X.X.X,82396,11567,26287,1992,0,258,7,7,0,0,5,0
+71257,X.X.X.X,84650,12173,1502,248,0,281,7,7,0,0,5,0
+81258,X.X.X.X,94589,21911,4771,7146,0,475,7,7,0,0,5,0
+91259,X.X.X.X,98491,24340,2264,1625,0,534,7,7,0,0,5,0
+101260,X.X.X.X,100962,26169,1349,1291,0,586,7,7,0,0,5,0
+111261,X.X.X.X,114838,30995,10150,3216,0,667,7,6,0,0,5,0
+121262,X.X.X.X,123415,36439,5613,3858,0,771,7,6,0,0,5,0
+131265,X.X.X.X,192273,39207,39868,1448,0,799,7,6,0,0,5,0
+141269,X.X.X.X,469846,46819,156195,4324,0,845,7,6,0,0,5,0
+151273,X.X.X.X,812770,51553,188502,2408,0,864,7,6,0,0,5,0
+161314,X.X.X.X,1145940,56629,183852,2586,0,884,7,6,0,0,5,0
+171343,X.X.X.X,1624259,65579,266241,4680,0,905,7,6,0,0,5,0
+181393,X.X.X.X,2104002,71190,262193,2873,0,925,7,6,0,0,5,0
+191412,X.X.X.X,2530715,77431,234321,3223,0,945,7,5,0,0,5,0
+201414,X.X.X.X,3108404,88260,320249,5731,0,967,7,4,0,0,5,0
+211418,X.X.X.X,3648846,99143,299444,6795,0,1027,7,4,0,0,5,0
+221424,X.X.X.X,4067954,107360,231144,4883,0,1084,7,4,0,0,5,0
+231429,X.X.X.X,4594459,119606,291845,6970,1,1135,7,3,0,0,5,0
+241434,X.X.X.X,5099883,127699,275954,4709,1,1186,7,4,0,0,5,0
+251438,X.X.X.X,5514005,137455,228792,5562,1,1226,7,4,0,0,5,0
+261444,X.X.X.X,6043522,151121,294635,7736,1,1267,8,3,0,0,5,0
+271445,X.X.X.X,6449094,162950,225398,6809,1,1320,7,4,0,0,5,0
+281451,X.X.X.X,6879735,175722,238855,7378,1,1386,7,5,0,0,5,0
+291453,X.X.X.X,7434470,187844,307009,6906,1,1448,7,4,0,0,5,0
+301457,X.X.X.X,7901734,196933,255850,5405,1,1535,7,6,0,0,5,0
+311461,X.X.X.X,8283214,208900,214480,6639,1,1580,7,5,0,0,5,0
+321466,X.X.X.X,8548135,212969,146739,2165,10,1606,7,5,0,0,5,0
+331501,X.X.X.X,8548135,212969,0,0,20,1616,7,5,0,0,5,0
+2018-07-08T01-48-11: Memory Allocations 
+ Current Allocations = 0 
+ Total Allocations = 1404112 
+ Max Allocations = 639 
+ Out of Pool Allocations = 8 
+ Out of Pool dealloc = 8 
+

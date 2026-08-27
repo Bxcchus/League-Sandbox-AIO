@@ -1,0 +1,53 @@
+2016-04-15T03-01-47: LogOut_File: : logfile started
+2016-04-15T03-01-47: Net Status: low-level initialize success.
+2016-04-15T03-01-47: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2016-04-15T03-01-47: time = time of logging
+2016-04-15T03-01-47: address = address of IP address
+2016-04-15T03-01-47: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2016-04-15T03-01-47: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2016-04-15T03-01-47: app_ctos = client to server bytes delta excluding overheads (app data only)
+2016-04-15T03-01-47: app_stoc = server to client bytes delta excluding overheads (app data only)
+2016-04-15T03-01-47: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2016-04-15T03-01-47: sent = number of packets sent. Spikes can indicate lag.
+2016-04-15T03-01-47: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2016-04-15T03-01-47: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2016-04-15T03-01-47: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2016-04-15T03-01-47: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2016-04-15T03-01-47: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2016-04-15T03-01-47: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2016-04-15T03-01-47: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+920,X.X.X.X,90,106,0,0,0,2,440,106,0,0,0,0
+11659,X.X.X.X,11586,1672,6800,534,0,28,28,27,0,0,2,0
+21661,X.X.X.X,20042,4807,9706,1189,0,55,13,4,0,1,5,0
+31711,X.X.X.X,21204,5182,862,99,7,68,11,5,0,1,5,0
+2016-04-15T03-02-27: 127.0.0.1 disconected.
+2016-04-15T03-02-27: ------------------------------------------------------------------------------
+2016-04-15T03-02-27: ===== START SUMMARY FOR: 127.0.0.1
+2016-04-15T03-02-27: ------------------------------------------------------------------------------
+2016-04-15T03-02-27:    Packet Type totals (<- in, out ->):
+2016-04-15T03-02-27:  Note that the count for PKT_Dummy is not an actual packet type, it indicates unknown packets that were not properly initialized with a type.
+2016-04-15T03-02-27: ID: 0 Count: 1 Bytes: 32 <- |
+2016-04-15T03-02-27: ID: 8 Count: 3 Bytes: 39 -> ||
+2016-04-15T03-02-27: ID: 17 Count: 1 Bytes: 5 <- |
+2016-04-15T03-02-27: ID: 20 Count: 3 Bytes: 15 -> ||
+2016-04-15T03-02-27: ID: 21 Count: 3 Bytes: 24 <- |
+2016-04-15T03-02-27: ID: 22 Count: 11 Bytes: 330 -> |||
+2016-04-15T03-02-27: ID: 42 Count: 1 Bytes: 535 <- |
+2016-04-15T03-02-27: ID: 44 Count: 6 Bytes: 36 <- |
+2016-04-15T03-02-27: ID: 46 Count: 6 Bytes: 204 -> |||
+2016-04-15T03-02-27: ID: 57 Count: 1 Bytes: 7 -> |
+2016-04-15T03-02-27: ID: 69 Count: 2 Bytes: 28 <- |
+2016-04-15T03-02-27: ID: 71 Count: 1 Bytes: 6 -> |
+2016-04-15T03-02-27: ID: 76 Count: 1 Bytes: 203 <- |
+2016-04-15T03-02-27: ID: 82 Count: 1 Bytes: 21 -> |
+2016-04-15T03-02-27: ID: 84 Count: 1 Bytes: 5185 <- |
+2016-04-15T03-02-27: ID: 86 Count: 1 Bytes: 25 -> |
+2016-04-15T03-02-27: ID: 92 Count: 1 Bytes: 5 <- |
+2016-04-15T03-02-27: ID: 97 Count: 26 Bytes: 630 <- |
+2016-04-15T03-02-27: ID: 98 Count: 1 Bytes: 7 <- |
+2016-04-15T03-02-27: ID: 100 Count: 1 Bytes: 9 -> |
+2016-04-15T03-02-27: ID: 101 Count: 1 Bytes: 24 <- |
+2016-04-15T03-02-27: ID: 102 Count: 1 Bytes: 28 <- |
+2016-04-15T03-02-27: ID: 103 Count: 1 Bytes: 401 <- |
+2016-04-15T03-02-27: ID: 104 Count: 1 Bytes: 66 -> |
+2016-04-15T03-02-27: ID: 111 

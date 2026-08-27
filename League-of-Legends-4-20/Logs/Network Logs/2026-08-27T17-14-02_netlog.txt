@@ -1,0 +1,53 @@
+2026-08-27T17-14-05: LogOut_File: : logfile started
+2026-08-27T17-14-05: Net Status: low-level initialize success.
+2026-08-27T17-14-05: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2026-08-27T17-14-05: time = time of logging
+2026-08-27T17-14-05: address = address of IP address
+2026-08-27T17-14-05: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2026-08-27T17-14-05: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2026-08-27T17-14-05: app_ctos = client to server bytes delta excluding overheads (app data only)
+2026-08-27T17-14-05: app_stoc = server to client bytes delta excluding overheads (app data only)
+2026-08-27T17-14-05: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2026-08-27T17-14-05: sent = number of packets sent. Spikes can indicate lag.
+2026-08-27T17-14-05: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2026-08-27T17-14-05: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2026-08-27T17-14-05: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2026-08-27T17-14-05: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2026-08-27T17-14-05: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2026-08-27T17-14-05: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2026-08-27T17-14-05: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+996,X.X.X.X,82,106,0,0,0,2,438,109,0,0,0,0
+11496,X.X.X.X,38001,3388,13754,718,0,30,14,21,0,0,3,0
+21500,X.X.X.X,51993,6760,32957,1184,1,65,10,13,0,0,8,0
+31505,X.X.X.X,84121,14198,25031,2092,7,130,42,36,0,0,8,0
+41516,X.X.X.X,107195,26095,16098,4461,7,158,7,7,0,0,8,0
+51517,X.X.X.X,135282,40042,19899,5139,7,186,7,7,0,0,8,0
+61534,X.X.X.X,159636,54480,16118,5544,7,205,7,7,0,0,8,0
+71580,X.X.X.X,187206,70908,18138,6114,7,225,7,7,0,0,8,0
+81619,X.X.X.X,214219,87336,17631,6154,7,245,7,7,0,0,8,0
+91623,X.X.X.X,240586,103088,17313,5846,7,265,7,7,0,0,8,0
+101664,X.X.X.X,251761,105779,8905,865,7,285,7,7,0,0,8,0
+111670,X.X.X.X,261584,108003,8051,694,7,306,7,7,0,0,8,0
+121714,X.X.X.X,266448,109545,3386,620,7,327,7,7,0,0,8,0
+131743,X.X.X.X,303315,117903,30952,2620,7,347,8,10,0,0,8,0
+141746,X.X.X.X,456606,142010,136748,7057,7,367,7,5,0,0,8,0
+151752,X.X.X.X,727884,172240,251476,8492,7,387,9,5,0,0,8,0
+161759,X.X.X.X,951799,200421,206217,8175,7,408,7,7,0,0,8,0
+171760,X.X.X.X,1164745,227511,194443,7140,8,428,7,7,0,0,8,0
+181791,X.X.X.X,1457664,260884,269375,7275,8,448,7,5,0,0,8,0
+191835,X.X.X.X,1771605,293641,293137,8631,8,469,7,4,0,0,8,0
+201851,X.X.X.X,1970562,319980,180234,6685,10,490,13,8,0,0,8,0
+211871,X.X.X.X,2199124,348372,206416,6478,11,511,11,9,0,0,8,0
+221887,X.X.X.X,2542318,384154,318219,7652,12,532,14,15,0,0,8,0
+231891,X.X.X.X,2828565,416528,261018,7948,12,552,7,4,0,0,8,0
+241906,X.X.X.X,3088798,447680,238088,7566,14,574,10,7,0,0,8,0
+251935,X.X.X.X,3397048,481421,279544,7691,16,596,12,15,0,0,8,0
+261947,X.X.X.X,3761296,517941,338638,8246,16,616,8,6,0,0,8,0
+271994,X.X.X.X,4025988,548801,244121,7650,16,636,7,5,0,0,8,0
+282013,X.X.X.X,4285448,578142,239523,7083,17,657,7,7,0,0,8,0
+292068,X.X.X.X,4589255,611884,277321,7572,19,679,16,16,0,0,8,0
+302081,X.X.X.X,4876732,643014,265224,7864,20,700,17,17,0,0,8,0
+312125,X.X.X.X,5108247,672396,211719,6864,20,721,7,7,0,0,8,0
+322163,X.X.X.X,5282649,696435,157071,5713,21,741,34,33,0,0,8,0
+332182,X.X.X.X,5596102,729544,283649,7135,21,760,19,22,0,0,8,0
+342192,X.X.X.

@@ -1,0 +1,6 @@
+tr "flash_link_server_status" = "http://br.leagueoflegends.com/pt-br/service-status"
+tr "flash_link_news" = "http://br.leagueoflegends.com/pt-br/news"
+tr "flash_link_release_notes" = "http://br.leagueoflegends.com/pt-br/news/release-notes"
+
+tr "url_host_news" = "ll.leagueoflegends.com"
+tr "url_path_news" = "/pages/launcher/br-pt"

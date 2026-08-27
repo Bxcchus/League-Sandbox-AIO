@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Platforms>AnyCPU;x86</Platforms>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\GameServerCore\GameServerCore.csproj" />
+    <ProjectReference Include="..\..\GameServerLib\GameServerLib.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- AudiTT stores buff sources below each champion. They are integrated
+         into the package-level Buffs directory, so do not compile the raw
+         nested copies a second time. -->
+    <Compile Remove="Characters\**\Buffs\**\*.cs" />
+
+    <!-- These files are alternate/legacy copies included in the upstream
+         archive and define the same script classes as the selected files. -->
+    <Compile Remove="Characters\Fizz\Fizz\**\*.cs" />
+    <Compile Remove="Characters\Irelia\R1.cs" />
+    <Compile Remove="Characters\Sion\Passive.cs" />
+  </ItemGroup>
+
+</Project>

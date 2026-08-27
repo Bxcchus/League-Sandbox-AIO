@@ -1,0 +1,11 @@
+﻿Prawa autorskie (c) 2008-2011 Marshall A. Greenblatt.  Częściowe prawa autorskie (c) 2006-2009 Google Inc.  Wszystkie prawa zastrzeżone.
+
+Redystrybucja i wykorzystanie w postaci źródłowej i binarnej, z modyfikacjami lub bez, są dozwolone pod warunkiem, że spełnione są następujące warunki:
+
+1. Redystrybucja kodu źródłowego musi zawierać powyższą informację o prawach autorskich, niniejszą listę warunków i poniższe zrzeczenie.
+
+2. Redystrybucja w formie binarnej musi zawierać powyższą informację o prawach autorskich, niniejsza listę warunków i poniższe zrzeczenie w dokumentacji i / lub innych materiałów dołączonych do dystrybucji.
+
+3. Ani nazwa właściciela praw autorskich, ani nazwy wspólników firmy nie mogą być używane do celów promowania produktów powstałych na podstawie niniejszego oprogramowania bez wcześniejszej wyraźnej, pisemnej zgody.
+
+TO OPROGRAMOWANIE ZOSTAJE DOSTARCZONE PRZEZ WŁAŚCICIELI PRAW AUTORSKICH I WSPÓLNIKÓW „TAK, JAK JEST” I WSZELKIE GWARANCJE WYRANE I DOROZUMIANE, W TYM GWARANCJE ZGODNOŚCI Z PRZEZNACZENIEM LUB PRZYDATNOŒCI DO OKREŚLONEGO CELU, SĄ WYŁĄCZONE. WŁAŚCICIEL PRAW AUTORSKICH ANI WSPÓLNICY NIE PONOSZĄ ODPOWIEDZIALNOŚCI ZA SZKODY BEZPOŚREDNIE, POŚREDNIE, UBOCZNE, SZCZEGÓLNE I NASTĘPCZE ANI STRATY Z TYTUŁU ODSZKODOWANIA RETORSYJNEGO (W TYM NABYCIE TOWARÓW I USŁUG ZASTĘPCZYCH, UTRATĘ UŻYTECZNOŚCI, DANYCH LUB ZYSKÓW BĄDŹ TYMCZASOWE ZAPRZESTANIE DZIAŁALNOŚCI), NIEZALEŻNIE OD SPOSOBU WYRZĄDZENIA SZKÓD I RODZAJU ODPOWIEDZIALNOŚCI – UMOWNEJ, ABSOLUTNEJ CZY DELIKTOWEJ (WŁĄCZAJĄC ZANIEDBANIA) – WYNIKAJĄCE Z UŻYTKOWANIA OPROGRAMOWANIA, NAWET JEŚLI POINFORMOWANO O MOŻLIWOŚCI POWSTANIA TAKICH SZKÓD.

@@ -1,0 +1,16 @@
+English, en_US
+Português, pt_BR
+Türkçe, tr_TR
+English, en_GB
+Deutsch, de_DE
+Español, es_ES
+Français, fr_FR
+Italiano, it_IT
+Čeština, cs_CZ
+Ελληνικά, el_GR
+Magyar, hu_HU
+Polski, pl_PL
+Română, ro_RO
+Русский, ru_RU
+Español, es_MX
+English, en_AU

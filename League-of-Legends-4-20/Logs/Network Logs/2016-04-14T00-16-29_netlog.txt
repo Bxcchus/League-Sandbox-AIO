@@ -1,0 +1,57 @@
+2016-04-14T00-16-30: LogOut_File: : logfile started
+2016-04-14T00-16-30: Net Status: low-level initialize success.
+2016-04-14T00-16-30: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2016-04-14T00-16-30: time = time of logging
+2016-04-14T00-16-30: address = address of IP address
+2016-04-14T00-16-30: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2016-04-14T00-16-30: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2016-04-14T00-16-30: app_ctos = client to server bytes delta excluding overheads (app data only)
+2016-04-14T00-16-30: app_stoc = server to client bytes delta excluding overheads (app data only)
+2016-04-14T00-16-30: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2016-04-14T00-16-30: sent = number of packets sent. Spikes can indicate lag.
+2016-04-14T00-16-30: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2016-04-14T00-16-30: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2016-04-14T00-16-30: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2016-04-14T00-16-30: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2016-04-14T00-16-30: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2016-04-14T00-16-30: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2016-04-14T00-16-30: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+1066,X.X.X.X,104,110,0,0,0,3,386,174,0,0,0,0
+11388,X.X.X.X,11630,1689,6241,509,0,30,24,23,0,0,1,0
+21389,X.X.X.X,19517,4765,9772,1266,0,60,13,3,0,0,5,0
+31390,X.X.X.X,45146,12229,21387,3376,0,116,10,3,0,0,5,0
+41396,X.X.X.X,48942,13775,2674,634,0,141,9,3,0,0,5,0
+51402,X.X.X.X,69299,20877,14799,1550,0,165,9,3,0,0,5,0
+61405,X.X.X.X,114885,38835,33051,4476,0,207,9,5,0,0,5,0
+71409,X.X.X.X,161120,56051,34199,4928,0,279,7,4,0,0,5,0
+81413,X.X.X.X,224699,77906,48947,6077,0,346,9,3,0,0,5,0
+91418,X.X.X.X,284031,100053,43212,4347,0,369,9,5,0,0,5,0
+101421,X.X.X.X,325419,115575,29076,2746,0,392,9,4,0,0,5,0
+111423,X.X.X.X,376333,137299,36910,5026,0,417,9,4,0,0,5,0
+121445,X.X.X.X,444618,164660,49705,5605,0,438,8,5,0,0,5,0
+131449,X.X.X.X,492696,183938,33938,3538,0,459,7,4,0,0,5,0
+141453,X.X.X.X,539509,202512,33425,3556,0,479,9,3,0,0,5,0
+151476,X.X.X.X,607667,229622,49738,5552,0,498,9,3,0,0,5,0
+161528,X.X.X.X,657051,249801,35116,3849,0,518,9,3,0,0,5,0
+171566,X.X.X.X,697359,264527,28504,2292,0,538,9,4,0,0,5,0
+181583,X.X.X.X,758580,287761,44503,4360,0,558,8,5,0,0,5,0
+191638,X.X.X.X,807950,306444,35040,2981,0,577,9,3,0,0,5,0
+201689,X.X.X.X,852034,323556,31380,3166,0,597,8,5,0,0,5,0
+211725,X.X.X.X,913002,347434,44220,4716,0,617,9,3,0,0,5,0
+221745,X.X.X.X,961899,366728,34921,3564,0,637,9,4,0,0,5,0
+231780,X.X.X.X,1007360,384255,32569,3161,0,656,9,3,0,0,5,0
+241795,X.X.X.X,1062980,405180,40592,3827,0,676,9,3,0,0,5,0
+251823,X.X.X.X,1107921,422353,31713,2867,0,696,9,3,0,0,5,0
+261872,X.X.X.X,1157848,444126,36571,4971,0,716,9,3,0,0,5,0
+271901,X.X.X.X,1213336,465866,40276,4078,0,735,8,5,0,0,5,0
+281912,X.X.X.X,1256797,483503,31139,3635,0,755,9,3,0,0,5,0
+291954,X.X.X.X,1291577,498230,24712,3427,0,774,9,3,0,0,5,0
+301997,X.X.X.X,1300796,501319,6307,1593,0,794,9,3,0,0,5,0
+311998,X.X.X.X,1308276,504221,4750,1604,0,818,9,3,0,0,5,0
+2016-04-14T00-21-47: Memory Allocations 
+ Current Allocations = 106 
+ Total Allocations = 204836 
+ Max Allocations = 319 
+ Out of Pool Allocations = 8 
+ Out of Pool dealloc = 8 
+

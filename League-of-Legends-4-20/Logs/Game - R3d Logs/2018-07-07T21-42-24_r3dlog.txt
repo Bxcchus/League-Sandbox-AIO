@@ -1,0 +1,896 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2018-07-07T21:42:24.132
+000000.005|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS"
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.014|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/projects/lol_game_client/releases/0.0.1.7/releasemanifest")
+000000.332|       0.0000kb|      0.0000kb added| ALWAYS| Loaded RADS dynamic library: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.350|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.350|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.351|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.351|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000000.429|       0.0000kb|      0.0000kb added|   WARN| Couldn't initialize minidump file. _wmkdir returned 13
+000000.452|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000000.455|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000001.475|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000001.475|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000001.481|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000001.481|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000001.481|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000001.590|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000001.590|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x006a081c) enter
+000001.605|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 8  Professional, x64
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| CPU: GenuineIntel, Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, Intel64 Family 6 Model 94 Stepping 3, 3504 (0 core)
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3553
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| Display info: NVIDIA GeForce GTX 960 4293918720 24.21.13.9744
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8  Professional, x64","cpu":"GenuineIntel","cpu_processor":"Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz","cpu_identifier":"Intel64 Family 6 Model 94 Stepping 3","cpu_topology":4,"gpu":"NVIDIA GeForce GTX 960","video_memory":"4293918720","driver_version":"24.21.13.9744","physical_memory":17179869184}
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 8  Professional, x64
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: NVIDIA GeForce GTX 960
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 4293918720
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 24.21.13.9744
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: GenuineIntel
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: Intel64 Family 6 Model 94 Stepping 3
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3504
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 4 Core
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.639|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000001.700|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000001.703|       0.0000kb|      0.0000kb added| ALWAYS| IME file, 'E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml', is optional. The following error is expected.
+000001.703|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml" because it's not in the manifest.
+000001.703|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml
+000001.707|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\projects/lol_air_client/releases/0.0.1.119/deploy/preferences/
+000001.709|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000001.709|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(6cc7a0) and resolution (1920 x 1080) 
+000001.709|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(6cc7a0) and resolution (960 x 540) 
+000001.719|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000001.719|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=4) enter
+000001.719|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000001.878|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000002.005|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000002.247|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000002.290|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000002.491|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000002.491|       0.0000kb|      0.0000kb added| ALWAYS| Received client ID
+000002.492|       0.0000kb|      0.0000kb added| ALWAYS| Set focus to app
+000002.492|       0.0000kb|      0.0000kb added| ALWAYS| Input started
+000002.508|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req started
+000002.541|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req ended
+000002.541|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for server response...
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| Initializing GameModeComponents for mode=CLASSIC.
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = default.
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = LoadingScreenBackground(Data).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = Clouds(Clouds).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = FOWTexture(FogOfWarOverlay.dds).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = HudSkin(Default).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = NavigationMesh(AIPath).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MiniMapTexture(2DLevelMinimap.dds).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MapMusic(None).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = BotSummonerIcon(0).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = EndOfGameScreenText(Default).
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = CLASSIC.
+000002.642|       0.0000kb|      0.0000kb added| ALWAYS| netUID: 0 defaultname
+000002.648|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Started
+000002.881|       0.0000kb|      0.0000kb added|   WARN| General performance warning: more than 11 texture samplers are being used simultanously.
+Please bump this number if this is intentional up to 16 (inclusive)
+000002.928|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Entered
+000002.928|       0.0000kb|      0.0000kb added| ALWAYS| gRenderPipeline
+000002.935|       0.0000kb|      0.0000kb added| ALWAYS| CreateParticleSystemManager
+000003.297|       0.0000kb|      0.0000kb added| ALWAYS| CreateAudioManager: Create audio manager Wwise.
+000003.321|       0.0000kb|      0.0000kb added| ALWAYS| AudioManager: Wwise Version v2013.2.2 initialized.
+000003.917|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <nexus_diff.dds> *********
+000003.917|       0.0000kb|      0.0000kb added|  ERROR| Failed to load nexus_diff.dds
+000003.917|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: nexus_diff.dds - not found. Dummy texture created.
+000003.917|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_nexus_diff.dds> *********
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_nexus_diff.dds
+000003.918|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_nexus_diff.dds - not found. Dummy texture created.
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <inhibitor_diff.dds> *********
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Failed to load inhibitor_diff.dds
+000003.918|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: inhibitor_diff.dds - not found. Dummy texture created.
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_inhibitor_diff.dds> *********
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_inhibitor_diff.dds
+000003.918|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_inhibitor_diff.dds - not found. Dummy texture created.
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <grass_ground_new_dark.dds> *********
+000003.918|       0.0000kb|      0.0000kb added|  ERROR| Failed to load grass_ground_new_dark.dds
+000003.918|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: grass_ground_new_dark.dds - not found. Dummy texture created.
+000003.951|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BaseSpell.lua" because it's not in the manifest.
+000003.951|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BaseSpell.lua" because it's not in the manifest.
+000003.962|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretShield.lua" because it's not in the manifest.
+000003.962|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretShield.lua" because it's not in the manifest.
+000003.963|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PromoteMeBuff.lua" because it's not in the manifest.
+000003.963|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PromoteMeBuff.lua" because it's not in the manifest.
+000003.983|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/StructureDamageReduction.lua" because it's not in the manifest.
+000003.983|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/StructureDamageReduction.lua" because it's not in the manifest.
+000003.984|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SuperMinionAura.lua" because it's not in the manifest.
+000003.984|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SuperMinionAura.lua" because it's not in the manifest.
+000004.095|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretBonus.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretBonus.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretBonusHealth.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretBonusHealth.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/NegativeTurretDelta.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/NegativeTurretDelta.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PositiveTurretDelta.lua" because it's not in the manifest.
+000004.096|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PositiveTurretDelta.lua" because it's not in the manifest.
+000004.097|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretBackdoorBonus.lua" because it's not in the manifest.
+000004.097|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretBackdoorBonus.lua" because it's not in the manifest.
+000004.097|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretFortification.dds> *********
+000004.097|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretFortification.dds
+000004.097|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretFortification.dds - not found. Dummy texture created.
+000004.097|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretDamageMarker.lua" because it's not in the manifest.
+000004.097|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TurretDamageMarker.lua" because it's not in the manifest.
+000004.099|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Root.lua" because it's not in the manifest.
+000004.099|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Root.lua" because it's not in the manifest.
+000004.123|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/outerTurretBonus.lua" because it's not in the manifest.
+000004.123|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretInitialArmor.dds> *********
+000004.123|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretInitialArmor.dds
+000004.123|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretInitialArmor.dds - not found. Dummy texture created.
+000004.123|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/outerTurretBonus.lua" because it's not in the manifest.
+000004.170|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RespawnClassic.lua" because it's not in the manifest.
+000004.170|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RespawnClassic.lua" because it's not in the manifest.
+000004.170|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SpellShieldMarker.lua" because it's not in the manifest.
+000004.170|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SpellShieldMarker.lua" because it's not in the manifest.
+000004.224|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Characters/Lizard/Scripts/CharScriptLizard.lua" because it's not in the manifest.
+000004.228|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/DragonBasicAttack.lua" because it's not in the manifest.
+000004.229|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/DragonBasicAttack.lua" because it's not in the manifest.
+000004.239|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/DragonBurning.lua" because it's not in the manifest.
+000004.240|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/DragonBurning.lua" because it's not in the manifest.
+000004.266|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MonsterMinionDamageAmp.lua" because it's not in the manifest.
+000004.266|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MonsterMinionDamageAmp.lua" because it's not in the manifest.
+000004.295|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AgitatedIdle.lua" because it's not in the manifest.
+000004.295|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AgitatedIdle.lua" because it's not in the manifest.
+000004.295|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MonsterBankBig.lua" because it's not in the manifest.
+000004.296|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MonsterBankBig.lua" because it's not in the manifest.
+000004.311|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/ExpirationTimer.lua" because it's not in the manifest.
+000004.312|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/ExpirationTimer.lua" because it's not in the manifest.
+000004.377|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AncientGolemAttackSwap.lua" because it's not in the manifest.
+000004.377|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AncientGolemAttackSwap.lua" because it's not in the manifest.
+000004.412|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/CrestOfTheAncientGolemLines.lua" because it's not in the manifest.
+000004.414|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/CrestOfTheAncientGolemLines.lua" because it's not in the manifest.
+000004.553|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LizardElderAttackSwap.lua" because it's not in the manifest.
+000004.553|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LizardElderAttackSwap.lua" because it's not in the manifest.
+000004.611|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/S5_StateCheck.lua" because it's not in the manifest.
+000004.611|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/S5_StateCheck.lua" because it's not in the manifest.
+000004.612|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BlessingOfTheLizardElderLines.lua" because it's not in the manifest.
+000004.614|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BlessingOfTheLizardElderLines.lua" because it's not in the manifest.
+000004.614|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Burning.lua" because it's not in the manifest.
+000004.615|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Burning.lua" because it's not in the manifest.
+000004.615|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BlessingOfTheLizardElderSlow.lua" because it's not in the manifest.
+000004.616|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BlessingOfTheLizardElderSlow.lua" because it's not in the manifest.
+000004.733|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SweepingBlow.lua" because it's not in the manifest.
+000004.733|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SweepingBlow.lua" because it's not in the manifest.
+000004.733|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Propel.lua" because it's not in the manifest.
+000004.734|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Propel.lua" because it's not in the manifest.
+000004.746|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WrathDebuff.lua" because it's not in the manifest.
+000004.746|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WrathDebuff.lua" because it's not in the manifest.
+000004.772|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/RecallEnds.lua" because it's not in the manifest.
+000004.772|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/RecallEnds.lua" because it's not in the manifest.
+000004.781|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BaronNashorLines.lua" because it's not in the manifest.
+000004.782|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BaronNashorLines.lua" because it's not in the manifest.
+000004.794|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ExaltedWithBaronNashorMinionCharge.lua" because it's not in the manifest.
+000004.795|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ExaltedWithBaronNashorMinionCharge.lua" because it's not in the manifest.
+000004.796|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ActionTimer2.lua" because it's not in the manifest.
+000004.796|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ActionTimer2.lua" because it's not in the manifest.
+000004.797|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WrathTimer.lua" because it's not in the manifest.
+000004.797|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WrathTimer.lua" because it's not in the manifest.
+000004.797|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WrathCooldown.lua" because it's not in the manifest.
+000004.797|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WrathCooldown.lua" because it's not in the manifest.
+000004.797|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SweepTimer.lua" because it's not in the manifest.
+000004.797|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SweepTimer.lua" because it's not in the manifest.
+000004.812|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Characters/testcube/Scripts/CharScriptTestCube.lua" because it's not in the manifest.
+000004.815|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WormCooldown.lua" because it's not in the manifest.
+000004.815|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WormCooldown.lua" because it's not in the manifest.
+000005.250|       0.0000kb|      0.0000kb added| ALWAYS| Begin Game Object Update
+000005.418|       0.0000kb|      0.0000kb added| ALWAYS| End Game Object Update
+000005.427|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OrderTurretShrineBasicAttack.lua" because it's not in the manifest.
+000005.439|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OrderTurretShrineBasicAttack.lua" because it's not in the manifest.
+000005.447|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ChaosTurretShrineBasicAttack.lua" because it's not in the manifest.
+000005.448|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ChaosTurretShrineBasicAttack.lua" because it's not in the manifest.
+000005.465|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMinionShred.lua" because it's not in the manifest.
+000005.466|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMinionShred.lua" because it's not in the manifest.
+000005.466|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMonsterDamageAmp.lua" because it's not in the manifest.
+000005.466|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMonsterDamageAmp.lua" because it's not in the manifest.
+000005.466|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMonsterBurn.lua" because it's not in the manifest.
+000005.467|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMonsterBurn.lua" because it's not in the manifest.
+000005.467|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMonsterRegen.lua" because it's not in the manifest.
+000005.469|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMonsterRegen.lua" because it's not in the manifest.
+000005.471|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1054.lua" because it's not in the manifest.
+000005.471|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1054.lua" because it's not in the manifest.
+000005.471|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1055.lua" because it's not in the manifest.
+000005.471|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1055.lua" because it's not in the manifest.
+000005.471|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1056.lua" because it's not in the manifest.
+000005.471|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1056.lua" because it's not in the manifest.
+000005.472|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/DoranT2Health.lua" because it's not in the manifest.
+000005.472|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/DoranT2Health.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1074.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1074.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1075.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1075.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1076.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1076.lua" because it's not in the manifest.
+000005.473|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemEntrap.lua" because it's not in the manifest.
+000005.474|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemEntrap.lua" because it's not in the manifest.
+000005.474|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1500.lua" because it's not in the manifest.
+000005.474|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1500.lua" because it's not in the manifest.
+000005.474|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1501.lua" because it's not in the manifest.
+000005.474|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1501.lua" because it's not in the manifest.
+000005.475|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1502.lua" because it's not in the manifest.
+000005.475|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1502.lua" because it's not in the manifest.
+000005.477|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1504.lua" because it's not in the manifest.
+000005.477|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1504.lua" because it's not in the manifest.
+000005.477|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1505.lua" because it's not in the manifest.
+000005.477|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/1505.lua" because it's not in the manifest.
+000005.478|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Potion_Internal.lua" because it's not in the manifest.
+000005.478|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Potion_Internal.lua" because it's not in the manifest.
+000005.487|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PotionOfGiantStrength.lua" because it's not in the manifest.
+000005.488|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PotionOfGiantStrength.lua" because it's not in the manifest.
+000005.488|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PotionOfElusiveness.lua" because it's not in the manifest.
+000005.489|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PotionOfElusiveness.lua" because it's not in the manifest.
+000005.489|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PotionOfBrilliance.lua" because it's not in the manifest.
+000005.490|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PotionOfBrilliance.lua" because it's not in the manifest.
+000005.491|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfRage.lua" because it's not in the manifest.
+000005.491|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfRage.lua" because it's not in the manifest.
+000005.491|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Flask_Internal.lua" because it's not in the manifest.
+000005.491|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Flask_Internal.lua" because it's not in the manifest.
+000005.492|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemCrystalFlaskCharge.lua" because it's not in the manifest.
+000005.492|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemCrystalFlaskCharge.lua" because it's not in the manifest.
+000005.501|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/VisionWardAudioBuff.lua" because it's not in the manifest.
+000005.501|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/VisionWardAudioBuff.lua" because it's not in the manifest.
+000005.501|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SharedVisionWardBuff.lua" because it's not in the manifest.
+000005.501|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SharedVisionWardBuff.lua" because it's not in the manifest.
+000005.502|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SharedStealthWardBuff.lua" because it's not in the manifest.
+000005.502|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SharedStealthWardBuff.lua" because it's not in the manifest.
+000005.510|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WardBounty.lua" because it's not in the manifest.
+000005.510|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WardBounty.lua" because it's not in the manifest.
+000005.540|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MasteryScoutBuff.lua" because it's not in the manifest.
+000005.541|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Summoner_fortify.dds> *********
+000005.541|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Summoner_fortify.dds
+000005.541|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Summoner_fortify.dds - not found. Dummy texture created.
+000005.541|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MasteryScoutBuff.lua" because it's not in the manifest.
+000005.544|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/2043.lua" because it's not in the manifest.
+000005.544|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/2043.lua" because it's not in the manifest.
+000005.544|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SightWardStealth.lua" because it's not in the manifest.
+000005.545|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SightWardStealth.lua" because it's not in the manifest.
+000005.548|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SightWardAudioBuff.lua" because it's not in the manifest.
+000005.548|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SightWardAudioBuff.lua" because it's not in the manifest.
+000005.549|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/2044.lua" because it's not in the manifest.
+000005.549|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/2044.lua" because it's not in the manifest.
+000005.550|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemGhostWardCharge.lua" because it's not in the manifest.
+000005.550|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemGhostWardCharge.lua" because it's not in the manifest.
+000005.552|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinCaptureChannelCooldownBuff.lua" because it's not in the manifest.
+000005.552|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinCaptureChannelCooldownBuff.lua" because it's not in the manifest.
+000005.553|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinCaptureInterrupt.lua" because it's not in the manifest.
+000005.553|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinCaptureInterrupt.lua" because it's not in the manifest.
+000005.553|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinCaptureImmobile.lua" because it's not in the manifest.
+000005.553|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinCaptureImmobile.lua" because it's not in the manifest.
+000005.556|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Haste.lua" because it's not in the manifest.
+000005.558|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Haste.lua" because it's not in the manifest.
+000005.558|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinGuardianSuppressionOrder.lua" because it's not in the manifest.
+000005.558|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinGuardianSuppressionOrder.lua" because it's not in the manifest.
+000005.559|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinGuardianSuppressionChaos.lua" because it's not in the manifest.
+000005.559|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinGuardianSuppressionChaos.lua" because it's not in the manifest.
+000005.560|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinScoreNinja.lua" because it's not in the manifest.
+000005.560|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinScoreNinja.lua" because it's not in the manifest.
+000005.560|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBombTickOrder.lua" because it's not in the manifest.
+000005.560|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBombTickOrder.lua" because it's not in the manifest.
+000005.560|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBombTickChaos.lua" because it's not in the manifest.
+000005.560|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBombTickChaos.lua" because it's not in the manifest.
+000005.566|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfIllumination.lua" because it's not in the manifest.
+000005.567|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfIllumination.lua" because it's not in the manifest.
+000005.567|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Stealth.lua" because it's not in the manifest.
+000005.568|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Stealth.lua" because it's not in the manifest.
+000005.568|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/2050.lua" because it's not in the manifest.
+000005.568|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/2050.lua" because it's not in the manifest.
+000005.572|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemHornDetector.lua" because it's not in the manifest.
+000005.572|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemHornDetector.lua" because it's not in the manifest.
+000005.572|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HowlingAbyssPoroCooldown.lua" because it's not in the manifest.
+000005.573|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HowlingAbyssPoroCooldown.lua" because it's not in the manifest.
+000005.573|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoroSnackGrow.lua" because it's not in the manifest.
+000005.573|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoroSnackGrow.lua" because it's not in the manifest.
+000005.573|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HowlingAbyssPoroAction.lua" because it's not in the manifest.
+000005.573|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HowlingAbyssPoroAction.lua" because it's not in the manifest.
+000005.587|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HowlingAbyssPoroAnimation1.lua" because it's not in the manifest.
+000005.587|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HowlingAbyssPoroAnimation1.lua" because it's not in the manifest.
+000005.587|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Scripts/Poro.lua" because it's not in the manifest.
+000005.587|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Scripts/Poro.lua" because it's not in the manifest.
+000005.590|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoroSnackInventory.lua" because it's not in the manifest.
+000005.590|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2051_Guardians_Horn_Counter.dds> *********
+000005.590|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2051_Guardians_Horn_Counter.dds
+000005.590|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2051_Guardians_Horn_Counter.dds - not found. Dummy texture created.
+000005.590|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoroSnackInventory.lua" because it's not in the manifest.
+000005.590|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoroSnackDetected.lua" because it's not in the manifest.
+000005.590|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoroSnackDetected.lua" because it's not in the manifest.
+000005.591|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemVoidSpeed.lua" because it's not in the manifest.
+000005.591|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemVoidSpeed.lua" because it's not in the manifest.
+000005.591|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfRuinAura.lua" because it's not in the manifest.
+000005.592|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfRuinAura.lua" because it's not in the manifest.
+000005.600|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfIronTrailBuff.lua" because it's not in the manifest.
+000005.600|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfIronTrailBuff.lua" because it's not in the manifest.
+000005.609|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfWrath.lua" because it's not in the manifest.
+000005.612|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ElixirOfWrath.lua" because it's not in the manifest.
+000005.612|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AbyssalScepterAuraSelf.lua" because it's not in the manifest.
+000005.614|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AbyssalScepterAuraSelf.lua" because it's not in the manifest.
+000005.614|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AbyssalScepterAura.lua" because it's not in the manifest.
+000005.614|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AbyssalScepterAura.lua" because it's not in the manifest.
+000005.615|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ArchAngelsDummySpell.lua" because it's not in the manifest.
+000005.615|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <055_Borses_Staff_of_Apocalypse.tga> *********
+000005.615|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 055_Borses_Staff_of_Apocalypse.tga
+000005.615|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 055_Borses_Staff_of_Apocalypse.tga - not found. Dummy texture created.
+000005.627|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ArchAngelsDummySpell.lua" because it's not in the manifest.
+000005.627|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AAAPConversion.lua" because it's not in the manifest.
+000005.627|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AAAPConversion.lua" because it's not in the manifest.
+000005.629|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ManamuneDummySpell.lua" because it's not in the manifest.
+000005.629|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ManamuneDummySpell.lua" because it's not in the manifest.
+000005.629|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ManamuneAttackConversion.lua" because it's not in the manifest.
+000005.629|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ManamuneAttackConversion.lua" because it's not in the manifest.
+000005.630|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AtmasImpalerDummySpell.lua" because it's not in the manifest.
+000005.630|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AtmasImpalerDummySpell.lua" because it's not in the manifest.
+000005.630|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AtmasImpaler.lua" because it's not in the manifest.
+000005.630|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AtmasImpaler.lua" because it's not in the manifest.
+000005.634|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3020.lua" because it's not in the manifest.
+000005.634|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3020.lua" because it's not in the manifest.
+000005.635|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_30Slow.lua" because it's not in the manifest.
+000005.635|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_30Slow.lua" because it's not in the manifest.
+000005.635|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_40Slow.lua" because it's not in the manifest.
+000005.635|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_40Slow.lua" because it's not in the manifest.
+000005.635|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSlow.lua" because it's not in the manifest.
+000005.636|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSlow.lua" because it's not in the manifest.
+000005.638|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-wraith_flicker.tga> *********
+000005.638|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-wraith_flicker.tga
+000005.638|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wraith_flicker.tga - not found. Dummy texture created.
+000005.640|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<wraith_hit.sco>.
+000005.641|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemTwinShadowsCDR.lua" because it's not in the manifest.
+000005.642|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemTwinShadowsCDR.lua" because it's not in the manifest.
+000005.642|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/GlacialShroud.lua" because it's not in the manifest.
+000005.642|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/GlacialShroud.lua" because it's not in the manifest.
+000005.651|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_20Slow.lua" because it's not in the manifest.
+000005.652|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_20Slow.lua" because it's not in the manifest.
+000005.652|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_35Slow.lua" because it's not in the manifest.
+000005.652|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_35Slow.lua" because it's not in the manifest.
+000005.652|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SheenDelay.lua" because it's not in the manifest.
+000005.652|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SheenDelay.lua" because it's not in the manifest.
+000005.660|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RodOfAgesDummySpell.lua" because it's not in the manifest.
+000005.661|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RodOfAgesDummySpell.lua" because it's not in the manifest.
+000005.662|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ChaliceOfHarmony.lua" because it's not in the manifest.
+000005.662|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ChaliceOfHarmony.lua" because it's not in the manifest.
+000005.663|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/InfinityEdge.lua" because it's not in the manifest.
+000005.663|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/InfinityEdge.lua" because it's not in the manifest.
+000005.663|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LastWhisper.lua" because it's not in the manifest.
+000005.663|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LastWhisper.lua" because it's not in the manifest.
+000005.685|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPhageMiniSpeed.lua" because it's not in the manifest.
+000005.686|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPhageMiniSpeed.lua" because it's not in the manifest.
+000005.686|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPhageSpeed.lua" because it's not in the manifest.
+000005.687|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPhageSpeed.lua" because it's not in the manifest.
+000005.688|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3046.lua" because it's not in the manifest.
+000005.688|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3046.lua" because it's not in the manifest.
+000005.688|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3047.lua" because it's not in the manifest.
+000005.688|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3047.lua" because it's not in the manifest.
+000005.692|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFaithShakerFreezeParticle.lua" because it's not in the manifest.
+000005.694|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFaithShakerFreezeParticle.lua" because it's not in the manifest.
+000005.694|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFaithShakerCooldown.lua" because it's not in the manifest.
+000005.694|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFaithShakerCooldown.lua" because it's not in the manifest.
+000005.703|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAegisoftheLegionAuraSelf.lua" because it's not in the manifest.
+000005.704|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAegisoftheLegionAuraSelf.lua" because it's not in the manifest.
+000005.704|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAegisoftheLegionAuraFriend.lua" because it's not in the manifest.
+000005.704|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAegisoftheLegionAuraFriend.lua" because it's not in the manifest.
+000005.705|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TabletOfCommandMinion.lua" because it's not in the manifest.
+000005.705|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TabletOfCommandMinion.lua" because it's not in the manifest.
+000005.705|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TabletOfCommand.lua" because it's not in the manifest.
+000005.705|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TabletOfCommand.lua" because it's not in the manifest.
+000005.705|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TabletOfCommandAlly.lua" because it's not in the manifest.
+000005.705|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TabletOfCommandAlly.lua" because it's not in the manifest.
+000005.706|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SpiritVisage.lua" because it's not in the manifest.
+000005.706|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SpiritVisage.lua" because it's not in the manifest.
+000005.706|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Kindlegem.lua" because it's not in the manifest.
+000005.706|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Kindlegem.lua" because it's not in the manifest.
+000005.708|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSunfireCapeAura.lua" because it's not in the manifest.
+000005.709|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSunfireCapeAura.lua" because it's not in the manifest.
+000005.725|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ShurelyaMinionHaste.lua" because it's not in the manifest.
+000005.725|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ShurelyaMinionHaste.lua" because it's not in the manifest.
+000005.727|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/GoldPerTenCounter.lua" because it's not in the manifest.
+000005.727|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/GoldPerTenCounter.lua" because it's not in the manifest.
+000005.727|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TearsDummySpell.lua" because it's not in the manifest.
+000005.727|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TearsDummySpell.lua" because it's not in the manifest.
+000005.728|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BlackCleaver.lua" because it's not in the manifest.
+000005.729|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BlackCleaver.lua" because it's not in the manifest.
+000005.729|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBlackCleaverShred.lua" because it's not in the manifest.
+000005.729|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBlackCleaverShred.lua" because it's not in the manifest.
+000005.730|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBlackCleaverPen.lua" because it's not in the manifest.
+000005.730|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBlackCleaverPen.lua" because it's not in the manifest.
+000005.730|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BloodthirsterDummySpell.lua" because it's not in the manifest.
+000005.730|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BloodthirsterDummySpell.lua" because it's not in the manifest.
+000005.731|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBTOverhealTimer.lua" because it's not in the manifest.
+000005.731|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBTOverhealTimer.lua" because it's not in the manifest.
+000005.738|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBTOverhealDecay.lua" because it's not in the manifest.
+000005.738|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBTOverhealDecay.lua" because it's not in the manifest.
+000005.738|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2222_Transmutation_Crystal.dds> *********
+000005.738|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2222_Transmutation_Crystal.dds
+000005.738|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2222_Transmutation_Crystal.dds - not found. Dummy texture created.
+000005.752|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3074.lua" because it's not in the manifest.
+000005.753|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3074.lua" because it's not in the manifest.
+000005.759|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Cripple.lua" because it's not in the manifest.
+000005.760|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Cripple.lua" because it's not in the manifest.
+000005.760|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WarmogsDummySpell.lua" because it's not in the manifest.
+000005.760|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WarmogsDummySpell.lua" because it's not in the manifest.
+000005.762|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemHurricaneJinxAttackMarker.lua" because it's not in the manifest.
+000005.762|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemHurricaneJinxAttackMarker.lua" because it's not in the manifest.
+000005.768|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/JinxQRamp.lua" because it's not in the manifest.
+000005.768|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/JinxQRamp.lua" because it's not in the manifest.
+000005.768|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeproc"
+000005.768|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeprotect"
+000005.768|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkself"
+000005.768|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkally"
+000005.783|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemStatikShankCharge.lua" because it's not in the manifest.
+000005.783|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemStatikShankCharge.lua" because it's not in the manifest.
+000005.792|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ZhonyasRing.lua" because it's not in the manifest.
+000005.792|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ZhonyasRing.lua" because it's not in the manifest.
+000005.793|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WoogletsWitchcap.lua" because it's not in the manifest.
+000005.801|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WoogletsWitchcap.lua" because it's not in the manifest.
+000005.801|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ZhonyasRingShield.lua" because it's not in the manifest.
+000005.801|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ZhonyasRingShield.lua" because it's not in the manifest.
+000005.801|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Witchcap.lua" because it's not in the manifest.
+000005.802|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Witchcap.lua" because it's not in the manifest.
+000005.802|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WitsEndBuff.lua" because it's not in the manifest.
+000005.802|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WitsEndBuff.lua" because it's not in the manifest.
+000005.802|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WitsEndCounter.lua" because it's not in the manifest.
+000005.802|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WitsEndCounter.lua" because it's not in the manifest.
+000005.803|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MaladyCounter.lua" because it's not in the manifest.
+000005.803|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MaladyCounter.lua" because it's not in the manifest.
+000005.803|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MaladySpell.lua" because it's not in the manifest.
+000005.803|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MaladySpell.lua" because it's not in the manifest.
+000005.870|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemGlacialSpikeEnemySlow.lua" because it's not in the manifest.
+000005.871|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemGlacialSpikeEnemySlow.lua" because it's not in the manifest.
+000005.892|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AvariceBlade.lua" because it's not in the manifest.
+000005.893|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AvariceBlade.lua" because it's not in the manifest.
+000005.903|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TalentReaperDisplay.lua" because it's not in the manifest.
+000005.903|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TalentReaperDisplay.lua" because it's not in the manifest.
+000005.906|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Sting.lua" because it's not in the manifest.
+000005.906|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Sting.lua" because it's not in the manifest.
+000005.910|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBansheesVeilRegen.lua" because it's not in the manifest.
+000005.910|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemBansheesVeilRegen.lua" because it's not in the manifest.
+000005.911|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMadredsRazorCounter.lua" because it's not in the manifest.
+000005.911|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemMadredsRazorCounter.lua" because it's not in the manifest.
+000005.912|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemRunicAegisoftheLegionAuraSelf.lua" because it's not in the manifest.
+000005.912|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemRunicAegisoftheLegionAuraSelf.lua" because it's not in the manifest.
+000005.912|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemRunicAegisoftheLegionAuraFriend.lua" because it's not in the manifest.
+000005.912|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemRunicAegisoftheLegionAuraFriend.lua" because it's not in the manifest.
+000005.912|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/FiendishCodex.lua" because it's not in the manifest.
+000005.912|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/FiendishCodex.lua" because it's not in the manifest.
+000005.913|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ForceofNature.lua" because it's not in the manifest.
+000005.913|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ForceofNature.lua" because it's not in the manifest.
+000005.915|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/FrozenHeartAuraCosmetic.lua" because it's not in the manifest.
+000005.915|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/FrozenHeartAuraCosmetic.lua" because it's not in the manifest.
+000005.920|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3085.dds> *********
+000005.920|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3085.dds
+000005.920|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3085.dds - not found. Dummy texture created.
+000005.920|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAetherWisp.lua" because it's not in the manifest.
+000005.920|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAetherWisp.lua" because it's not in the manifest.
+000005.921|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3114.lua" because it's not in the manifest.
+000005.921|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3114.lua" because it's not in the manifest.
+000005.922|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/NashorsToothCD.lua" because it's not in the manifest.
+000005.922|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/NashorsToothCD.lua" because it's not in the manifest.
+000005.922|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_15Slow.lua" because it's not in the manifest.
+000005.922|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Internal_15Slow.lua" because it's not in the manifest.
+000005.923|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsOfMobilityDebuff.lua" because it's not in the manifest.
+000005.923|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsOfMobilityDebuff.lua" because it's not in the manifest.
+000005.926|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Internal_50MS.lua" because it's not in the manifest.
+000005.926|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Internal_50MS.lua" because it's not in the manifest.
+000005.927|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Rageblade.lua" because it's not in the manifest.
+000005.927|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Rageblade.lua" because it's not in the manifest.
+000005.932|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Bloodrazor.lua" because it's not in the manifest.
+000005.932|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Bloodrazor.lua" because it's not in the manifest.
+000005.934|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Soraka_heal_color.tga> *********
+000005.934|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Soraka_heal_color.tga
+000005.934|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Soraka_heal_color.tga - not found. Dummy texture created.
+000005.937|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3128.lua" because it's not in the manifest.
+000005.937|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3128.lua" because it's not in the manifest.
+000005.937|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSoTDDebuff.lua" because it's not in the manifest.
+000005.946|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSoTDDebuff.lua" because it's not in the manifest.
+000005.946|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3131.lua" because it's not in the manifest.
+000005.946|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3131.lua" because it's not in the manifest.
+000005.946|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HeartOfGold.lua" because it's not in the manifest.
+000005.947|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HeartOfGold.lua" because it's not in the manifest.
+000005.947|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Brutalizer.lua" because it's not in the manifest.
+000005.947|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Brutalizer.lua" because it's not in the manifest.
+000005.947|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/VoidStaff.lua" because it's not in the manifest.
+000005.947|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/VoidStaff.lua" because it's not in the manifest.
+000005.948|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HauntingGuise.lua" because it's not in the manifest.
+000005.948|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HauntingGuise.lua" because it's not in the manifest.
+000005.951|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3137.lua" because it's not in the manifest.
+000005.951|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3137.lua" because it's not in the manifest.
+000005.955|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MuramasaStats.lua" because it's not in the manifest.
+000005.955|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MuramasaStats.lua" because it's not in the manifest.
+000005.955|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MuramasaCap.lua" because it's not in the manifest.
+000005.956|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/MuramasaCap.lua" because it's not in the manifest.
+000005.957|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SpectralFury.lua" because it's not in the manifest.
+000005.960|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SpectralFury.lua" because it's not in the manifest.
+000005.960|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemGhostBladePen.lua" because it's not in the manifest.
+000005.960|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemGhostBladePen.lua" because it's not in the manifest.
+000005.961|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/CrippleSlow.lua" because it's not in the manifest.
+000005.961|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/CrippleSlow.lua" because it's not in the manifest.
+000005.962|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Slow.lua" because it's not in the manifest.
+000005.962|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/Slow.lua" because it's not in the manifest.
+000005.969|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HextechRevolver.lua" because it's not in the manifest.
+000005.969|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HextechRevolver.lua" because it's not in the manifest.
+000005.994|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WilloftheAncients.lua" because it's not in the manifest.
+000005.995|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/WilloftheAncients.lua" because it's not in the manifest.
+000006.013|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/GlobalDrain.lua" because it's not in the manifest.
+000006.013|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/GlobalDrain.lua" because it's not in the manifest.
+000006.014|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSwordOfFeastAndFamineSelf.lua" because it's not in the manifest.
+000006.014|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSwordOfFeastAndFamineSelf.lua" because it's not in the manifest.
+000006.014|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3153.lua" because it's not in the manifest.
+000006.014|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3153.lua" because it's not in the manifest.
+000006.016|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3154_WriggleLantern.dds> *********
+000006.016|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3154_WriggleLantern.dds
+000006.016|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3154_WriggleLantern.dds - not found. Dummy texture created.
+000006.016|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemWrigglesLanternCounter.lua" because it's not in the manifest.
+000006.016|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemWrigglesLanternCounter.lua" because it's not in the manifest.
+000006.020|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerTimerCD.lua" because it's not in the manifest.
+000006.020|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerTimerCD.lua" because it's not in the manifest.
+000006.030|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerTimer.lua" because it's not in the manifest.
+000006.030|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerTimer.lua" because it's not in the manifest.
+000006.030|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerToMawReset.lua" because it's not in the manifest.
+000006.030|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerToMawReset.lua" because it's not in the manifest.
+000006.031|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PhaseBladeBuff.lua" because it's not in the manifest.
+000006.031|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/PhaseBladeBuff.lua" because it's not in the manifest.
+000006.031|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerTimerUndo.lua" because it's not in the manifest.
+000006.031|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/HexdrinkerTimerUndo.lua" because it's not in the manifest.
+000006.031|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/IonianBootsofLucidity.lua" because it's not in the manifest.
+000006.031|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/IonianBootsofLucidity.lua" because it's not in the manifest.
+000006.034|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinLightbringer.lua" because it's not in the manifest.
+000006.035|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinLightbringer.lua" because it's not in the manifest.
+000006.038|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFeralFlareCounter.lua" because it's not in the manifest.
+000006.038|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFeralFlareCounter.lua" because it's not in the manifest.
+000006.038|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFeralFlareAttack.lua" because it's not in the manifest.
+000006.038|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemFeralFlareAttack.lua" because it's not in the manifest.
+000006.046|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketTotemLvl1Audio.lua" because it's not in the manifest.
+000006.046|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketTotemLvl1Audio.lua" because it's not in the manifest.
+000006.053|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarTrophyStacks.lua" because it's not in the manifest.
+000006.053|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarTrophyStacks.lua" because it's not in the manifest.
+000006.054|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarUpdateTrophyCharges.lua" because it's not in the manifest.
+000006.054|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarUpdateTrophyCharges.lua" because it's not in the manifest.
+000006.054|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarHatredReady.lua" because it's not in the manifest.
+000006.054|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarHatredReady.lua" because it's not in the manifest.
+000006.055|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarHatredUnready.lua" because it's not in the manifest.
+000006.055|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarHatredUnready.lua" because it's not in the manifest.
+000006.072|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketTotemLvl3Audio.lua" because it's not in the manifest.
+000006.072|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketTotemLvl3Audio.lua" because it's not in the manifest.
+000006.073|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Hardening.lua" because it's not in the manifest.
+000006.073|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Hardening.lua" because it's not in the manifest.
+000006.073|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Tenacity.lua" because it's not in the manifest.
+000006.073|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Tenacity.lua" because it's not in the manifest.
+000006.078|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3176.lua" because it's not in the manifest.
+000006.079|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3176.lua" because it's not in the manifest.
+000006.079|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LightningRodCounter.lua" because it's not in the manifest.
+000006.079|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LightningRodCounter.lua" because it's not in the manifest.
+000006.080|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LightningRodReady.lua" because it's not in the manifest.
+000006.080|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/LightningRodReady.lua" because it's not in the manifest.
+000006.082|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBloodbursterBuff.lua" because it's not in the manifest.
+000006.082|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBloodbursterBuff.lua" because it's not in the manifest.
+000006.083|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EntropyBurning.lua" because it's not in the manifest.
+000006.083|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EntropyBurning.lua" because it's not in the manifest.
+000006.084|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBloodrazor.lua" because it's not in the manifest.
+000006.084|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/OdinBloodrazor.lua" because it's not in the manifest.
+000006.089|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3188.lua" because it's not in the manifest.
+000006.089|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3188.lua" because it's not in the manifest.
+000006.094|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/IronStylusCheck.lua" because it's not in the manifest.
+000006.094|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/IronStylusCheck.lua" because it's not in the manifest.
+000006.094|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3191.lua" because it's not in the manifest.
+000006.094|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3191.lua" because it's not in the manifest.
+000006.105|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3200.lua" because it's not in the manifest.
+000006.105|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3200.lua" because it's not in the manifest.
+000006.105|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritStoneBleed.lua" because it's not in the manifest.
+000006.105|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritStoneBleed.lua" because it's not in the manifest.
+000006.108|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritStoneRegen.lua" because it's not in the manifest.
+000006.108|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritStoneRegen.lua" because it's not in the manifest.
+000006.109|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritGoldCounter.lua" because it's not in the manifest.
+000006.110|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritGoldCounter.lua" because it's not in the manifest.
+000006.111|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritStoneLizardDummy.lua" because it's not in the manifest.
+000006.111|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpiritStoneLizardDummy.lua" because it's not in the manifest.
+000006.111|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3210_Instigator.dds> *********
+000006.111|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3210_Instigator.dds
+000006.112|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3210_Instigator.dds - not found. Dummy texture created.
+000006.112|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpectreCowlRegen.lua" because it's not in the manifest.
+000006.112|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSpectreCowlRegen.lua" because it's not in the manifest.
+000006.117|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsHomeguardHeal.lua" because it's not in the manifest.
+000006.118|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsHomeguardHeal.lua" because it's not in the manifest.
+000006.118|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsHomeguardSpeed.lua" because it's not in the manifest.
+000006.120|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsHomeguardSpeed.lua" because it's not in the manifest.
+000006.120|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsHomeguardCounter.lua" because it's not in the manifest.
+000006.120|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsHomeguardCounter.lua" because it's not in the manifest.
+000006.120|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3251.lua" because it's not in the manifest.
+000006.120|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3251.lua" because it's not in the manifest.
+000006.121|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3252.lua" because it's not in the manifest.
+000006.121|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3252.lua" because it's not in the manifest.
+000006.121|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3253.lua" because it's not in the manifest.
+000006.121|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3253.lua" because it's not in the manifest.
+000006.122|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsAlacrity.lua" because it's not in the manifest.
+000006.122|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsAlacrity.lua" because it's not in the manifest.
+000006.123|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsCaptainSpeed.lua" because it's not in the manifest.
+000006.123|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsCaptainSpeed.lua" because it's not in the manifest.
+000006.125|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsDeathmarchSpeed.lua" because it's not in the manifest.
+000006.125|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsDeathmarchSpeed.lua" because it's not in the manifest.
+000006.126|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsDistortion.lua" because it's not in the manifest.
+000006.129|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/BootsDistortion.lua" because it's not in the manifest.
+000006.134|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3281.lua" because it's not in the manifest.
+000006.134|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3281.lua" because it's not in the manifest.
+000006.134|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3282.lua" because it's not in the manifest.
+000006.134|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3282.lua" because it's not in the manifest.
+000006.134|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3283.lua" because it's not in the manifest.
+000006.135|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3283.lua" because it's not in the manifest.
+000006.135|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownQ.lua" because it's not in the manifest.
+000006.135|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownQ.lua" because it's not in the manifest.
+000006.135|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownW.lua" because it's not in the manifest.
+000006.136|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownW.lua" because it's not in the manifest.
+000006.136|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownE.lua" because it's not in the manifest.
+000006.136|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownE.lua" because it's not in the manifest.
+000006.136|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownR.lua" because it's not in the manifest.
+000006.136|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TagTeamCooldownR.lua" because it's not in the manifest.
+000006.158|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketTotemLvl2Audio.lua" because it's not in the manifest.
+000006.159|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketTotemLvl2Audio.lua" because it's not in the manifest.
+000006.201|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-teleportrings.tga> *********
+000006.201|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-teleportrings.tga
+000006.201|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-teleportrings.tga - not found. Dummy texture created.
+000006.209|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketOrbSight.lua" because it's not in the manifest.
+000006.209|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/TrinketOrbSight.lua" because it's not in the manifest.
+000006.227|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SummonerReviveSpeedBoost.lua" because it's not in the manifest.
+000006.229|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SummonerReviveSpeedBoost.lua" because it's not in the manifest.
+000006.230|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarRevive.lua" because it's not in the manifest.
+000006.230|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RengarRevive.lua" because it's not in the manifest.
+000006.231|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3351.lua" because it's not in the manifest.
+000006.231|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3351.lua" because it's not in the manifest.
+000006.231|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3352.lua" because it's not in the manifest.
+000006.231|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3352.lua" because it's not in the manifest.
+000006.233|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3363.lua" because it's not in the manifest.
+000006.233|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3363.lua" because it's not in the manifest.
+000006.234|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3364.lua" because it's not in the manifest.
+000006.234|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3364.lua" because it's not in the manifest.
+000006.250|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3400_Karache.dds> *********
+000006.250|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3400_Karache.dds
+000006.250|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3400_Karache.dds - not found. Dummy texture created.
+000006.254|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3418.lua" because it's not in the manifest.
+000006.254|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3418.lua" because it's not in the manifest.
+000006.255|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3419.lua" because it's not in the manifest.
+000006.255|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3419.lua" because it's not in the manifest.
+000006.255|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3420.lua" because it's not in the manifest.
+000006.255|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3420.lua" because it's not in the manifest.
+000006.255|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3421.lua" because it's not in the manifest.
+000006.255|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3421.lua" because it's not in the manifest.
+000006.277|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Global_Asc_teleport_dust.scb>.
+000006.299|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AscWarpProtection.lua" because it's not in the manifest.
+000006.299|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/AscWarpProtection.lua" because it's not in the manifest.
+000006.299|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAngelHandBuff.lua" because it's not in the manifest.
+000006.302|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemAngelHandBuff.lua" because it's not in the manifest.
+000006.306|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/KalistaPSpellCast.lua" because it's not in the manifest.
+000006.306|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/KalistaPSpellCast.lua" because it's not in the manifest.
+000006.306|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3599.lua" because it's not in the manifest.
+000006.306|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3599.lua" because it's not in the manifest.
+000006.307|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSmiteSlow.lua" because it's not in the manifest.
+000006.308|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSmiteSlow.lua" because it's not in the manifest.
+000006.323|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Warrior.lua" because it's not in the manifest.
+000006.324|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Warrior.lua" because it's not in the manifest.
+000006.324|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Magus.lua" because it's not in the manifest.
+000006.324|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Magus.lua" because it's not in the manifest.
+000006.324|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Juggernaut.lua" because it's not in the manifest.
+000006.324|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Juggernaut.lua" because it's not in the manifest.
+000006.325|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Slayer_Stacks.lua" because it's not in the manifest.
+000006.325|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Enchantment_Slayer_Stacks.lua" because it's not in the manifest.
+000006.335|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoachersKnifeSpeed.lua" because it's not in the manifest.
+000006.335|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemPoachersKnifeSpeed.lua" because it's not in the manifest.
+000006.335|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3712_Kindled_Spirit.dds> *********
+000006.336|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3712_Kindled_Spirit.dds
+000006.336|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3712_Kindled_Spirit.dds - not found. Dummy texture created.
+000006.336|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "itemkindledspiritentrap"
+000006.337|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/S5_SummonerSmiteAOE_Regen.lua" because it's not in the manifest.
+000006.337|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/S5_SummonerSmiteAOE_Regen.lua" because it's not in the manifest.
+000006.355|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSmiteAttacksManager.lua" because it's not in the manifest.
+000006.355|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/ItemSmiteAttacksManager.lua" because it's not in the manifest.
+000006.368|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3801.lua" because it's not in the manifest.
+000006.368|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Items/3801.lua" because it's not in the manifest.
+000006.569|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Menu_SC4/-nolink.dds" because it's not in the manifest.
+000006.569|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/-nolink.dds
+000006.569|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Menu_SC4/TurretTipImage.png-nolink.dds" because it's not in the manifest.
+000006.569|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/TurretTipImage.png-nolink.dds
+000006.569|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Menu_SC4/recapSplash.png-nolink.dds" because it's not in the manifest.
+000006.569|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/recapSplash.png-nolink.dds
+000007.864|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects
+000008.030|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects Finished
+000008.032|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Pacified.lua" because it's not in the manifest.
+000008.032|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Minotaur_TriumphantRoar.dds> *********
+000008.032|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Minotaur_TriumphantRoar.dds
+000008.032|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Minotaur_TriumphantRoar.dds - not found. Dummy texture created.
+000008.032|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Net.lua" because it's not in the manifest.
+000008.032|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Disarm.lua" because it's not in the manifest.
+000008.032|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Silence.lua" because it's not in the manifest.
+000008.039|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Charm.lua" because it's not in the manifest.
+000008.039|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <48thSlave_Pacify.dds> *********
+000008.039|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 48thSlave_Pacify.dds
+000008.039|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 48thSlave_Pacify.dds - not found. Dummy texture created.
+000008.043|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/Sleep.lua" because it's not in the manifest.
+000008.044|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/NearSight.lua" because it's not in the manifest.
+000008.044|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/RevealSpecificUnit.lua" because it's not in the manifest.
+000008.044|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/NoRender.lua" because it's not in the manifest.
+000008.044|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SuppressCallForHelp.lua" because it's not in the manifest.
+000008.045|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/CallForHelpSuppresser.lua" because it's not in the manifest.
+000008.046|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/IgnoreCallForHelp.lua" because it's not in the manifest.
+000008.175|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealBasicAttack.lua" because it's not in the manifest.
+000008.180|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealBasicAttack.lua" because it's not in the manifest.
+000008.180|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealBasicAttack2.lua" because it's not in the manifest.
+000008.181|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealBasicAttack2.lua" because it's not in the manifest.
+000008.182|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealCritAttack.lua" because it's not in the manifest.
+000008.184|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealCritAttack.lua" because it's not in the manifest.
+000008.249|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealEssenceFluxMissileTracker.lua" because it's not in the manifest.
+000008.249|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealEssenceFluxMissileTracker.lua" because it's not in the manifest.
+000009.470|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000009.471|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000009.557|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000009.576|       0.0000kb|      0.0000kb added| ALWAYS| Start Main Loop
+000009.576|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect
+000009.576|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect end
+000010.114|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000010.118|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealFastRunAnim.lua" because it's not in the manifest.
+000010.118|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/EzrealFastRunAnim.lua" because it's not in the manifest.
+000010.121|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/CantAttack.lua" because it's not in the manifest.
+000010.121|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/CantAttack.lua" because it's not in the manifest.
+000010.137|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/DisconnectTimer.lua" because it's not in the manifest.
+000010.138|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/DisconnectTimer.lua" because it's not in the manifest.
+000010.139|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/S4SpawnLockSpeed.lua" because it's not in the manifest.
+000010.139|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/S4SpawnLockSpeed.lua" because it's not in the manifest.
+000010.139|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/PositiveChampionDelta.lua" because it's not in the manifest.
+000010.139|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Shared/Spells/PositiveChampionDelta.lua" because it's not in the manifest.
+000010.148|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [DATA/Characters/ezreal_cyber_1/Ezreal_cyber_1.skn], for asset [DATA/Characters/ezreal_cyber_1/Ezreal_cyber_1.ini], skin [DATA/Characters/ezreal_cyber_1/Ezreal_cyber_1.ini]
+000010.148|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000010.163|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [DATA/Characters/ezreal_cyber_2/Ezreal_cyber_2.skn], for asset [DATA/Characters/ezreal_cyber_2/Ezreal_cyber_2.ini], skin [DATA/Characters/ezreal_cyber_2/Ezreal_cyber_2.ini]
+000010.163|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000010.174|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [DATA/Characters/ezreal_cyber_3/Ezreal_cyber_3.skn], for asset [DATA/Characters/ezreal_cyber_3/Ezreal_cyber_3.ini], skin [DATA/Characters/ezreal_cyber_3/Ezreal_cyber_3.ini]
+000010.174|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000010.185|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Ezreal) with skinID 0 on team 100 for clientID 0 and summonername (Test) (is HUMAN PLAYER)
+000010.221|       0.0000kb|      0.0000kb added| ALWAYS| Hero Ezreal(0) created for Test
+000010.226|       0.0000kb|      0.0000kb added| ALWAYS| Spawning heroes/minions
+000010.231|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000010.237|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000010.237|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SummonerHealCheck.lua" because it's not in the manifest.
+000010.237|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SummonerHealCheck.lua" because it's not in the manifest.
+000010.248|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SummonerFlashHaste.lua" because it's not in the manifest.
+000010.250|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "DATA/Spells/SummonerFlashHaste.lua" because it's not in the manifest.
+000011.199|       0.0000kb|      0.0000kb added| ALWAYS| Finished spawning heroes/minions
+000012.278|       0.0000kb|      0.0000kb added|  ERROR| HudJungleTimers: Timer data mismatch!
+000012.518|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Begin
+000012.518|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Update World
+000012.524|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuProcess
+000012.525|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDProcess
+000012.525|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Particle Simulation
+000012.525|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FOWUpdate
+000012.525|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP UpdateVis
+000012.559|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000012.559|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000012.585|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PostProcess
+000012.585|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP ApplyGamma
+000012.586|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDDraw
+000012.588|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuDraw
+000012.645|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP DrawSysInfo
+000012.645|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP MCommandDraw
+000012.645|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000012.645|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP AudioUpdate
+000012.645|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP EndRender & EndFrame
+000012.651|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP End
+000050.803|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000050.881|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000067.439|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000067.537|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000067.538|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000073.268|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000073.358|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000073.360|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000074.921|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000075.018|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000075.020|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000079.216|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000079.296|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000079.297|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000100.538|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000102.695|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000103.287|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Close
+000106.495|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000109.908|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000113.427|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Close
+000170.482|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000170.567|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000171.408|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000171.503|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000175.345|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000175.442|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000175.444|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000188.768|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000188.906|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000188.908|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000194.580|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Attempting to Reconnect popup displayed"}
+000205.674|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Disconnected","disconnect_delay":15.000000953674316,"disconnect_timestamp":190.67422485351562}
+000210.633|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Soft Reconnect"}
+000211.871|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000212.483|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_EndGame
+000213.236|       0.0000kb|      0.0000kb added| ALWAYS| Finished Main Loop
+000215.965|       0.0000kb|      0.0000kb added| ALWAYS| Finished Play game
+000215.965|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Game exited","exit_code":"EXITCODE_ABANDON"}
+000216.057|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() enter
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "caution_small.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "attack_small.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "directionIndicator.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "shopkeeper_male_TX_CM.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "yonkey_base_TX_CM.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Ezreal_ProdigalExplorer.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Ezreal_Square_0.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "come_here_small.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "on_my_way_small.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "mia_small.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "get_back_small.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingCancel.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingMIA.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingComeHere.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingOMW.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "PingGetBack.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Trinket_Yellow_Upgrade_TX_CM.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YellowTrinket_TX_CM.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "HA_AP_Poro.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "SightWard.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "VisionWard.dds" ref count 1.
+000216.079|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosInhibitor_D.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Inhibitor_diff.dds" ref count 2.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "OrderInhibitor_D.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Inhibitor_diff.dds" ref count 2.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Nexus_diff.dds" ref count 2.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_Destroyed_diff.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_diff.dds" ref count 2.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "tower_destroyed_diff.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "brush_SR.dds" ref count 6.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GreatWraith_base_TX_CM.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosTurretWorm2.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "wraith.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YoungLizard.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LizardElder.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GiantWolf.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lesserwraith.dds" ref count 1.
+000216.080|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AncientGolem.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Wolf.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Dragon.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lizard.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedHqTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedGateTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueGateTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueHqTower_diff.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_minion_Wizard.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_Basic.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechMelee.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechCannon.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Wizard.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Basic.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechMelee.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechCannon.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon0.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_flash.dds" ref count 1.
+000216.081|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_heal.dds" ref count 1.
+000216.083|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() exit
+000216.083|       0.0000kb|      0.0000kb added| ALWAYS| Destroying the Renderer (1)
+000216.083|       0.0000kb|      0.0000kb added| ALWAYS| game::Shutdown
+000216.083|       0.0000kb|      0.0000kb added| ALWAYS| ClientFacade::Stop
+000216.084|       0.0000kb|      0.0000kb added| ALWAYS| Bugsplat disabled (end of game?)
+000216.095|       0.0000kb|      0.0000kb added| ALWAYS| Exiting WinMain

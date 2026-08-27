@@ -1,0 +1,11 @@
+Copyright (c) 2008-2011 Marshall A. Greenblatt. Portions Copyright (c) 2006-2009 Google Inc. Tous droits réservés.
+
+La redistribution et l'utilisation sous formes source et binaire, avec ou sans modification, sont autorisées sous les conditions suivantes :
+
+1. La redistribution du code source doit conserver la notice de copyright ci-dessus, cette liste de conditions et la remarque suivante.
+
+2. Les redistributions sous forme binaire doivent reproduire la notice de copyright ci-dessus, cette liste de conditions et la remarque suivante dans la documentation et/ou les autres matériaux fournis avec la distribution.
+
+3. Ni le nom du titulaire du copyright ni les noms des contributeurs ne peuvent être utilisés pour promouvoir ou vanter des produits dérivés de ce logiciel sans leur permission écrite spécifique et préalable.
+
+CE LOGICIEL EST FOURNI PAR LES TITULAIRES DU COPYRIGHT ET LES CONTRIBUTEURS « EN L'ÉTAT » ET TOUTE GARANTIE EXPRESSE OU IMPLICITE, Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES D'USAGE COMMERCIAL ET D'ADÉQUATION À UN USAGE PARTICULIER EST REFUSÉE. EN AUCUN CAS LE TITULAIRE DU COPYRIGHT OU LES CONTRIBUTEURS NE PEUVENT ÊTRE CONSIDÉRÉS COMME RESPONSABLES POUR TOUT DÉGÂT DIRECT, INDIRECT, INCIDENT, SPÉCIAL, EXEMPLAIRE OU CONSÉQUENT (Y COMPRIS, MAIS SANS S'Y LIMITER, LA FOURNITURE DE BIENS OU DE SERVICES DE SUBSTITUTION, LA PERTE D'USAGE, DE DONNÉE OU DE PROFITS, L'INTERRUPTION DE FONCTIONNEMENT COMMERCIAL) QUELLE QU'EN SOIT LA CAUSE ET QUELLE QUE SOIT LA THÉORIE INVOQUÉE DE RESPONSABILITÉ, QUE CE SOIT SOUS FORME CONTRACTUELLE, DE RESPONSABILITÉ STRICTE OU DE TORTS (Y COMPRIS LA NÉGLIGENCE OU AUTRES) QUI SURVIENDRAIT RELATIVEMENT À L'UTILISATION DE CE LOGICIEL, MÊME SI UN AVERTISSEMENT PRÉALABLE AVAIT ÉTÉ FOURNI DE LA POTENTIALITÉ DE TELS DÉGÂTS.

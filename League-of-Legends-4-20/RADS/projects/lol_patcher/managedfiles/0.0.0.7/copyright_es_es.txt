@@ -1,0 +1,11 @@
+﻿Copyright (c) 2008-2011 Marshall A. Greenblatt. Parte del Copyright (c) 2006-2009 Google Inc. Todos los derechos reservados.
+
+Se permite la redistribución y uso en forma de código fuente y binario, con o sin modificación, siempre que se cumplan las siguientes condiciones:
+
+1. La redistribución del código fuente debe mantener el aviso de copyright anterior, esta lista de condiciones y la siguiente renuncia.
+
+2. La redistribución del código fuente debe reproducir el aviso de copyright anterior, esta lista de condiciones y la siguiente renuncia en la documentación y/o en otros materiales que acompañen a la distribución.
+
+3. Los nombres de los propietarios del copyright , así como los de los contribuidores, no deben usarse para promocionar o publicitar productos derivados de este software sin consentimiento escrito previo.
+
+ESTE SOFTWARE ES PROPORCIONADO POR LOS DUEÑOS DEL COPYRIGHT Y SUS CONTRIBUIDORES "SIN MODIFICACIÓN" Y SE RENUNCIA A CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO, PERO SIN LIMITARSE, A LAS GARANTÍA IMPLÍCITAS DE COMERCIABILIDAD Y ADECUACIÓN PARA UN FIN PARTICULAR. EN NINGÚN CASO SE CONSIDERARÁ A LOS DUEÑOS DEL COPYRIGHT O A LOS CONTRIBUIDORES RESPONSABLES DE CUALQUIER DAÑO DIRECTO, INDIRECTO, ESPECIAL, EJEMPLAR O CONSECUENTE (INCLUYENDO, PERO SIN LIMITARSE, A LA ADQUISICIÓN DE BIENES O SERVICIOS SUBTITUTOS; LA PÉRDIDA DE USO, DATOS O BENEFICIOS O LA INTERRUPCIÓN DEL NEGOCIO) QUE PUEDA SER CAUSADO Y POR CUALQUIER TEORÍA DE RESPONSABILIDAD EN VIGOR EN EL CONTRATO, RESPONSABILIDAD ESTRICTA O PERJUIUCIO (INCLUYENDO NEGLIGENCIA O SIMILAR) QUE PUEDAN SURGIR EN EL USO DE ESTE SOFTWARE, A PESAR DE HABER AVISADO DE TALES POSIBLES DAÑOS.

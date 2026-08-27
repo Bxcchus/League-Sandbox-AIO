@@ -1,0 +1,11 @@
+Copyright (c) 2008-2011 Marshall A. Greenblatt.  Portions Copyright (c) 2006-2009 Google Inc. Todos los derechos reservados.
+
+Se permite la redistribución y el uso en formatos binario y de código fuente, con o sin modificaciones, siempre que se cumplan las siguientes condiciones:
+
+1. Las redistribuciones de código fuente deben retener la advertencia de derechos de autor expresada arriba, esta lista de condiciones y el descargo expresado a continuación.
+
+2. Las redistribuciones en formato binario deben reproducir la advertencia de derechos de autor expresada arriba, esta lista de condiciones y el descargo expresado a continuación en la documentación y/u otro material proporcionado con la distribución.
+
+3. Ni el nombre del titular de los derechos de autor ni los nombres de sus contribuidores pueden usarse para respaldar o promover productos derivados de este software sin previo permiso específico por escrito.
+
+EL TITULAR DE LOS DERECHOS DE AUTOR Y CONTRIBUIDORES PROPORCIONAN ESTE SOFTWARE "TAL COMO ES" Y SE DECLINA CUALQUIER GARANTÍA EXPRESA O IMPLÍCITA, INCLUYENDO PERO SIN LIMITARSE A LAS GARANTÍAS IMPLÍCITAS DE COMERCIALIZACIÓN Y ADECUACIÓN PARA UN FIN PARTICULAR. EN NINGÚN CASO SERÁN EL PROPIETARIO O LOS CONTRIBUIDORES DEL COPYRIGHT RESPONSABLES DE CUALQUIER DAÑO DIRECTO, INDIRECTO, INCIDENTAL, ESPECIAL, EJEMPLAR O CONSECUENCIAL (INCLUYENDO PERO SIN LIMITARSE A LA ADQUISICIÓN DE BIENES O SERVICIOS SUSTITUTIVOS; PÉRDIDA DE USO, DATOS O BENEFICIOS; O INTERRUPCIÓN DEL NEGOCIO) DE CUALQUIER MODO Y SEGÚN CUALQUIER TEORÍA DE RESPONSABILIDAD, YA SEA CONTRACTUAL, ESTRICTA O AGRAVIO (INCLUYENDO NEGLIGENCIA O CUALQUIER OTRO TIPO) QUE SURJA DE CUALQUIER MODO A PARTIR DEL USO DE ESTE SOFTWARE, INCLUSO SI HUBIESEN SIDO ADVERTIDOS DE LA POSIBILIDAD DE TALES DAÑOS.

@@ -1,0 +1,1487 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2026-08-25T23:50:57.802
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS"
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::ReleaseManifest::LoadInternal: Failed to open "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.008|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::CreateListing: Failure to load project manifest "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.008|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::LoadSolution: RADS runtime environment load solution failed to create project listing: projectPath="C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235".
+000000.008|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::CollectProjects: RADS solution runtime environment project collection failed to load solution.
+000000.008|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::Create: RADS runtime environment creation failed because it was unable to collect the projects.
+000000.008|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initialization failed to create the runtime environment.
+000000.008|       0.0000kb|      0.0000kb added|  ERROR| Failed to initialize Rads dynamic library: C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.074|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.074|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.075|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.075|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000001.365|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000001.365|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000002.509|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 8  Professional, x64
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| CPU: AuthenticAMD, AMD Ryzen 7 5800X3D 8-Core Processor           , AMD64 Family 25 Model 33 Stepping 2, 3400 (0 core)
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3417
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| Display info: Parsec Virtual Display Adapter 0 0.45.0.0
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 34359738368
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8  Professional, x64","cpu":"AuthenticAMD","cpu_processor":"AMD Ryzen 7 5800X3D 8-Core Processor           ","cpu_identifier":"AMD64 Family 25 Model 33 Stepping 2","cpu_topology":8,"gpu":"Parsec Virtual Display Adapter","video_memory":"0","driver_version":"0.45.0.0","physical_memory":34359738368}
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 8  Professional, x64
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: Parsec Virtual Display Adapter
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 0
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 0.45.0.0
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: AuthenticAMD
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: AMD Ryzen 7 5800X3D 8-Core Processor           
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: AMD64 Family 25 Model 33 Stepping 2
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3400
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 8 Core
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 34359738368
+000002.510|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000003.417|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000003.417|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000003.426|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000003.426|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000003.427|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000003.569|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000003.569|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x0259072c) enter
+000003.753|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000003.839|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000003.854|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: ../Air/preferences/
+000003.855|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000003.855|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(5914bd8) and resolution (1920 x 1080) 
+000003.855|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(5914bd8) and resolution (960 x 540) 
+000003.861|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000003.861|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=4) enter
+000003.861|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000004.087|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000004.215|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000004.407|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000004.441|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000004.643|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000004.643|       0.0000kb|      0.0000kb added| ALWAYS| Received client ID
+000004.644|       0.0000kb|      0.0000kb added| ALWAYS| Set focus to app
+000004.644|       0.0000kb|      0.0000kb added| ALWAYS| Input started
+000004.661|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req started
+000004.734|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req ended
+000004.735|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for server response...
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| Initializing GameModeComponents for mode=CLASSIC.
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = default.
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = LoadingScreenBackground(Data).
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = Clouds(Clouds).
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = FOWTexture(FogOfWarOverlay.dds).
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = HudSkin(Default).
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = NavigationMesh(AIPath).
+000004.837|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MiniMapTexture(2DLevelMinimap.dds).
+000004.838|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MapMusic(None).
+000004.838|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = BotSummonerIcon(0).
+000004.838|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = EndOfGameScreenText(Default).
+000004.838|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = CLASSIC.
+000004.838|       0.0000kb|      0.0000kb added| ALWAYS| netUID: 0 defaultname
+000004.842|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Started
+000005.156|       0.0000kb|      0.0000kb added|   WARN| General performance warning: more than 11 texture samplers are being used simultanously.
+Please bump this number if this is intentional up to 16 (inclusive)
+000005.160|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Entered
+000005.160|       0.0000kb|      0.0000kb added| ALWAYS| gRenderPipeline
+000005.168|       0.0000kb|      0.0000kb added| ALWAYS| CreateParticleSystemManager
+000005.556|       0.0000kb|      0.0000kb added| ALWAYS| CreateAudioManager: Create audio manager Wwise.
+000005.634|       0.0000kb|      0.0000kb added| ALWAYS| AudioManager: Wwise Version v2013.2.2 initialized.
+000005.643|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000005.850|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <nexus_diff.dds> *********
+000005.850|       0.0000kb|      0.0000kb added|  ERROR| Failed to load nexus_diff.dds
+000005.850|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: nexus_diff.dds - not found. Dummy texture created.
+000005.850|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_nexus_diff.dds> *********
+000005.850|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_nexus_diff.dds
+000005.851|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_nexus_diff.dds - not found. Dummy texture created.
+000005.851|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <inhibitor_diff.dds> *********
+000005.851|       0.0000kb|      0.0000kb added|  ERROR| Failed to load inhibitor_diff.dds
+000005.851|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: inhibitor_diff.dds - not found. Dummy texture created.
+000005.851|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_inhibitor_diff.dds> *********
+000005.851|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_inhibitor_diff.dds
+000005.851|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_inhibitor_diff.dds - not found. Dummy texture created.
+000005.851|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <grass_ground_new_dark.dds> *********
+000005.851|       0.0000kb|      0.0000kb added|  ERROR| Failed to load grass_ground_new_dark.dds
+000005.851|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: grass_ground_new_dark.dds - not found. Dummy texture created.
+000006.071|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretFortification.dds> *********
+000006.071|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretFortification.dds
+000006.071|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretFortification.dds - not found. Dummy texture created.
+000006.105|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretInitialArmor.dds> *********
+000006.105|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretInitialArmor.dds
+000006.105|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretInitialArmor.dds - not found. Dummy texture created.
+000008.096|       0.0000kb|      0.0000kb added| ALWAYS| Begin Game Object Update
+000008.269|       0.0000kb|      0.0000kb added| ALWAYS| End Game Object Update
+000008.505|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Summoner_fortify.dds> *********
+000008.505|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Summoner_fortify.dds
+000008.506|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Summoner_fortify.dds - not found. Dummy texture created.
+000008.610|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2051_Guardians_Horn_Counter.dds> *********
+000008.610|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2051_Guardians_Horn_Counter.dds
+000008.610|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2051_Guardians_Horn_Counter.dds - not found. Dummy texture created.
+000008.653|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <055_Borses_Staff_of_Apocalypse.tga> *********
+000008.654|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 055_Borses_Staff_of_Apocalypse.tga
+000008.654|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 055_Borses_Staff_of_Apocalypse.tga - not found. Dummy texture created.
+000008.715|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-wraith_flicker.tga> *********
+000008.715|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-wraith_flicker.tga
+000008.716|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wraith_flicker.tga - not found. Dummy texture created.
+000008.719|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<wraith_hit.sco>.
+000008.879|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2222_Transmutation_Crystal.dds> *********
+000008.879|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2222_Transmutation_Crystal.dds
+000008.879|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2222_Transmutation_Crystal.dds - not found. Dummy texture created.
+000008.931|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeproc"
+000008.931|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeprotect"
+000008.931|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkself"
+000008.931|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkally"
+000009.163|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3085.dds> *********
+000009.163|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3085.dds
+000009.163|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3085.dds - not found. Dummy texture created.
+000009.192|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Soraka_heal_color.tga> *********
+000009.192|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Soraka_heal_color.tga
+000009.192|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Soraka_heal_color.tga - not found. Dummy texture created.
+000009.321|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3154_WriggleLantern.dds> *********
+000009.322|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3154_WriggleLantern.dds
+000009.322|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3154_WriggleLantern.dds - not found. Dummy texture created.
+000009.479|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3210_Instigator.dds> *********
+000009.479|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3210_Instigator.dds
+000009.479|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3210_Instigator.dds - not found. Dummy texture created.
+000009.605|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-teleportrings.tga> *********
+000009.605|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-teleportrings.tga
+000009.605|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-teleportrings.tga - not found. Dummy texture created.
+000009.664|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3400_Karache.dds> *********
+000009.664|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3400_Karache.dds
+000009.664|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3400_Karache.dds - not found. Dummy texture created.
+000009.707|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Global_Asc_teleport_dust.scb>.
+000009.767|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3712_Kindled_Spirit.dds> *********
+000009.767|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3712_Kindled_Spirit.dds
+000009.767|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3712_Kindled_Spirit.dds - not found. Dummy texture created.
+000009.768|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "itemkindledspiritentrap"
+000010.050|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/-nolink.dds
+000010.050|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/TurretTipImage.png-nolink.dds
+000010.050|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/recapSplash.png-nolink.dds
+000011.392|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects
+000011.501|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects Finished
+000011.504|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Minotaur_TriumphantRoar.dds> *********
+000011.504|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Minotaur_TriumphantRoar.dds
+000011.504|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Minotaur_TriumphantRoar.dds - not found. Dummy texture created.
+000011.513|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <48thSlave_Pacify.dds> *********
+000011.513|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 48thSlave_Pacify.dds
+000011.513|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 48thSlave_Pacify.dds - not found. Dummy texture created.
+000012.860|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000012.861|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000012.973|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000012.977|       0.0000kb|      0.0000kb added| ALWAYS| Start Main Loop
+000012.984|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect
+000012.984|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect end
+000013.517|       0.0000kb|      0.0000kb added| ALWAYS| Spawning heroes/minions
+000013.531|       0.0000kb|      0.0000kb added| ALWAYS| Finished spawning heroes/minions
+000014.035|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000014.070|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [DATA/Characters/ezreal_cyber_1/Ezreal_cyber_1.skn], for asset [DATA/Characters/ezreal_cyber_1/Ezreal_cyber_1.ini], skin [DATA/Characters/ezreal_cyber_1/Ezreal_cyber_1.ini]
+000014.070|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000014.082|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [DATA/Characters/ezreal_cyber_2/Ezreal_cyber_2.skn], for asset [DATA/Characters/ezreal_cyber_2/Ezreal_cyber_2.ini], skin [DATA/Characters/ezreal_cyber_2/Ezreal_cyber_2.ini]
+000014.082|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000014.090|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [DATA/Characters/ezreal_cyber_3/Ezreal_cyber_3.skn], for asset [DATA/Characters/ezreal_cyber_3/Ezreal_cyber_3.ini], skin [DATA/Characters/ezreal_cyber_3/Ezreal_cyber_3.ini]
+000014.090|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000014.099|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Ezreal) with skinID 0 on team 100 for clientID 0 and summonername (Test) (is HUMAN PLAYER)
+000014.139|       0.0000kb|      0.0000kb added| ALWAYS| Hero Ezreal(0) created for Test
+000014.651|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000014.655|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000015.883|       0.0000kb|      0.0000kb added|  ERROR| HudJungleTimers: Timer data mismatch!
+000016.015|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_3
+000016.015|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_4
+000016.015|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_5
+000016.016|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 39 for character: Test
+000016.016|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 40 for character: Test
+000016.016|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 41 for character: Test
+000016.016|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 42 for character: Test
+000016.016|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 43 for character: Test
+000016.017|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Begin
+000016.017|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Update World
+000016.018|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuProcess
+000016.018|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDProcess
+000016.018|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Particle Simulation
+000016.018|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FOWUpdate
+000016.018|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP UpdateVis
+000016.020|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000016.020|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000016.072|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PostProcess
+000016.072|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP ApplyGamma
+000016.072|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDDraw
+000016.075|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuDraw
+000016.115|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP DrawSysInfo
+000016.115|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP MCommandDraw
+000016.115|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000016.115|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP AudioUpdate
+000016.115|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP EndRender & EndFrame
+000016.120|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP End
+000025.488|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000025.496|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000025.598|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000025.602|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000026.555|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000026.689|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000026.691|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000027.684|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Spell_Upgrade
+000030.671|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000031.710|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000032.234|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000032.530|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000032.777|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000033.011|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Close
+000040.402|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000040.402|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000040.402|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000040.402|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000040.402|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.402|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.403|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000041.129|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.130|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.130|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.130|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.522|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.522|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.522|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.522|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.873|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.873|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.873|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.873|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.016|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.016|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.017|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.017|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.350|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.350|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.350|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.350|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.677|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.678|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.678|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.678|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.998|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.998|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.998|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000042.998|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.174|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.174|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.174|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.174|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.337|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.338|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.338|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000043.338|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000048.898|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000048.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000048.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000048.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000048.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.149|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.149|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.149|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.149|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.339|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.339|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.339|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.340|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.539|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.539|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.539|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000049.539|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.550|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.550|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.550|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000050.550|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.882|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000052.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000052.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.034|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.034|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.034|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.034|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.396|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.396|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.396|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.397|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.570|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.570|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.570|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.570|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.751|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.752|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.752|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000053.752|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.804|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000055.804|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000055.804|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.805|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.805|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000055.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000056.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000056.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000056.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000056.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000064.885|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000065.565|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000065.771|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000066.049|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000071.671|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000072.350|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Close
+000078.088|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000078.088|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000078.088|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.088|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.088|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.703|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000080.703|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000080.703|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.703|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.703|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.891|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.891|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.891|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000080.891|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.078|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.079|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.079|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.079|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.291|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.291|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.291|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.291|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.479|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.479|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.479|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.479|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.719|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.719|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.719|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.719|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000081.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.183|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.184|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.184|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.184|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.784|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.784|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.784|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000082.785|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.007|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.007|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.007|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.007|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.373|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.373|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.373|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.373|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.557|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.558|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.558|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.558|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.745|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.745|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.745|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.746|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.911|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.911|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.911|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000083.911|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.135|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.135|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.135|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.135|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.536|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.536|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.536|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.536|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.736|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.736|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.736|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.736|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000084.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.099|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.099|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.099|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.099|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.286|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.287|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.287|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.287|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.487|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.487|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.487|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.487|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.765|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.765|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.765|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.765|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.928|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000085.929|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.178|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.179|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.179|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.179|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.354|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.354|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.354|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000086.354|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000087.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000087.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000087.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000087.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000087.804|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000089.793|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000090.498|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Click2
+000093.587|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Close
+000094.848|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000094.848|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000094.848|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.848|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.848|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.022|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.022|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.022|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.022|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.212|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.461|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.461|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.461|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.462|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.663|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.664|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.664|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.664|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.450|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000154.450|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000154.450|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000154.450|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000154.450|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.450|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.220|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.221|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.221|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.221|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.006|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000158.006|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000158.006|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.006|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.006|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.831|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.831|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.831|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.831|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.006|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.006|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.007|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.007|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.195|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.386|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.386|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.386|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.386|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.584|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.584|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.584|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.585|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.597|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000159.737|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.738|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.738|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.738|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.913|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000159.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000160.053|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.053|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.053|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.053|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.191|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.316|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.316|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.316|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.317|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.416|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000160.416|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000160.441|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.441|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.441|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.442|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.568|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.568|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.568|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.569|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.682|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000160.682|       0.0000kb|      0.0000kb added| ALWAYS| The Killer was: Turret_ChaosTurretShrine_A
+000160.682|       0.0000kb|      0.0000kb added| ALWAYS| DAMAGE
+000160.682|       0.0000kb|      0.0000kb added| ALWAYS| HEAL
+000160.682|       0.0000kb|      0.0000kb added| ALWAYS|   Test applied damage 7342.5 heal 7342.5 with abilities [summonerheal|damage:7342.5(0|0|0)|heal:7342.5|priority:103]
+000160.706|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.706|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.053|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000168.645|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000169.832|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000170.701|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000172.862|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000173.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000173.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000173.203|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000173.733|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000173.733|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000174.255|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000174.255|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000174.779|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000174.779|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000175.309|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000175.309|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000175.817|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000175.817|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000176.332|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000176.332|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000176.851|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000176.851|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000177.359|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000177.359|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000177.867|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000177.867|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000178.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000178.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000178.909|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000178.909|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000179.101|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000179.176|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000179.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000179.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000179.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000179.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000179.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: mCurrent <= mMax
+000183.548|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000183.636|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000183.851|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000183.940|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000184.079|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000184.153|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000189.426|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000189.426|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000189.505|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000189.505|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000189.995|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000190.007|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Click
+000190.082|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000190.147|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Generic_Button_Release
+000192.147|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000193.040|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000193.938|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000194.768|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000195.421|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000196.216|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: item_slot_drop
+000267.283|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000267.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000267.283|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000267.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000267.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.284|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.471|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.471|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.471|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.471|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000267.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000269.984|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000269.984|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000269.985|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000269.985|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000269.985|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.138|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.138|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.138|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.139|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.303|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.303|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.303|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000270.303|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000324.659|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000324.659|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_EndGame
+000325.401|       0.0000kb|      0.0000kb added| ALWAYS| Finished Main Loop
+000328.085|       0.0000kb|      0.0000kb added| ALWAYS| Finished Play game
+000328.086|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Game exited","exit_code":"EXITCODE_ABANDON"}
+000328.156|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() enter
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "WardOverwrite.tga" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "caution_small.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "attack_small.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "directionIndicator.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "shopkeeper_male_TX_CM.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "yonkey_base_TX_CM.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Ezreal_ProdigalExplorer.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Ezreal_Square_0.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "come_here_small.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "on_my_way_small.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "mia_small.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "get_back_small.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingCancel.dds" ref count 1.
+000328.171|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingMIA.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingComeHere.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingOMW.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "PingGetBack.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Trinket_Yellow_Upgrade_TX_CM.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YellowTrinket_TX_CM.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "HA_AP_Poro.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "SightWard.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "VisionWard.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "brush_SR.dds" ref count 6.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Nexus_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "OrderInhibitor_D.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Inhibitor_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_Destroyed_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "tower_destroyed_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosInhibitor_D.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Inhibitor_diff.dds" ref count 1.
+000328.172|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GreatWraith_base_TX_CM.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosTurretWorm2.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "wraith.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YoungLizard.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LizardElder.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GiantWolf.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lesserwraith.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AncientGolem.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Wolf.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Dragon.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lizard.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedHqTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedGateTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueGateTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueHqTower_diff.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_minion_Wizard.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_Basic.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechMelee.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechCannon.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Wizard.dds" ref count 1.
+000328.173|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Basic.dds" ref count 1.
+000328.174|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechMelee.dds" ref count 1.
+000328.174|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechCannon.dds" ref count 1.
+000328.174|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon0.dds" ref count 1.
+000328.174|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_flash.dds" ref count 1.
+000328.174|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_heal.dds" ref count 1.
+000328.176|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() exit
+000328.176|       0.0000kb|      0.0000kb added| ALWAYS| Destroying the Renderer (1)
+000328.177|       0.0000kb|      0.0000kb added| ALWAYS| game::Shutdown
+000328.177|       0.0000kb|      0.0000kb added| ALWAYS| ClientFacade::Stop
+000328.178|       0.0000kb|      0.0000kb added| ALWAYS| Bugsplat disabled (end of game?)
+000328.198|       0.0000kb|      0.0000kb added| ALWAYS| Exiting WinMain

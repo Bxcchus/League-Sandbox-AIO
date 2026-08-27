@@ -1,0 +1,80 @@
+2016-04-09T18-02-18: LogOut_File: : logfile started
+2016-04-09T18-02-18: Net Status: low-level initialize success.
+2016-04-09T18-02-18: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2016-04-09T18-02-18: time = time of logging
+2016-04-09T18-02-18: address = address of IP address
+2016-04-09T18-02-18: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2016-04-09T18-02-18: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2016-04-09T18-02-18: app_ctos = client to server bytes delta excluding overheads (app data only)
+2016-04-09T18-02-18: app_stoc = server to client bytes delta excluding overheads (app data only)
+2016-04-09T18-02-18: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2016-04-09T18-02-18: sent = number of packets sent. Spikes can indicate lag.
+2016-04-09T18-02-18: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2016-04-09T18-02-18: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2016-04-09T18-02-18: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2016-04-09T18-02-18: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2016-04-09T18-02-18: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2016-04-09T18-02-18: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2016-04-09T18-02-18: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+922,X.X.X.X,90,106,0,0,0,2,439,106,0,0,0,0
+11405,X.X.X.X,11684,1784,10010,590,0,28,26,26,0,0,4,0
+21406,X.X.X.X,27675,7449,12553,2015,0,51,15,6,0,1,5,0
+31407,X.X.X.X,34048,11942,4051,2091,0,83,10,4,0,1,5,0
+41443,X.X.X.X,34861,18398,401,5076,26,129,10,3,0,1,5,0
+51474,X.X.X.X,34861,25706,0,5916,35,138,10,3,0,1,5,0
+2016-04-09T18-03-15: 127.0.0.1 disconected.
+2016-04-09T18-03-15: ------------------------------------------------------------------------------
+2016-04-09T18-03-15: ===== START SUMMARY FOR: 127.0.0.1
+2016-04-09T18-03-15: ------------------------------------------------------------------------------
+2016-04-09T18-03-15:    Packet Type totals (<- in, out ->):
+2016-04-09T18-03-15:  Note that the count for PKT_Dummy is not an actual packet type, it indicates unknown packets that were not properly initialized with a type.
+2016-04-09T18-03-15: ID: 0 Count: 1 Bytes: 32 <- |
+2016-04-09T18-03-15: ID: 8 Count: 4 Bytes: 52 -> ||
+2016-04-09T18-03-15: ID: 17 Count: 1 Bytes: 5 <- |
+2016-04-09T18-03-15: ID: 20 Count: 4 Bytes: 20 -> ||
+2016-04-09T18-03-15: ID: 21 Count: 2 Bytes: 16 <- |
+2016-04-09T18-03-15: ID: 22 Count: 10 Bytes: 300 -> |||
+2016-04-09T18-03-15: ID: 42 Count: 1 Bytes: 535 <- |
+2016-04-09T18-03-15: ID: 44 Count: 27 Bytes: 162 <- |
+2016-04-09T18-03-15: ID: 46 Count: 407 Bytes: 13838 -> |||||||
+2016-04-09T18-03-15: ID: 69 Count: 2 Bytes: 28 <- |
+2016-04-09T18-03-15: ID: 71 Count: 1 Bytes: 6 -> |
+2016-04-09T18-03-15: ID: 76 Count: 1 Bytes: 203 <- |
+2016-04-09T18-03-15: ID: 82 Count: 1 Bytes: 21 -> |
+2016-04-09T18-03-15: ID: 84 Count: 1 Bytes: 5185 <- |
+2016-04-09T18-03-15: ID: 86 Count: 1 Bytes: 25 -> |
+2016-04-09T18-03-15: ID: 92 Count: 1 Bytes: 5 <- |
+2016-04-09T18-03-15: ID: 97 Count: 155 Bytes: 3713 <- |
+2016-04-09T18-03-15: ID: 98 Count: 1 Bytes: 7 <- |
+2016-04-09T18-03-15: ID: 100 Count: 1 Bytes: 9 -> |
+2016-04-09T18-03-15: ID: 101 Count: 1 Bytes: 24 <- |
+2016-04-09T18-03-15: ID: 102 Count: 1 Bytes: 22 <- |
+2016-04-09T18-03-15: ID: 103 Count: 1 Bytes: 401 <- |
+2016-04-09T18-03-15: ID: 111 Count: 1 Bytes: 13 <- |
+2016-04-09T18-03-15: ID: 114 Count: 41 Bytes: 1392 -> |||||
+2016-04-09T18-03-15: ID: 119 Count: 155 Bytes: 1550 -> ||||||
+2016-04-09T18-03-15: ID: 129 Count: 1 Bytes: 10 -> |
+2016-04-09T18-03-15: ID: 136 Count: 4 Bytes: 24 <- |
+2016-04-09T18-03-15: ID: 146 Count: 1 Bytes: 141 <- |
+2016-04-09T18-03-15: ID: 149 Count: 9 Bytes: 270 <- |
+2016-04-09T18-03-15: ID: 151 Count: 42 Bytes: 1932 <- |
+2016-04-09T18-03-15: ID: 157 Count: 24 Bytes: 1920 <- |
+2016-04-09T18-03-15: ID: 168 Count: 113 Bytes: 1017 -> ||||||
+2016-04-09T18-03-15: ID: 174 Count: 231 Bytes: 3385 <- |
+2016-04-09T18-03-15: ID: 186 Count: 53 Bytes: 3370 <- |
+2016-04-09T18-03-15: ID: 189 Count: 1 Bytes: 265 -> |
+2016-04-09T18-03-15: ID: 190 Count: 1 Bytes: 5 -> |
+2016-04-09T18-03-15: ID: 193 Count: 4 Bytes: 36 <- |
+2016-04-09T18-03-15: ID: 194 Count: 1 Bytes: 9 <- |
+2016-04-09T18-03-15: ID: 196 Count: 113 Bytes: 4785 <- |
+2016-04-09T18-03-15: ID: 208 Count: 4 Bytes: 792 <- |
+Total Outbound Packets: 741 Bytes: 18510 
+Total Inbound Packets: 683 Bytes: 27015 
+2016-04-09T18-03-15: ===== END SUMMARY FOR: 127.0.0.1
+2016-04-09T18-03-20: Memory Allocations 
+ Current Allocations = 18 
+ Total Allocations = 4923 
+ Max Allocations = 371 
+ Out of Pool Allocations = 8 
+ Out of Pool dealloc = 8 
+

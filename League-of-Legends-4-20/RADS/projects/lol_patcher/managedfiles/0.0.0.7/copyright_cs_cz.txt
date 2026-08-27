@@ -1,0 +1,11 @@
+﻿Copyright (c) 2008-2011 Marshall A. Greenblatt.  Na některé části se vztahuje copyright (c) 2006-2009 Google Inc.  Všechna práva vyhrazena.
+
+Redistribuce a použití ve zdrojové a binární formě s úpravami či bez nich je povoleno pouze v případě, že dojde k dodržení následujících podmínek:
+
+1. Redistribuce zdrojového kódu musí obsahovat výše uvedené upozornění o autorských právech, tento seznam podmínek a následující vyloučení odpovědnosti.
+
+2. Redistribuce v binární podobě musí ve své dokumentaci či v jiných materiálech, jež jsou dodávány společně s produktem, obsahovat výše uvedené upozornění o autorských právech, tento seznam podmínek a následující vyloučení odpovědnosti.
+
+3. Jména vlastníka autorských práv ani jeho přispěvatelů nesmí být bez předchozího písemného souhlasu použita pro podporu či propagaci produktů odvozených od tohoto softwaru.
+
+VLASTNÍCI AUTORSKÝCH PRÁV A JEJICH PŘISPĚVATELÉ POSKYTUJÍ TENTO SOFTWARE „TAK, JAK JE“ A ODMÍTAJÍ VEŠKERÉ VÝSLOVNÉ I PŘEDPOKLÁDANÉ ZÁRUKY, VČETNĚ, NIKOLI VŠAK POUZE, PŘEDPOKLÁDANÝCH ZÁRUK PRODEJNOSTI A ZPŮSOBILOSTI PRO KONKRÉTNÍ ÚČEL. VLASTNÍCI AUTORSKÝCH PRÁV A JEJICH PŘISPĚVATELÉ NEBUDOU V ŽÁDNÉM PŘÍPADĚ ODPOVĚDNI ZA JAKÉKOLI PŘÍMÉ, NEPŘÍMÉ, NÁHODNÉ, ZVLÁŠTNÍ, EXEMPLÁRNÍ NEBO NÁSLEDNÉ ŠKODY (VČETNĚ, NIKOLI VŠAK POUZE, ŠKOD SPJATÝCH S OBSTARÁNÍM NÁHRADNÍHO ZBOŽÍ NEBO SLUŽEB, NESCHOPNOSTÍ POUŽÍVAT VÝROBEK, ZTRÁTOU ÚDAJŮ, UŠLÝMI ZISKY NEBO PŘERUŠENÍM OBCHODNÍ ČINNOSTI) BEZ OHLEDU NA PŘÍČINU VZNIKU A NA VÝKLAD ODPOVĚDNOSTI (PODLE SMLOUVY, PŘESNĚ VYMEZENÉ ODPOVĚDNOSTI NEBO V RÁMCI OBČANSKOPRÁVNÍHO SPORU, A TO VČETNĚ NEDBALOSTNÍHO ČI JINÉHO), JEŽ VZNIKLY UŽÍVÁNÍM TOHOTO SOFTWARU, A TO DOKONCE I KDYBY BYLI INFORMOVÁNI O MOŽNOSTI TAKOVÝCH ŠKOD.

@@ -1,0 +1,68 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2016-04-15T03:02:50.413
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: S:\LeagueSandbox\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.000|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "S:\LeagueSandbox\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.000|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "S:/LeagueSandbox/League-of-Legends-4-20/RADS"
+000000.000|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("S:/LeagueSandbox/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.000|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("S:/LeagueSandbox/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.000|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("S:/LeagueSandbox/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.009|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("S:/LeagueSandbox/League-of-Legends-4-20/RADS/projects/lol_game_client/releases/0.0.1.7/releasemanifest")
+000000.293|       0.0000kb|      0.0000kb added| ALWAYS| Loaded RADS dynamic library: S:\LeagueSandbox\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.316|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.316|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.317|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.317|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000000.445|       0.0000kb|      0.0000kb added|   WARN| Couldn't initialize minidump file. _wmkdir returned 13
+000000.453|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000000.454|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000001.459|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000001.459|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000001.464|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000001.464|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000001.465|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000001.565|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000001.565|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x004e03a8) enter
+000001.588|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 7 Service Pack 1 Home Premium, x64
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| CPU: GenuineIntel, Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz, Intel64 Family 6 Model 63 Stepping 2, 3300 (0 core)
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3350
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| Display info: AMD Radeon R9 200 Series 3221225472 15.300.1025.0
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"7 Service Pack 1 Home Premium, x64","cpu":"GenuineIntel","cpu_processor":"Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz","cpu_identifier":"Intel64 Family 6 Model 63 Stepping 2","cpu_topology":6,"gpu":"AMD Radeon R9 200 Series","video_memory":"3221225472","driver_version":"15.300.1025.0","physical_memory":17179869184}
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 7 Service Pack 1 Home Premium, x64
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: AMD Radeon R9 200 Series
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 3221225472
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 15.300.1025.0
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: GenuineIntel
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: Intel(R) Core(TM) i7-5820K CPU @ 3.30GHz
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: Intel64 Family 6 Model 63 Stepping 2
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3300
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 6 Core
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.622|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000001.698|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000001.701|       0.0000kb|      0.0000kb added| ALWAYS| IME file, 'S:/LeagueSandbox/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml', is optional. The following error is expected.
+000001.701|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "S:/LeagueSandbox/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml" because it's not in the manifest.
+000001.702|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :S:/LeagueSandbox/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml
+000001.704|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: S:\LeagueSandbox\League-of-Legends-4-20\RADS\projects/lol_air_client/releases/0.0.1.119/deploy/preferences/
+000001.705|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000001.705|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(5f70408) and resolution (1280 x 960) 
+000001.705|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(5f70408) and resolution (960 x 540) 
+000001.712|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1280x960
+000001.712|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1280, YRes = 960, BPP = 32,  Flags=4) enter
+000001.712|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000001.831|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000002.007|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000002.257|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000002.287|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000032.372|       0.0000kb|      0.0000kb added|  ERROR| Timeout while waiting for client ID
+000032.372|       0.0000kb|      0.0000kb added|  ERROR| User cancelled after timeout while waiting for client ID
+000032.372|       0.0000kb|      0.0000kb added| ALWAYS| Performing WSAStartup
+000032.789|       0.0000kb|      0.0000kb added| ALWAYS| Performing WSACleanup
+000032.790|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() enter
+000032.791|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() exit
+000032.791|       0.0000kb|      0.0000kb added| ALWAYS| Destroying the Renderer (1)
+000032.791|       0.0000kb|      0.0000kb added| ALWAYS| game::Shutdown
+000032.791|       0.0000kb|      0.0000kb added| ALWAYS| ClientFacade::Stop
+000032.791|       0.0000kb|      0.0000kb added| ALWAYS| Bugsplat disabled (end of game?)
+000032.803|       0.0000kb|      0.0000kb added| ALWAYS| Exiting WinMain

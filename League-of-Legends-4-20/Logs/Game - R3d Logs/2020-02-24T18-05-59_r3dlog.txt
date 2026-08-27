@@ -1,0 +1,237 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2020-02-24T18:05:59.795
+000000.005|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends_UNPACKED\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends_UNPACKED\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS"
+000000.006|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.007|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::ReleaseManifest::LoadInternal: Failed to open "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::CreateListing: Failure to load project manifest "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::LoadSolution: RADS runtime environment load solution failed to create project listing: projectPath="E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends_UNPACKED/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235".
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::CollectProjects: RADS solution runtime environment project collection failed to load solution.
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::Create: RADS runtime environment creation failed because it was unable to collect the projects.
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initialization failed to create the runtime environment.
+000000.007|       0.0000kb|      0.0000kb added|  ERROR| Failed to initialize Rads dynamic library: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends_UNPACKED\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.032|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.032|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.033|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.033|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000000.098|       0.0000kb|      0.0000kb added|   WARN| Couldn't initialize minidump file. _wmkdir returned 13
+000000.129|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000000.135|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000001.486|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 8  Professional, x64
+000001.486|       0.0000kb|      0.0000kb added| ALWAYS| CPU: GenuineIntel, Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, Intel64 Family 6 Model 94 Stepping 3, 3504 (0 core)
+000001.486|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3553
+000001.486|       0.0000kb|      0.0000kb added| ALWAYS| Display info: NVIDIA GeForce GTX 960 4293918720 26.21.14.4166
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8  Professional, x64","cpu":"GenuineIntel","cpu_processor":"Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz","cpu_identifier":"Intel64 Family 6 Model 94 Stepping 3","cpu_topology":4,"gpu":"NVIDIA GeForce GTX 960","video_memory":"4293918720","driver_version":"26.21.14.4166","physical_memory":17179869184}
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 8  Professional, x64
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: NVIDIA GeForce GTX 960
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 4293918720
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 26.21.14.4166
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: GenuineIntel
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: Intel64 Family 6 Model 94 Stepping 3
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3504
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 4 Core
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.487|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000002.199|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000002.199|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000002.208|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000002.208|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000002.208|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000002.439|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000002.439|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x00680a10) enter
+000002.465|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000002.572|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000002.587|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: ../Air/preferences/
+000002.589|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000002.589|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(a581410) and resolution (1920 x 1080) 
+000002.589|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(a581410) and resolution (960 x 540) 
+000002.597|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000002.597|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=4) enter
+000002.597|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000002.792|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000002.952|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000003.197|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000003.231|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000003.433|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000003.433|       0.0000kb|      0.0000kb added| ALWAYS| Received client ID
+000003.434|       0.0000kb|      0.0000kb added| ALWAYS| Set focus to app
+000003.434|       0.0000kb|      0.0000kb added| ALWAYS| Input started
+000003.454|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req started
+000003.529|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req ended
+000003.529|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for server response...
+000003.630|       0.0000kb|      0.0000kb added| ALWAYS| Initializing GameModeComponents for mode=CLASSIC.
+000003.630|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = default.
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = LoadingScreenBackground(Data).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = Clouds(Clouds).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = FOWTexture(FogOfWarOverlay.dds).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = HudSkin(Default).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = NavigationMesh(AIPath).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MiniMapTexture(2DLevelMinimap.dds).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MapMusic(None).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = BotSummonerIcon(0).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = EndOfGameScreenText(Default).
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = CLASSIC.
+000003.631|       0.0000kb|      0.0000kb added| ALWAYS| netUID: 0 defaultname
+000003.643|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Started
+000003.916|       0.0000kb|      0.0000kb added|   WARN| General performance warning: more than 11 texture samplers are being used simultanously.
+Please bump this number if this is intentional up to 16 (inclusive)
+000003.920|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Entered
+000003.920|       0.0000kb|      0.0000kb added| ALWAYS| gRenderPipeline
+000003.929|       0.0000kb|      0.0000kb added| ALWAYS| CreateParticleSystemManager
+000004.433|       0.0000kb|      0.0000kb added| ALWAYS| CreateAudioManager: Create audio manager Wwise.
+000004.490|       0.0000kb|      0.0000kb added| ALWAYS| AudioManager: Wwise Version v2013.2.2 initialized.
+000004.724|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <nexus_diff.dds> *********
+000004.724|       0.0000kb|      0.0000kb added|  ERROR| Failed to load nexus_diff.dds
+000004.724|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: nexus_diff.dds - not found. Dummy texture created.
+000004.724|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_nexus_diff.dds> *********
+000004.724|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_nexus_diff.dds
+000004.724|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_nexus_diff.dds - not found. Dummy texture created.
+000004.724|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <inhibitor_diff.dds> *********
+000004.724|       0.0000kb|      0.0000kb added|  ERROR| Failed to load inhibitor_diff.dds
+000004.725|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: inhibitor_diff.dds - not found. Dummy texture created.
+000004.725|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_inhibitor_diff.dds> *********
+000004.725|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_inhibitor_diff.dds
+000004.725|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_inhibitor_diff.dds - not found. Dummy texture created.
+000004.725|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <grass_ground_new_dark.dds> *********
+000004.725|       0.0000kb|      0.0000kb added|  ERROR| Failed to load grass_ground_new_dark.dds
+000004.725|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: grass_ground_new_dark.dds - not found. Dummy texture created.
+000004.946|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretFortification.dds> *********
+000004.946|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretFortification.dds
+000004.946|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretFortification.dds - not found. Dummy texture created.
+000004.981|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretInitialArmor.dds> *********
+000004.981|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretInitialArmor.dds
+000004.981|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretInitialArmor.dds - not found. Dummy texture created.
+000006.587|       0.0000kb|      0.0000kb added| ALWAYS| Begin Game Object Update
+000006.799|       0.0000kb|      0.0000kb added| ALWAYS| End Game Object Update
+000006.960|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Summoner_fortify.dds> *********
+000006.960|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Summoner_fortify.dds
+000006.960|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Summoner_fortify.dds - not found. Dummy texture created.
+000007.030|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2051_Guardians_Horn_Counter.dds> *********
+000007.030|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2051_Guardians_Horn_Counter.dds
+000007.030|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2051_Guardians_Horn_Counter.dds - not found. Dummy texture created.
+000007.060|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <055_Borses_Staff_of_Apocalypse.tga> *********
+000007.060|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 055_Borses_Staff_of_Apocalypse.tga
+000007.060|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 055_Borses_Staff_of_Apocalypse.tga - not found. Dummy texture created.
+000007.093|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-wraith_flicker.tga> *********
+000007.093|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-wraith_flicker.tga
+000007.094|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wraith_flicker.tga - not found. Dummy texture created.
+000007.096|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<wraith_hit.sco>.
+000007.228|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2222_Transmutation_Crystal.dds> *********
+000007.228|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2222_Transmutation_Crystal.dds
+000007.228|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2222_Transmutation_Crystal.dds - not found. Dummy texture created.
+000007.272|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeproc"
+000007.272|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeprotect"
+000007.272|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkself"
+000007.272|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkally"
+000007.463|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3085.dds> *********
+000007.463|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3085.dds
+000007.463|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3085.dds - not found. Dummy texture created.
+000007.486|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Soraka_heal_color.tga> *********
+000007.486|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Soraka_heal_color.tga
+000007.486|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Soraka_heal_color.tga - not found. Dummy texture created.
+000007.593|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3154_WriggleLantern.dds> *********
+000007.593|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3154_WriggleLantern.dds
+000007.593|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3154_WriggleLantern.dds - not found. Dummy texture created.
+000007.666|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_intro.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.666|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_idle.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.666|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_death.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.666|       0.0000kb|      0.0000kb added|  ERROR| Failed to load animations.
+000007.666|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000007.668|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_intro.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.668|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_idle.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.668|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_death.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.668|       0.0000kb|      0.0000kb added|  ERROR| Failed to load animations.
+000007.668|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000007.736|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3210_Instigator.dds> *********
+000007.736|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3210_Instigator.dds
+000007.736|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3210_Instigator.dds - not found. Dummy texture created.
+000007.810|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_intro.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.810|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_idle.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.810|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_death.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.810|       0.0000kb|      0.0000kb added|  ERROR| Failed to load animations.
+000007.810|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000007.813|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_intro.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.813|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_idle.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.813|       0.0000kb|      0.0000kb added|  ERROR| Could not load animation [DATA/characters/yellowtrinketupgrade/skins/base/animations/greateryellow_trinket_death.anm] for animation pool: [DATA/Characters/yellowtrinketupgrade/Skins/Base/YellowTrinket.blnd]
+000007.813|       0.0000kb|      0.0000kb added|  ERROR| Failed to load animations.
+000007.813|       0.0000kb|      0.0000kb added|  ERROR| CharacterData::Load: Failed to load Skin description
+000007.860|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-teleportrings.tga> *********
+000007.860|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-teleportrings.tga
+000007.860|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-teleportrings.tga - not found. Dummy texture created.
+000007.923|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3400_Karache.dds> *********
+000007.923|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3400_Karache.dds
+000007.923|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3400_Karache.dds - not found. Dummy texture created.
+000007.961|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Global_Asc_teleport_dust.scb>.
+000008.025|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3712_Kindled_Spirit.dds> *********
+000008.025|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3712_Kindled_Spirit.dds
+000008.025|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3712_Kindled_Spirit.dds - not found. Dummy texture created.
+000008.026|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "itemkindledspiritentrap"
+000008.317|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/-nolink.dds
+000008.317|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/TurretTipImage.png-nolink.dds
+000008.317|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/recapSplash.png-nolink.dds
+000009.812|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects
+000009.939|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects Finished
+000009.942|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Minotaur_TriumphantRoar.dds> *********
+000009.942|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Minotaur_TriumphantRoar.dds
+000009.942|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Minotaur_TriumphantRoar.dds - not found. Dummy texture created.
+000009.951|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <48thSlave_Pacify.dds> *********
+000009.951|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 48thSlave_Pacify.dds
+000009.952|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 48thSlave_Pacify.dds - not found. Dummy texture created.
+000010.106|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Aatrox_impact_RGB.tga> *********
+000010.106|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Aatrox_impact_RGB.tga
+000010.106|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Aatrox_impact_RGB.tga - not found. Dummy texture created.
+000010.175|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <MasterYi_SunderingStrikes.dds> *********
+000010.175|       0.0000kb|      0.0000kb added|  ERROR| Failed to load MasterYi_SunderingStrikes.dds
+000010.175|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: MasterYi_SunderingStrikes.dds - not found. Dummy texture created.
+000010.179|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Aatrox_SunderingStrikes.dds> *********
+000010.179|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Aatrox_SunderingStrikes.dds
+000010.179|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Aatrox_SunderingStrikes.dds - not found. Dummy texture created.
+000010.234|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000010.249|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Aatrox_skin01_R_explosion_physical_clumps.tga> *********
+000010.249|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Aatrox_skin01_R_explosion_physical_clumps.tga
+000010.249|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Aatrox_skin01_R_explosion_physical_clumps.tga - not found. Dummy texture created.
+000011.574|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000011.576|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000011.638|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000011.649|       0.0000kb|      0.0000kb added| ALWAYS| Start Main Loop
+000011.649|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect
+000011.649|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect end
+000012.150|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000012.155|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Renekton_Predator.dds> *********
+000012.155|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Renekton_Predator.dds
+000012.155|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Renekton_Predator.dds - not found. Dummy texture created.
+000012.171|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Aatrox) with skinID 0 on team 100 for clientID 0 and summonername (Test) (is HUMAN PLAYER)
+000012.211|       0.0000kb|      0.0000kb added| ALWAYS| Hero Aatrox(0) created for Test
+000012.212|       0.0000kb|      0.0000kb added| ALWAYS| Spawning heroes/minions
+000012.219|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000012.223|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000013.118|       0.0000kb|      0.0000kb added| ALWAYS| Finished spawning heroes/minions
+000014.191|       0.0000kb|      0.0000kb added|  ERROR| HudJungleTimers: Timer data mismatch!
+000014.345|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_3
+000014.345|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_4
+000014.345|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_5
+000014.348|       0.0000kb|      0.0000kb added|  ERROR| malformed buffer, 300 vs 304
+000014.349|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Begin
+000014.349|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Update World
+000014.349|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuProcess
+000014.350|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDProcess
+000014.350|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Particle Simulation
+000014.350|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FOWUpdate
+000014.350|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP UpdateVis
+000014.352|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000014.352|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000014.390|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PostProcess
+000014.390|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP ApplyGamma
+000014.391|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDDraw
+000014.393|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuDraw
+000014.431|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP DrawSysInfo
+000014.431|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP MCommandDraw
+000014.431|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000014.431|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP AudioUpdate
+000014.431|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP EndRender & EndFrame
+000014.436|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP End

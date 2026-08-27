@@ -1,0 +1,609 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2026-08-27T17:14:02.824
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.001|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.001|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS"
+000000.001|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.002|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.002|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::ReleaseManifest::LoadInternal: Failed to open "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::CreateListing: Failure to load project manifest "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::LoadSolution: RADS runtime environment load solution failed to create project listing: projectPath="C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235".
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::CollectProjects: RADS solution runtime environment project collection failed to load solution.
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::Create: RADS runtime environment creation failed because it was unable to collect the projects.
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initialization failed to create the runtime environment.
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Failed to initialize Rads dynamic library: C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.039|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.039|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.040|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.040|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000000.151|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000000.151|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 8  Professional, x64
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| CPU: AuthenticAMD, AMD Ryzen 7 5800X3D 8-Core Processor           , AMD64 Family 25 Model 33 Stepping 2, 3400 (0 core)
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3398
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| Display info: Parsec Virtual Display Adapter 0 0.45.0.0
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 34359738368
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8  Professional, x64","cpu":"AuthenticAMD","cpu_processor":"AMD Ryzen 7 5800X3D 8-Core Processor           ","cpu_identifier":"AMD64 Family 25 Model 33 Stepping 2","cpu_topology":8,"gpu":"Parsec Virtual Display Adapter","video_memory":"0","driver_version":"0.45.0.0","physical_memory":34359738368}
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 8  Professional, x64
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: Parsec Virtual Display Adapter
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 0
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 0.45.0.0
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: AuthenticAMD
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: AMD Ryzen 7 5800X3D 8-Core Processor           
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: AMD64 Family 25 Model 33 Stepping 2
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3400
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 8 Core
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 34359738368
+000001.474|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000002.191|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000002.191|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000002.197|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000002.197|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000002.198|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000002.354|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000002.354|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x01ad075a) enter
+000002.452|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000002.538|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000002.548|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: ../Air/preferences/
+000002.550|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000002.550|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(a1c4988) and resolution (1920 x 1080) 
+000002.550|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(a1c4988) and resolution (960 x 540) 
+000002.572|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000002.572|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=4) enter
+000002.572|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000002.763|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000002.878|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000003.058|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000003.086|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000003.291|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000003.291|       0.0000kb|      0.0000kb added| ALWAYS| Received client ID
+000003.292|       0.0000kb|      0.0000kb added| ALWAYS| Set focus to app
+000003.292|       0.0000kb|      0.0000kb added| ALWAYS| Input started
+000003.308|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req started
+000003.362|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req ended
+000003.362|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for server response...
+000003.464|       0.0000kb|      0.0000kb added| ALWAYS| Initializing GameModeComponents for mode=CLASSIC.
+000003.464|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = default.
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = LoadingScreenBackground(Data).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = Clouds(Clouds).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = FOWTexture(FogOfWarOverlay.dds).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = HudSkin(Default).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = NavigationMesh(AIPath).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MiniMapTexture(2DLevelMinimap.dds).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MapMusic(None).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = BotSummonerIcon(0).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = EndOfGameScreenText(Default).
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = CLASSIC.
+000003.465|       0.0000kb|      0.0000kb added| ALWAYS| netUID: 0 defaultname
+000003.482|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Started
+000003.779|       0.0000kb|      0.0000kb added|   WARN| General performance warning: more than 11 texture samplers are being used simultanously.
+Please bump this number if this is intentional up to 16 (inclusive)
+000003.782|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Entered
+000003.782|       0.0000kb|      0.0000kb added| ALWAYS| gRenderPipeline
+000003.789|       0.0000kb|      0.0000kb added| ALWAYS| CreateParticleSystemManager
+000004.186|       0.0000kb|      0.0000kb added| ALWAYS| CreateAudioManager: Create audio manager Wwise.
+000004.236|       0.0000kb|      0.0000kb added| ALWAYS| AudioManager: Wwise Version v2013.2.2 initialized.
+000004.244|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000004.394|       0.0000kb|      0.0000kb added|  ERROR| AudioManager: Failed to load bank file MUS_Map11_audio_SOON.bnk! Error description: File not found.
+000004.394|       0.0000kb|      0.0000kb added|  ERROR| AudioManager: Failed to load bank file MUS_Map11_events_SOON.bnk! Error description: File not found.
+000004.394|       0.0000kb|      0.0000kb added|  ERROR| AudioManager: Failed to load bank file ENV_Map11_SFX_audio_FUTURE.bnk! Error description: File not found.
+000004.394|       0.0000kb|      0.0000kb added|  ERROR| AudioManager: Failed to load bank file ENV_Map11_SFX_events_FUTURE.bnk! Error description: File not found.
+000004.395|       0.0000kb|      0.0000kb added|  ERROR| AudioManager: Failed to load bank file NPC_Map11_VO_audio_FUTURE.bnk! Error description: File not found.
+000004.395|       0.0000kb|      0.0000kb added|  ERROR| AudioManager: Failed to load bank file NPC_Map11_VO_events_FUTURE.bnk! Error description: File not found.
+000004.395|       0.0000kb|      0.0000kb added|  ERROR| Audio::LoadLevelSoundBanks(): Error when loading sound banks for Map [11].
+000004.958|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretFortification.dds> *********
+000004.958|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretFortification.dds
+000004.958|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretFortification.dds - not found. Dummy texture created.
+000004.987|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretInitialArmor.dds> *********
+000004.987|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretInitialArmor.dds
+000004.987|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretInitialArmor.dds - not found. Dummy texture created.
+000005.154|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_pallybase_laserturret_runebinding.scb>.
+000005.271|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sruap_orderinhibitor_crystal.scb.
+000005.301|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sruap_orderinhibitor_crystal.scb.
+000005.372|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<SRUAP_Order_Nexus_afterGlow.scb>.
+000005.396|       0.0000kb|      0.0000kb added|  ERROR| Unable to properly load Character Package for [sr2_ordernexus] and skinID [0]
+000005.397|       0.0000kb|      0.0000kb added|  ERROR| Unable to properly load Character Package for [sr2_ordernexus] and skinID [0]
+000005.397|       0.0000kb|      0.0000kb added|  ERROR| Unable to properly load Character Package for [sr2_ordernexus] and skinID [0]
+000005.426|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [], for asset [data/particles/sru_chaos_nexus_explosion.troy], skin []
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle5
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle6
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle7
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle8
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle9
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle10
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle11
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle12
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle13
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle14
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle15
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle16
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle17
+000005.714|       0.0000kb|      0.0000kb added|   WARN| In Skin: DATA/Characters/SRU_Murkwolf/SRU_Murkwolf.ini, Could not find Particle18
+000005.737|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <SRU_VulturesMini_BA1_sparkRing.tga> *********
+000005.737|       0.0000kb|      0.0000kb added|  ERROR| Failed to load SRU_VulturesMini_BA1_sparkRing.tga
+000005.737|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: SRU_VulturesMini_BA1_sparkRing.tga - not found. Dummy texture created.
+000005.799|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_nexus_crystalemitter.scb.
+000005.802|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_nexus_crystalemitter.scb.
+000005.804|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_nexus_crystalemitter.scb.
+000005.805|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_nexus_crystalemitter.scb.
+000006.064|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [], for asset [data/particles/s5junglemushroomarmor_buf.troy], skin []
+000006.082|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Minotaur_TriumphantRoar.dds> *********
+000006.082|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Minotaur_TriumphantRoar.dds
+000006.082|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Minotaur_TriumphantRoar.dds - not found. Dummy texture created.
+000006.437|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TemplateFighterPassive.dds> *********
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TemplateFighterPassive.dds
+000006.636|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TemplateFighterPassive.dds - not found. Dummy texture created.
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TempChar_Circle.dds> *********
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TempChar_Circle.dds
+000006.636|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TempChar_Circle.dds - not found. Dummy texture created.
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TempChar_Square.dds> *********
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TempChar_Square.dds
+000006.636|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TempChar_Square.dds - not found. Dummy texture created.
+000006.636|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "TemplateFighterQ"
+000006.637|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "TemplateFighterW"
+000006.637|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "TemplateFighterE"
+000006.637|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "TemplateFighterR"
+000006.683|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <ChaosTurretWorm_Circle.dds> *********
+000006.683|       0.0000kb|      0.0000kb added|  ERROR| Failed to load ChaosTurretWorm_Circle.dds
+000006.683|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: ChaosTurretWorm_Circle.dds - not found. Dummy texture created.
+000006.683|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <ChaosTurretWorm_Square.dds> *********
+000006.683|       0.0000kb|      0.0000kb added|  ERROR| Failed to load ChaosTurretWorm_Square.dds
+000006.683|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: ChaosTurretWorm_Square.dds - not found. Dummy texture created.
+000006.889|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_sigil_speed_water_Edge_01.>.
+000006.895|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_sigil_speed_water_Edge_01.>.
+000006.932|       0.0000kb|      0.0000kb added|  ERROR| Unable to properly load Character Package for [Sru_Crab_Burrowed] and skinID [0]
+000007.549|       0.0000kb|      0.0000kb added|  ERROR| BUFF NAME COLLISION - existing: S5JungleMushroomArmor : game_buff_tooltip_S5JungleMushroomArmor, new: S5JungleMushroomArmor
+000007.549|       0.0000kb|      0.0000kb added|  ERROR| BUFF NAME COLLISION - existing: S5JungleMushroomArmor : game_buff_tooltip_S5JungleMushroomArmor, new: S5JungleMushroomArmor
+000007.909|       0.0000kb|      0.0000kb added| ALWAYS| Begin Game Object Update
+000008.040|       0.0000kb|      0.0000kb added| ALWAYS| End Game Object Update
+000008.080|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_pallybase_laserturret_runebinding.scb>.
+000008.096|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_pallybase_laserturret_runebinding.scb>.
+000008.130|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_pallybase_laserturret_runebinding.scb>.
+000008.169|       0.0000kb|      0.0000kb added|  ERROR| ?:0: attempt to call global 'SetDampenerRespawnAnimationDuration' (a nil value)
+000008.269|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Summoner_fortify.dds> *********
+000008.269|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Summoner_fortify.dds
+000008.269|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Summoner_fortify.dds - not found. Dummy texture created.
+000008.329|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2051_Guardians_Horn_Counter.dds> *********
+000008.329|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2051_Guardians_Horn_Counter.dds
+000008.329|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2051_Guardians_Horn_Counter.dds - not found. Dummy texture created.
+000008.352|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <055_Borses_Staff_of_Apocalypse.tga> *********
+000008.352|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 055_Borses_Staff_of_Apocalypse.tga
+000008.352|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 055_Borses_Staff_of_Apocalypse.tga - not found. Dummy texture created.
+000008.447|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-wraith_flicker.tga> *********
+000008.447|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-wraith_flicker.tga
+000008.447|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wraith_flicker.tga - not found. Dummy texture created.
+000008.449|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<wraith_hit.sco>.
+000008.551|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2222_Transmutation_Crystal.dds> *********
+000008.551|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2222_Transmutation_Crystal.dds
+000008.551|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2222_Transmutation_Crystal.dds - not found. Dummy texture created.
+000008.597|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeproc"
+000008.597|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeprotect"
+000008.597|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkself"
+000008.598|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkally"
+000008.816|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3085.dds> *********
+000008.816|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3085.dds
+000008.816|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3085.dds - not found. Dummy texture created.
+000008.837|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Soraka_heal_color.tga> *********
+000008.838|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Soraka_heal_color.tga
+000008.838|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Soraka_heal_color.tga - not found. Dummy texture created.
+000008.925|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3154_WriggleLantern.dds> *********
+000008.925|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3154_WriggleLantern.dds
+000008.925|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3154_WriggleLantern.dds - not found. Dummy texture created.
+000009.034|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3210_Instigator.dds> *********
+000009.034|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3210_Instigator.dds
+000009.034|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3210_Instigator.dds - not found. Dummy texture created.
+000009.133|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-teleportrings.tga> *********
+000009.133|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-teleportrings.tga
+000009.133|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-teleportrings.tga - not found. Dummy texture created.
+000009.185|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3400_Karache.dds> *********
+000009.185|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3400_Karache.dds
+000009.185|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3400_Karache.dds - not found. Dummy texture created.
+000009.216|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Global_Asc_teleport_dust.scb>.
+000009.268|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3712_Kindled_Spirit.dds> *********
+000009.268|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3712_Kindled_Spirit.dds
+000009.268|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3712_Kindled_Spirit.dds - not found. Dummy texture created.
+000009.268|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "itemkindledspiritentrap"
+000009.499|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/-nolink.dds
+000009.499|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/TurretTipImage.png-nolink.dds
+000009.499|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/recapSplash.png-nolink.dds
+000010.699|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects
+000010.699|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<SRUAP_Order_Nexus_afterGlow.scb>.
+000010.771|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [], for asset [data/particles/sru_order_inhibitor_explosion.troy], skin []
+000010.777|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [], for asset [data/particles/sru_chaos_nexus_explosion.troy], skin []
+000010.782|       0.0000kb|      0.0000kb added|  ERROR| Failed to load .skn file [], for asset [data/particles/sru_chaos_inhibitor_explosion.troy], skin []
+000010.793|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects Finished
+000010.802|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <48thSlave_Pacify.dds> *********
+000010.802|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 48thSlave_Pacify.dds
+000010.802|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 48thSlave_Pacify.dds - not found. Dummy texture created.
+000010.971|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_blockermotes_01.scb.
+000010.971|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_pallybase_blockerswirl_02.scb>.
+000010.988|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<SRU_River_Shore_South_1>.
+000011.023|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<sru_pchaos_platform_waterfall_highlight_01.scb>.
+000011.052|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_blockermotes_01.scb.
+000011.108|       0.0000kb|      0.0000kb added|  ERROR| Failed to load emmision mesh: sru_pallybase_nexus_crystalemitter.scb.
+000012.225|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000012.225|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000012.541|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000012.546|       0.0000kb|      0.0000kb added| ALWAYS| Start Main Loop
+000012.546|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect
+000012.546|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect end
+000013.124|       0.0000kb|      0.0000kb added| ALWAYS| Spawning heroes/minions
+000013.161|       0.0000kb|      0.0000kb added| ALWAYS| Finished spawning heroes/minions
+000014.215|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard4
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard8
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard4
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_snail4
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_bird
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse6
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_snail6
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_bird2
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse11
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_bird5
+000014.218|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse9
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard3
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_gromp_prop3
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_gromp_prop11
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse3
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse10
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse4
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_storeKeeperNorth
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_gromp_prop12
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_gromp_prop13
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse5
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse2
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_snail1
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_gromp_prop5
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_snail8
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard2
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard11
+000014.219|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard6
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_SRU_AntlerMouse7
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_dragon_prop1
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_snail5
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_snail3
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard9
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_gromp_prop
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_dragon_prop
+000014.220|       0.0000kb|      0.0000kb added|  ERROR| GameObject Network ID is being reset for LevelProp_sru_lizard12
+000014.220|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000014.227|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Pantheon) with skinID 0 on team 100 for clientID 0 and summonername (Test) (is HUMAN PLAYER)
+000014.267|       0.0000kb|      0.0000kb added| ALWAYS| Hero Pantheon(0) created for Test
+000014.795|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000014.799|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000015.498|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000015.638|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000015.648|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Garen) with skinID 0 on team 200 for clientID 1 and summonername (Garen Bot) (is BOT AI)
+000015.648|       0.0000kb|      0.0000kb added| ALWAYS| Hero Garen(0) created for Garen Bot
+000016.739|       0.0000kb|      0.0000kb added|  ERROR| HudJungleTimers: Timer data mismatch!
+000016.857|       0.0000kb|      0.0000kb added|  ERROR| Failed to load VO for shop "sru_storekeepersouth"
+000016.862|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_3
+000016.862|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_4
+000016.862|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_5
+000016.864|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 39 for character: Test
+000016.864|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 40 for character: Test
+000016.864|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 41 for character: Test
+000016.864|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 42 for character: Test
+000016.864|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 43 for character: Test
+000016.864|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Begin
+000016.864|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Update World
+000016.866|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuProcess
+000016.866|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDProcess
+000016.866|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Particle Simulation
+000016.866|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FOWUpdate
+000016.867|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP UpdateVis
+000016.869|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000016.869|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000016.916|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PostProcess
+000016.916|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP ApplyGamma
+000016.916|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDDraw
+000016.918|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuDraw
+000016.954|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP DrawSysInfo
+000016.954|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP MCommandDraw
+000016.954|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000016.954|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP AudioUpdate
+000016.954|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP EndRender & EndFrame
+000016.957|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP End
+000027.500|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000027.500|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000027.500|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000027.500|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000027.500|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.500|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.501|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000027.726|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.726|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.726|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.726|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.877|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.877|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.877|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000027.877|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.065|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.065|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.065|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.065|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.269|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.501|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.501|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.501|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.501|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.674|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.674|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.674|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.674|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.842|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.843|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.843|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000028.843|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.084|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.084|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.084|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.084|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.264|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.264|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.264|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.264|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.485|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.689|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.690|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.690|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.690|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000029.882|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.077|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.077|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.077|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.077|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.279|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.279|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.279|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.280|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000030.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.283|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000052.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000052.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.633|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.634|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.634|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000052.634|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000096.060|       0.0000kb|      0.0000kb added| ALWAYS| The Killer was: Garen Bot
+000096.060|       0.0000kb|      0.0000kb added| ALWAYS| DAMAGE
+000096.060|       0.0000kb|      0.0000kb added| ALWAYS| HEAL
+000096.060|       0.0000kb|      0.0000kb added| ALWAYS|   Test applied damage 3217.5 heal 3217.5 with abilities [summonerheal|damage:3217.5(0|0|0)|heal:3217.5|priority:163]
+000646.188|       0.0000kb|      0.0000kb added|   WARN| Attachment asked for a velocity on an object that no longer exists!
+000706.031|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000706.031|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000706.031|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000706.031|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000706.031|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.032|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.174|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.175|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.175|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.175|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.662|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.663|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.663|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.663|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.953|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.953|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.953|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000706.953|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000724.763|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Attempting to Reconnect popup displayed"}

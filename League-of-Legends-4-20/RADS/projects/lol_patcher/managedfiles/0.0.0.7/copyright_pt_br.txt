@@ -1,0 +1,11 @@
+﻿Direitos autorais (c) 2008-2011 Marshall A. Greenblatt.  Direitos autorais parciais (c) 2006-2009 Google Inc.  Todos os direitos reservados.
+
+A redistribuição e o uso em formas de fonte e binária, com ou sem modificação, são permitidas contanto que as condições abaixo sejam obedecidas:
+
+1. Redistribuições do código fonte devem reter o aviso de direitos autorais (copyright) acima, essa lista de condições e o aviso de exclusão de responsabilidade abaixo.
+
+2. Redistribuições em forma binária devem reproduzir o aviso de direitos autorais (copyright) acima, essa lista de condições e o aviso de exclusão de responsabilidade abaixo na documentação e/ou outros materiais proporcionados com a distribuição.
+
+3. Nem o nome do detentor dos direitos autorais nem os nomes de seus contribuidores pode ser usado para endossar ou promover produtos derivados desse software sem permissão prévia específica e escrita.
+
+ESSE SOFTWARE É PROPORCIONADO PELOS DETENTORES DE DIREITOS AUTORAIS E CONTRIBUIDORES "NO ESTADO" E QUALQUER GARANTIA EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO LIMITANDO-SE, ÀS GARANTIAS DE COMERCIALIZAÇÃO E ADAPTAÇÃO A UM PROPÓSITO PARTICULAR CONFORME AVISADO. EM NENHUMA CIRCUNSTÂNCIA DEVERÁ O DETENTOR DOS DIREITOS AUTORAIS OU CONTRIBUIDORES SEREM RESPONSÁVEIS POR QUALQUER DANO DIRETO, INDIRETO, INCIDENTAL, ESPECIAL, EXEMPLAR OU CONSEQUENTE (INCLUINDO, MAS NÃO LIMITANDO-SE A, OBTENÇÃO DE BENS OU SERVIÇOS SUBSTITUTOS; PERDA DE USO, DADOS OU LUCRO; OU INTERRUPÇÃO NOS NEGÓCIOS) SEJA QUAL FOR A CAUSA E EM QUALQUER TEORIA DE RESPONSABILIDADE, SEJA EM CONTRATO, RESPONSABILIDADE ESTRITA OU PREJUÍZO (INCLUINDO NEGLIGÊNCIA OU DE OUTRA FORMA) EM SURGIMENTO DE QUALQUER MANEIRA DO USO DESSE SOFTWARE, MESMO SE AVISADO DA POSSIBILIDADE DE TAIS DANOS.

@@ -1,0 +1,55 @@
+2016-04-06T19-50-26: LogOut_File: : logfile started
+2016-04-06T19-50-26: Net Status: low-level initialize success.
+2016-04-06T19-50-26: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2016-04-06T19-50-26: time = time of logging
+2016-04-06T19-50-26: address = address of IP address
+2016-04-06T19-50-26: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2016-04-06T19-50-26: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2016-04-06T19-50-26: app_ctos = client to server bytes delta excluding overheads (app data only)
+2016-04-06T19-50-26: app_stoc = server to client bytes delta excluding overheads (app data only)
+2016-04-06T19-50-26: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2016-04-06T19-50-26: sent = number of packets sent. Spikes can indicate lag.
+2016-04-06T19-50-26: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2016-04-06T19-50-26: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2016-04-06T19-50-26: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2016-04-06T19-50-26: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2016-04-06T19-50-26: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2016-04-06T19-50-26: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2016-04-06T19-50-26: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+964,X.X.X.X,90,106,0,0,0,2,440,106,0,0,0,0
+11471,X.X.X.X,11549,1657,6754,509,0,28,25,25,0,0,2,0
+21473,X.X.X.X,27641,7299,15773,1946,0,58,10,3,0,1,5,0
+31475,X.X.X.X,36046,12767,5661,2844,0,99,9,4,0,1,5,0
+41476,X.X.X.X,41115,15998,3371,1823,0,128,8,3,0,1,5,0
+51478,X.X.X.X,68154,27687,19711,4047,0,168,9,4,0,1,5,0
+61480,X.X.X.X,115090,46739,34244,5230,0,205,9,5,0,1,5,0
+71481,X.X.X.X,150774,60639,25728,3768,0,251,7,5,0,1,5,0
+81484,X.X.X.X,201595,79944,38095,5349,0,307,8,7,0,1,5,0
+91489,X.X.X.X,262903,105108,45714,6552,0,343,8,7,0,1,5,0
+101493,X.X.X.X,304095,122404,29666,4608,0,387,8,5,0,1,5,0
+111494,X.X.X.X,354826,142057,37739,5155,0,431,9,4,0,1,5,0
+121498,X.X.X.X,428305,168981,55857,7320,0,517,9,4,0,1,5,0
+131499,X.X.X.X,482457,188018,41134,5225,0,580,9,4,0,1,5,0
+141505,X.X.X.X,532097,204916,37696,4298,0,631,7,6,0,1,5,0
+151510,X.X.X.X,607262,233244,57363,7546,0,699,7,7,0,1,5,0
+161513,X.X.X.X,653102,252497,32810,4783,0,753,9,5,0,1,5,0
+171514,X.X.X.X,697766,270836,32276,4749,0,816,9,6,0,1,5,0
+181517,X.X.X.X,762929,298047,48513,6609,0,845,7,5,0,1,5,0
+191520,X.X.X.X,808596,315887,32911,3692,0,871,7,4,0,1,5,0
+201523,X.X.X.X,847941,330220,28583,2667,0,892,7,5,0,1,5,0
+211525,X.X.X.X,910198,357013,46167,7455,0,951,7,5,0,1,5,0
+221529,X.X.X.X,963136,379110,38434,5611,0,1011,7,5,0,1,5,0
+231530,X.X.X.X,1007469,399030,32271,5314,0,1062,7,4,0,1,5,0
+241532,X.X.X.X,1064361,421878,42156,5594,0,1103,8,6,0,1,5,0
+251534,X.X.X.X,1118970,445366,39909,6348,0,1162,7,7,0,1,5,0
+261536,X.X.X.X,1170966,467829,38546,7771,0,1278,8,5,0,1,5,0
+271539,X.X.X.X,1228283,491594,42419,7015,0,1362,7,7,0,1,5,0
+281541,X.X.X.X,1297309,522101,52538,11083,1,1523,7,4,0,1,5,0
+291543,X.X.X.X,1376012,554660,60937,10389,1,1637,7,4,0,1,5,0
+2016-04-06T19-55-28: Memory Allocations 
+ Current Allocations = 928 
+ Total Allocations = 213932 
+ Max Allocations = 944 
+ Out of Pool Allocations = 7 
+ Out of Pool dealloc = 7 
+

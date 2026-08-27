@@ -1,0 +1,83 @@
+2018-07-07T21-33-41: LogOut_File: : logfile started
+2018-07-07T21-33-41: Net Status: low-level initialize success.
+2018-07-07T21-33-41: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2018-07-07T21-33-41: time = time of logging
+2018-07-07T21-33-41: address = address of IP address
+2018-07-07T21-33-41: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2018-07-07T21-33-41: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2018-07-07T21-33-41: app_ctos = client to server bytes delta excluding overheads (app data only)
+2018-07-07T21-33-41: app_stoc = server to client bytes delta excluding overheads (app data only)
+2018-07-07T21-33-41: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2018-07-07T21-33-41: sent = number of packets sent. Spikes can indicate lag.
+2018-07-07T21-33-41: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2018-07-07T21-33-41: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2018-07-07T21-33-41: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2018-07-07T21-33-41: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2018-07-07T21-33-41: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2018-07-07T21-33-41: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2018-07-07T21-33-41: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+864,X.X.X.X,90,106,0,0,0,2,438,109,0,0,0,0
+11079,X.X.X.X,7024,1059,5952,559,0,27,20,30,0,0,0,0
+21082,X.X.X.X,226949,38659,198849,19870,0,52,7,7,0,11,5,0
+31083,X.X.X.X,724527,126729,452106,46576,0,78,7,7,0,12,5,0
+41085,X.X.X.X,770513,135256,41776,4623,23,115,7,7,0,12,5,0
+2018-07-07T21-34-32: 127.0.0.1 disconected.
+2018-07-07T21-34-32: ------------------------------------------------------------------------------
+2018-07-07T21-34-32: ===== START SUMMARY FOR: 127.0.0.1
+2018-07-07T21-34-32: ------------------------------------------------------------------------------
+2018-07-07T21-34-32:    Packet Type totals (<- in, out ->):
+2018-07-07T21-34-32:  Note that the count for PKT_Dummy is not an actual packet type, it indicates unknown packets that were not properly initialized with a type.
+2018-07-07T21-34-32: ID: 0 Count: 1 Bytes: 32 <- |
+2018-07-07T21-34-32: ID: 8 Count: 3 Bytes: 39 -> ||
+2018-07-07T21-34-32: ID: 17 Count: 1 Bytes: 5 <- |
+2018-07-07T21-34-32: ID: 20 Count: 3 Bytes: 15 -> ||
+2018-07-07T21-34-32: ID: 21 Count: 3 Bytes: 24 <- |
+2018-07-07T21-34-32: ID: 22 Count: 14 Bytes: 420 -> ||||
+2018-07-07T21-34-32: ID: 35 Count: 12 Bytes: 744 <- |
+2018-07-07T21-34-32: ID: 42 Count: 1 Bytes: 535 <- |
+2018-07-07T21-34-32: ID: 44 Count: 1 Bytes: 6 <- |
+2018-07-07T21-34-32: ID: 46 Count: 1 Bytes: 34 -> |
+2018-07-07T21-34-32: ID: 57 Count: 1 Bytes: 7 -> |
+2018-07-07T21-34-32: ID: 71 Count: 1 Bytes: 6 -> |
+2018-07-07T21-34-32: ID: 76 Count: 1 Bytes: 203 <- |
+2018-07-07T21-34-32: ID: 82 Count: 1 Bytes: 21 -> |
+2018-07-07T21-34-32: ID: 84 Count: 1 Bytes: 5185 <- |
+2018-07-07T21-34-32: ID: 86 Count: 1 Bytes: 25 -> |
+2018-07-07T21-34-32: ID: 92 Count: 1 Bytes: 5 <- |
+2018-07-07T21-34-32: ID: 98 Count: 1 Bytes: 7 <- |
+2018-07-07T21-34-32: ID: 100 Count: 1 Bytes: 9 -> |
+2018-07-07T21-34-32: ID: 101 Count: 1 Bytes: 24 <- |
+2018-07-07T21-34-32: ID: 102 Count: 1 Bytes: 22 <- |
+2018-07-07T21-34-32: ID: 103 Count: 1 Bytes: 401 <- |
+2018-07-07T21-34-32: ID: 111 Count: 49 Bytes: 637 <- |
+2018-07-07T21-34-32: ID: 114 Count: 5 Bytes: 150 -> ||
+2018-07-07T21-34-32: ID: 129 Count: 1 Bytes: 10 -> |
+2018-07-07T21-34-32: ID: 130 Count: 1 Bytes: 9 -> |
+2018-07-07T21-34-32: ID: 136 Count: 3 Bytes: 18 <- |
+2018-07-07T21-34-32: ID: 149 Count: 14 Bytes: 420 <- |
+2018-07-07T21-34-32: ID: 151 Count: 33 Bytes: 1518 <- |
+2018-07-07T21-34-32: ID: 154 Count: 13 Bytes: 351 -> |||
+2018-07-07T21-34-32: ID: 157 Count: 24 Bytes: 1896 <- |
+2018-07-07T21-34-32: ID: 168 Count: 7804 Bytes: 70236 -> ||||||||||
+2018-07-07T21-34-32: ID: 174 Count: 34 Bytes: 438 <- |
+2018-07-07T21-34-32: ID: 175 Count: 2 Bytes: 26 -> ||
+2018-07-07T21-34-32: ID: 186 Count: 10 Bytes: 128 <- |
+2018-07-07T21-34-32: ID: 189 Count: 1 Bytes: 265 -> |
+2018-07-07T21-34-32: ID: 190 Count: 1 Bytes: 5 -> |
+2018-07-07T21-34-32: ID: 193 Count: 3 Bytes: 27 <- |
+2018-07-07T21-34-32: ID: 194 Count: 1 Bytes: 9 <- |
+2018-07-07T21-34-32: ID: 196 Count: 7804 Bytes: 685086 <- |
+2018-07-07T21-34-32: ID: 208 Count: 4 Bytes: 792 <- |
+2018-07-07T21-34-32: ID: 247 Count: 1 Bytes: 521 <- |
+Total Outbound Packets: 7854 Bytes: 71628 
+Total Inbound Packets: 8006 Bytes: 698683 
+2018-07-07T21-34-32: ===== END SUMMARY FOR: 127.0.0.1
+51086,X.X.X.X,172,121,32,5,0,5,295,235,0,0,5,0
+61088,X.X.X.X,860,988,0,543,0,37,9,11,0,0,5,0
+2018-07-07T21-34-51: Memory Allocations 
+ Current Allocations = 2 
+ Total Allocations = 47894 
+ Max Allocations = 1031 
+ Out of Pool Allocations = 469 
+ Out of Pool dealloc = 469 
+

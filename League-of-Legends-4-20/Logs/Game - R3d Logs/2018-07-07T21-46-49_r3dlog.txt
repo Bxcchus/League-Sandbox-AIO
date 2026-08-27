@@ -1,0 +1,58 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2018-07-07T21:46:49.256
+000000.003|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.004|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.005|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS"
+000000.005|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.005|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.005|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.012|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/projects/lol_game_client/releases/0.0.1.7/releasemanifest")
+000000.356|       0.0000kb|      0.0000kb added| ALWAYS| Loaded RADS dynamic library: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.374|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.374|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.375|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.375|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000000.449|       0.0000kb|      0.0000kb added|   WARN| Couldn't initialize minidump file. _wmkdir returned 13
+000000.485|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000000.493|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000001.512|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000001.512|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000001.519|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000001.519|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000001.519|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000001.633|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000001.633|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x00c6088c) enter
+000001.648|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 8  Professional, x64
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| CPU: GenuineIntel, Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz, Intel64 Family 6 Model 94 Stepping 3, 3504 (0 core)
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3493
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| Display info: NVIDIA GeForce GTX 960 4293918720 24.21.13.9744
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8  Professional, x64","cpu":"GenuineIntel","cpu_processor":"Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz","cpu_identifier":"Intel64 Family 6 Model 94 Stepping 3","cpu_topology":4,"gpu":"NVIDIA GeForce GTX 960","video_memory":"4293918720","driver_version":"24.21.13.9744","physical_memory":17179869184}
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 8  Professional, x64
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: NVIDIA GeForce GTX 960
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 4293918720
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 24.21.13.9744
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: GenuineIntel
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: Intel(R) Core(TM) i5-6600K CPU @ 3.50GHz
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: Intel64 Family 6 Model 94 Stepping 3
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3504
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 4 Core
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 17179869184
+000001.669|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000001.746|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000001.749|       0.0000kb|      0.0000kb added| ALWAYS| IME file, 'E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml', is optional. The following error is expected.
+000001.750|       0.0000kb|      0.0000kb added|  ERROR| RadsOpenFile: RADS cannot open file "E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml" because it's not in the manifest.
+000001.750|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :E:/users/Owner/My Documents/DESKTOP STUFF/Games/LeagueSandbox/League of Legends/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/deploy/Data/Menu/IMEConfig.xml
+000001.754|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: E:\users\Owner\My Documents\DESKTOP STUFF\Games\LeagueSandbox\League of Legends\League-of-Legends-4-20\RADS\projects/lol_air_client/releases/0.0.1.119/deploy/preferences/
+000001.756|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000001.756|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(5d47008) and resolution (1920 x 1080) 
+000001.756|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(5d47008) and resolution (960 x 540) 
+000001.764|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000001.764|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=4) enter
+000001.764|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000001.925|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000002.067|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000002.279|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000002.313|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000002.487|       0.0000kb|      0.0000kb added|  ERROR| Crash Occurred

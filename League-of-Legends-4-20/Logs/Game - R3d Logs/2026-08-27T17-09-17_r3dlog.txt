@@ -1,0 +1,2929 @@
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Logging started at 2026-08-27T17:09:17.779
+000000.000|       0.0000kb|      0.0000kb added| ALWAYS| Loading RADS dynamic library: C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.001|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initializing with specified working directory "C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\solutions\lol_game_client_sln\releases\0.0.1.68\deploy".
+000000.001|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::RuntimeEnvironment::Create: Creating RADS runtime environment: RADS root directory = "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS"
+000000.001|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::SolutionManifest::Load: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/solutionmanifest")
+000000.002|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ConfigurationManifest::Load: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/solutions/lol_game_client_sln/releases/0.0.1.68/configurationmanifest")
+000000.002|       0.0000kb|      0.0000kb added|   OKAY| Riot::RADS::Reader::ReleaseManifest::LoadInternal: ("C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest")
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::ReleaseManifest::LoadInternal: Failed to open "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::CreateListing: Failure to load project manifest "C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235/releasemanifest".
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::`anonymous-namespace'::LoadSolution: RADS runtime environment load solution failed to create project listing: projectPath="C:/Users/Alexis/Documents/ChatGPT/League S4/League-of-Legends-4-20/RADS/projects/lol_game_client_en_gb/releases/0.0.0.235".
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::CollectProjects: RADS solution runtime environment project collection failed to load solution.
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RuntimeEnvironment::Create: RADS runtime environment creation failed because it was unable to collect the projects.
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Riot::RADS::Reader::RadsExportsMain::Initialize: RADS library initialization failed to create the runtime environment.
+000000.002|       0.0000kb|      0.0000kb added|  ERROR| Failed to initialize Rads dynamic library: C:\Users\Alexis\Documents\ChatGPT\League S4\League-of-Legends-4-20\RADS\RiotRadsIO.dll
+000000.035|       0.0000kb|      0.0000kb added|   OKAY| Unable to process data overlay file ./ToolsConfig.xml, defaulting to overlay now
+000000.035|       0.0000kb|      0.0000kb added| ALWAYS| Data overlay start folder initialized to DATA, Content/Src
+000000.036|       0.0000kb|      0.0000kb added| ALWAYS| Global logging level set to   WARN
+000000.036|       0.0000kb|      0.0000kb added| ALWAYS| Build Version: Version 4.20.0.315 (Nov 17 2014/17:46:45) [PUBLIC] <Releases/4.20> ChangeList: 795012
+000001.285|       0.0000kb|      0.0000kb added| ALWAYS| Started System Init
+000001.287|       0.0000kb|      0.0000kb added| ALWAYS| Maestro Init
+000002.693|       0.0000kb|      0.0000kb added| ALWAYS| OS Version String: 8  Professional, x64
+000002.693|       0.0000kb|      0.0000kb added| ALWAYS| CPU: AuthenticAMD, AMD Ryzen 7 5800X3D 8-Core Processor           , AMD64 Family 25 Model 33 Stepping 2, 3400 (0 core)
+000002.693|       0.0000kb|      0.0000kb added| ALWAYS| Measured processor speed: 3443
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| Display info: Parsec Virtual Display Adapter 0 0.45.0.0
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 34359738368
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"hardware_information","message_body":"Hardware Info","operating_system":"8  Professional, x64","cpu":"AuthenticAMD","cpu_processor":"AMD Ryzen 7 5800X3D 8-Core Processor           ","cpu_identifier":"AMD64 Family 25 Model 33 Stepping 2","cpu_topology":8,"gpu":"Parsec Virtual Display Adapter","video_memory":"0","driver_version":"0.45.0.0","physical_memory":34359738368}
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION START-----
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| Operating System: 8  Professional, x64
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| GPU Manufacturer: Parsec Virtual Display Adapter
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| GPU Memory: 0
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| GPU Driver Version: 0.45.0.0
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| CPU Brand: AuthenticAMD
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| CPU Processor Name: AMD Ryzen 7 5800X3D 8-Core Processor           
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| CPU Identifier: AMD64 Family 25 Model 33 Stepping 2
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| CPU Speed: 3400
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| CPU Topology: 8 Core
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| Physical memory: 34359738368
+000002.694|       0.0000kb|      0.0000kb added| ALWAYS| -----HARDWARE INFORMATION END-----
+000003.347|       0.0000kb|      0.0000kb added| ALWAYS| Maestro completed init
+000003.347|       0.0000kb|      0.0000kb added| ALWAYS| zip manifest, 'ClientZips.txt', not found (expected).
+000003.358|       0.0000kb|      0.0000kb added| ALWAYS| StartSession called
+000003.358|       0.0000kb|      0.0000kb added| ALWAYS| Started Init event arguments
+000003.359|       0.0000kb|      0.0000kb added| ALWAYS| Waiting until connection...
+000004.031|       0.0000kb|      0.0000kb added| ALWAYS| InitRenderer() enter
+000004.031|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init(0x018f032c) enter
+000004.170|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Init() exit successfully
+000004.264|       0.0000kb|      0.0000kb added| ALWAYS| Loaded locale en_GB via fontconfig
+000004.281|       0.0000kb|      0.0000kb added| ALWAYS| SharedConfigPath: ../Air/preferences/
+000004.282|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resizing the window and retrieving monitor info
+000004.282|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Initial VideoMode(595eed0) and resolution (1920 x 1080) 
+000004.282|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: VideoMode(595eed0) and resolution (960 x 540) 
+000004.301|       0.0000kb|      0.0000kb added| ALWAYS| In Riot::Win::Resize: Resized window to resolution 1920x1080
+000004.301|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode(XRes = 1920, YRes = 1080, BPP = 32,  Flags=4) enter
+000004.301|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Creating d3d device
+000004.578|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode: Initialize shaders for current rendering path
+000004.768|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::RecreateOwnedResources
+000005.033|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::SetMode exit successfully
+000005.076|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for client ID
+000005.278|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000005.278|       0.0000kb|      0.0000kb added| ALWAYS| Received client ID
+000005.280|       0.0000kb|      0.0000kb added| ALWAYS| Set focus to app
+000005.280|       0.0000kb|      0.0000kb added| ALWAYS| Input started
+000005.297|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req started
+000005.371|       0.0000kb|      0.0000kb added| ALWAYS| Query Status Req ended
+000005.371|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for server response...
+000005.474|       0.0000kb|      0.0000kb added| ALWAYS| Initializing GameModeComponents for mode=CLASSIC.
+000005.474|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = default.
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = LoadingScreenBackground(Data).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = Clouds(Clouds).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = FOWTexture(FogOfWarOverlay.dds).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = HudSkin(Default).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = NavigationMesh(AIPath).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MiniMapTexture(2DLevelMinimap.dds).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = MapMusic(None).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = BotSummonerIcon(0).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = EndOfGameScreenText(Default).
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| ... Processing GameMode Mutator = CLASSIC.
+000005.475|       0.0000kb|      0.0000kb added| ALWAYS| netUID: 0 defaultname
+000005.484|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Started
+000005.775|       0.0000kb|      0.0000kb added|   WARN| General performance warning: more than 11 texture samplers are being used simultanously.
+Please bump this number if this is intentional up to 16 (inclusive)
+000005.781|       0.0000kb|      0.0000kb added| ALWAYS| PlayGame Entered
+000005.781|       0.0000kb|      0.0000kb added| ALWAYS| gRenderPipeline
+000005.789|       0.0000kb|      0.0000kb added| ALWAYS| CreateParticleSystemManager
+000006.174|       0.0000kb|      0.0000kb added| ALWAYS| CreateAudioManager: Create audio manager Wwise.
+000006.249|       0.0000kb|      0.0000kb added| ALWAYS| AudioManager: Wwise Version v2013.2.2 initialized.
+000006.261|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Hard Connect"}
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <nexus_diff.dds> *********
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Failed to load nexus_diff.dds
+000006.511|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: nexus_diff.dds - not found. Dummy texture created.
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_nexus_diff.dds> *********
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_nexus_diff.dds
+000006.511|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_nexus_diff.dds - not found. Dummy texture created.
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <inhibitor_diff.dds> *********
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Failed to load inhibitor_diff.dds
+000006.511|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: inhibitor_diff.dds - not found. Dummy texture created.
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <chaos_inhibitor_diff.dds> *********
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Failed to load chaos_inhibitor_diff.dds
+000006.511|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: chaos_inhibitor_diff.dds - not found. Dummy texture created.
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <grass_ground_new_dark.dds> *********
+000006.511|       0.0000kb|      0.0000kb added|  ERROR| Failed to load grass_ground_new_dark.dds
+000006.511|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: grass_ground_new_dark.dds - not found. Dummy texture created.
+000006.788|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretFortification.dds> *********
+000006.788|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretFortification.dds
+000006.788|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretFortification.dds - not found. Dummy texture created.
+000006.828|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <TurretInitialArmor.dds> *********
+000006.828|       0.0000kb|      0.0000kb added|  ERROR| Failed to load TurretInitialArmor.dds
+000006.828|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: TurretInitialArmor.dds - not found. Dummy texture created.
+000009.311|       0.0000kb|      0.0000kb added| ALWAYS| Begin Game Object Update
+000009.538|       0.0000kb|      0.0000kb added| ALWAYS| End Game Object Update
+000009.778|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Summoner_fortify.dds> *********
+000009.778|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Summoner_fortify.dds
+000009.778|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Summoner_fortify.dds - not found. Dummy texture created.
+000009.872|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2051_Guardians_Horn_Counter.dds> *********
+000009.872|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2051_Guardians_Horn_Counter.dds
+000009.872|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2051_Guardians_Horn_Counter.dds - not found. Dummy texture created.
+000009.910|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <055_Borses_Staff_of_Apocalypse.tga> *********
+000009.910|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 055_Borses_Staff_of_Apocalypse.tga
+000009.910|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 055_Borses_Staff_of_Apocalypse.tga - not found. Dummy texture created.
+000009.954|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-wraith_flicker.tga> *********
+000009.954|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-wraith_flicker.tga
+000009.954|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-wraith_flicker.tga - not found. Dummy texture created.
+000009.957|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<wraith_hit.sco>.
+000010.130|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <2222_Transmutation_Crystal.dds> *********
+000010.130|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 2222_Transmutation_Crystal.dds
+000010.130|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 2222_Transmutation_Crystal.dds - not found. Dummy texture created.
+000010.193|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeproc"
+000010.193|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikeprotect"
+000010.193|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkself"
+000010.193|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "kalistacoopstrikemarkally"
+000010.468|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3085.dds> *********
+000010.469|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3085.dds
+000010.469|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3085.dds - not found. Dummy texture created.
+000010.511|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Soraka_heal_color.tga> *********
+000010.511|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Soraka_heal_color.tga
+000010.511|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Soraka_heal_color.tga - not found. Dummy texture created.
+000010.689|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3154_WriggleLantern.dds> *********
+000010.689|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3154_WriggleLantern.dds
+000010.689|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3154_WriggleLantern.dds - not found. Dummy texture created.
+000010.902|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3210_Instigator.dds> *********
+000010.902|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3210_Instigator.dds
+000010.902|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3210_Instigator.dds - not found. Dummy texture created.
+000011.056|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <color-teleportrings.tga> *********
+000011.056|       0.0000kb|      0.0000kb added|  ERROR| Failed to load color-teleportrings.tga
+000011.057|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: color-teleportrings.tga - not found. Dummy texture created.
+000011.127|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3400_Karache.dds> *********
+000011.128|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3400_Karache.dds
+000011.128|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3400_Karache.dds - not found. Dummy texture created.
+000011.175|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<Global_Asc_teleport_dust.scb>.
+000011.251|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <3712_Kindled_Spirit.dds> *********
+000011.251|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 3712_Kindled_Spirit.dds
+000011.251|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 3712_Kindled_Spirit.dds - not found. Dummy texture created.
+000011.251|       0.0000kb|      0.0000kb added|  ERROR| Failed to load spell ini or script: "itemkindledspiritentrap"
+000011.603|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/-nolink.dds
+000011.603|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/TurretTipImage.png-nolink.dds
+000011.603|       0.0000kb|      0.0000kb added|  ERROR| Missing file on r3dGFile open :DATA/Menu_SC4/recapSplash.png-nolink.dds
+000012.896|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects
+000013.041|       0.0000kb|      0.0000kb added| ALWAYS| PreloadGlobalEffects Finished
+000013.046|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <Minotaur_TriumphantRoar.dds> *********
+000013.046|       0.0000kb|      0.0000kb added|  ERROR| Failed to load Minotaur_TriumphantRoar.dds
+000013.046|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: Minotaur_TriumphantRoar.dds - not found. Dummy texture created.
+000013.059|       0.0000kb|      0.0000kb added|  ERROR| Can not open file <48thSlave_Pacify.dds> *********
+000013.059|       0.0000kb|      0.0000kb added|  ERROR| Failed to load 48thSlave_Pacify.dds
+000013.059|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX: 48thSlave_Pacify.dds - not found. Dummy texture created.
+000014.403|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000014.403|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000014.494|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000014.501|       0.0000kb|      0.0000kb added| ALWAYS| Start Main Loop
+000014.501|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect
+000014.501|       0.0000kb|      0.0000kb added| ALWAYS| Waiting for all players to connect end
+000015.046|       0.0000kb|      0.0000kb added| ALWAYS| Spawning heroes/minions
+000015.060|       0.0000kb|      0.0000kb added| ALWAYS| Finished spawning heroes/minions
+000015.578|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000015.602|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Pantheon) with skinID 0 on team 100 for clientID 0 and summonername (Test) (is HUMAN PLAYER)
+000015.645|       0.0000kb|      0.0000kb added| ALWAYS| Hero Pantheon(0) created for Test
+000016.162|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000016.168|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000016.972|       0.0000kb|      0.0000kb added| ALWAYS| Creating Hero...
+000017.209|       0.0000kb|      0.0000kb added|   WARN| r3dTexture EX:  - not found. Dummy texture created.
+000017.225|       0.0000kb|      0.0000kb added| ALWAYS| Spawning champion (Garen) with skinID 0 on team 200 for clientID 1 and summonername (Garen Bot) (is BOT AI)
+000017.225|       0.0000kb|      0.0000kb added| ALWAYS| Hero Garen(0) created for Garen Bot
+000018.319|       0.0000kb|      0.0000kb added|  ERROR| HudJungleTimers: Timer data mismatch!
+000018.517|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_3
+000018.517|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_4
+000018.517|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: scn7_btn_5
+000018.519|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 39 for character: Test
+000018.519|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 40 for character: Test
+000018.519|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 41 for character: Test
+000018.519|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 42 for character: Test
+000018.519|       0.0000kb|      0.0000kb added|  ERROR| Invalid Slot On Visibility Item Update: 43 for character: Test
+000018.519|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Begin
+000018.519|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Update World
+000018.520|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuProcess
+000018.520|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDProcess
+000018.520|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Particle Simulation
+000018.520|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FOWUpdate
+000018.521|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP UpdateVis
+000018.524|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PreRender
+000018.524|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP Render
+000018.566|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP PostProcess
+000018.566|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP ApplyGamma
+000018.566|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP HUDDraw
+000018.569|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP GUIMenuDraw
+000018.612|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP DrawSysInfo
+000018.612|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP MCommandDraw
+000018.612|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP FlushText
+000018.612|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP AudioUpdate
+000018.612|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP EndRender & EndFrame
+000018.616|       0.0000kb|      0.0000kb added| ALWAYS| GAMESTATE_GAMELOOP End
+000037.523|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000037.523|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000037.523|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000037.523|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000037.523|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.523|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.534|       0.0000kb|      0.0000kb added|  ERROR| Failed to load mesh file name<global_ss_exhaust_Spiral.scb>.
+000037.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.859|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.859|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.859|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000037.859|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.197|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.197|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.197|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.197|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.400|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.401|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.401|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.401|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.884|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000038.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.062|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.062|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.062|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.062|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.457|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.458|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.458|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.458|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.709|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.709|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.709|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.709|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.979|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.979|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.979|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000039.979|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.363|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.363|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.363|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.363|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.632|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.632|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.632|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000040.632|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.481|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.481|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.481|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000041.481|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.517|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000044.517|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000044.518|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.518|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.518|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.867|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.868|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.868|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000044.868|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.109|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000061.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000061.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.286|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.286|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.286|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.286|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000061.446|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.276|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000078.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000078.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.488|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.489|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.489|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000078.489|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.662|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000094.662|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000094.662|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.662|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.662|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.827|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.827|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.827|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000094.827|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.200|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.200|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.200|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.200|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.412|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.413|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.413|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000095.413|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.167|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000122.167|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000122.168|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.168|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.168|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.354|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.355|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.355|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000122.355|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.714|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000132.714|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000132.714|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.715|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.715|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.895|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.896|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.896|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000132.896|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.137|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.137|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.137|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.137|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.420|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.420|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.420|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.420|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.589|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.589|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.589|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.590|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.777|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.777|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.777|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.778|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.981|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.981|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.981|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000133.981|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.166|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.166|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.166|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.167|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.361|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.361|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.361|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.361|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.740|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.740|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.740|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.740|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.931|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.931|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.931|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000134.931|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.120|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.120|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.120|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.120|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.299|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.300|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.300|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.300|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.486|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.704|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.704|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.704|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.704|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.888|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.888|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.888|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000135.889|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.284|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.284|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.284|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.285|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.479|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.480|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.480|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.480|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.692|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.693|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.693|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.693|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.865|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.865|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.865|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000136.865|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.068|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.069|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.069|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.069|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.271|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.271|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.271|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.271|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.502|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.502|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.502|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.502|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000137.886|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.078|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.078|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.078|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.078|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.276|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.494|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.494|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.494|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.494|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.691|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.691|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.691|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.692|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.892|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.892|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.892|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000138.893|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.105|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.305|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.305|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.305|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.305|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.505|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.505|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.506|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.506|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.682|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.682|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.682|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.682|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.915|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.916|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.916|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000139.916|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.115|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.116|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.330|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.330|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.330|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.331|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.518|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.519|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.519|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.519|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.718|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.718|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.718|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.719|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.923|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000140.924|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.111|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.111|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.111|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.111|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.340|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.340|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.340|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.340|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.537|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.537|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.537|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.537|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.755|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.755|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.755|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.755|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.965|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.965|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.966|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000141.966|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.153|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.570|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.571|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.571|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.571|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.918|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.918|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.918|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000142.918|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.228|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.228|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.228|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.228|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.431|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.431|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.431|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.431|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.657|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.657|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.657|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.657|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.866|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.867|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.867|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000143.867|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.099|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.100|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.100|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.100|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.322|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.323|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.323|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.323|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.535|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.535|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.535|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.535|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.764|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.764|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.764|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.764|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.972|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.973|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.973|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000144.973|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.214|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.423|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.423|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.423|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.424|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.630|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.630|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.630|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.630|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.845|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000145.846|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.060|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.060|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.060|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.060|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.267|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.268|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.477|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.477|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.477|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.477|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.680|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.884|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.884|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.884|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000146.885|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.106|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.516|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.516|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.517|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.517|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.597|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.597|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.597|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.597|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.780|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.781|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.781|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.781|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.983|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.983|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.983|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000147.984|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.283|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.395|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.395|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.395|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.395|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.592|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.593|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.593|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.593|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.829|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.829|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.830|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000148.830|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.019|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.020|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.229|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.229|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.229|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.229|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.469|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.469|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.469|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.469|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.671|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.671|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.671|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.671|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.897|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000149.898|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.109|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.321|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.322|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.322|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.322|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.539|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.540|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.742|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.743|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.743|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.743|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000150.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.189|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.189|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.189|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.189|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.382|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.382|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.383|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.383|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.561|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.561|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.561|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.562|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.773|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.773|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.773|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.773|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.963|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.964|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.964|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000151.964|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.158|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.158|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.158|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.158|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.408|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.408|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.408|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.408|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.579|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.579|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.579|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.579|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.797|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.797|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.797|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000152.797|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.030|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.030|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.030|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.030|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.235|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.235|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.235|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.235|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.462|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.462|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.462|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.463|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.686|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.687|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.870|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.870|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.870|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000153.870|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.079|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.080|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.289|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.289|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.289|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.290|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.497|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.498|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.498|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.498|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.705|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.705|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.706|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.706|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.903|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.903|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.904|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000154.904|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.162|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.162|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.162|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.303|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.304|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.304|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.304|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.514|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.696|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000155.914|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.128|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.128|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.128|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.128|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.338|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.338|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.339|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.339|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.529|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.529|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.529|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.529|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.722|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.722|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.723|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.723|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.930|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.930|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.930|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000156.931|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.144|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.144|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.144|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.145|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.327|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.328|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.552|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.552|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.552|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.552|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.754|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.754|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.754|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.754|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.950|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.951|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.951|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000157.951|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.162|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.162|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.388|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.388|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.389|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.389|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.592|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.592|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.593|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.593|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.795|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.795|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.795|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000158.795|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.003|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.003|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.003|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.003|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.213|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.449|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.449|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.449|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.450|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.673|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.673|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.673|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.674|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.861|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.861|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.861|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000159.861|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.068|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.068|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.068|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.068|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.290|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.290|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.290|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.290|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.492|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.698|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.699|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.954|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.954|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.954|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000160.955|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.099|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.100|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.100|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.100|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.310|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.310|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.310|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.310|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.509|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.509|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.509|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.509|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.728|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.728|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.728|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.728|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000161.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.146|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.146|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.146|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.146|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.371|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.372|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.598|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.598|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.598|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.598|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.768|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.768|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.768|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.768|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.973|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.974|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.974|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000162.974|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.172|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.172|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.172|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.172|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.360|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.548|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.548|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.548|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.548|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.751|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.751|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.752|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.752|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.962|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.962|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.962|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000163.962|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.164|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.164|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.164|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.164|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.341|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.341|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.341|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.342|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.559|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.559|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.559|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.559|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.751|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.751|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.751|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.752|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.955|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.955|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.955|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000164.955|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.161|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.377|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.377|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.377|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.377|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.577|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.577|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.577|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.577|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.793|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.793|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.793|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000165.793|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.012|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.251|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.251|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.251|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000166.251|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.047|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.238|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.238|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.239|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.239|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.414|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.415|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.415|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.415|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.601|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.601|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.601|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.602|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.760|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.760|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.760|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.760|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.947|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.948|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.948|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000167.948|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.123|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.123|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.123|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.123|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.291|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.291|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.292|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.292|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.649|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.649|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.650|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000168.650|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000171.941|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000171.941|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000171.941|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000171.941|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000171.941|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000209.970|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000209.970|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000209.970|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 0829852b
+000209.970|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000209.970|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000209.970|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000216.954|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000216.954|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000216.954|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000216.954|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000216.955|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.157|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.157|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.157|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.158|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.334|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.334|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.334|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000217.335|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.154|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.155|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.155|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.155|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.404|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.404|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.404|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.405|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.646|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.646|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.646|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000218.646|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.453|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000227.453|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000227.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.454|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.641|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.641|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.641|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000227.641|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.464|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000241.464|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000241.464|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.464|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.464|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.701|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.702|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.702|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.702|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000241.939|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000243.114|       0.0000kb|      0.0000kb added|  ERROR| >>> BuffHashMap::HashToName - Match not found for hash 083a0504
+000243.114|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: script
+000243.114|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000243.114|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000243.114|       0.0000kb|      0.0000kb added|  ERROR| Assertion failed!
+
+Expression: sb->IsActive()
+000246.086|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Spell_Upgrade
+000272.771|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_Open
+000272.771|       0.0000kb|      0.0000kb added|   WARN| A HUD event is being identified in a deprecated way: Options_EndGame
+000273.107|       0.0000kb|      0.0000kb added| ALWAYS| Finished Main Loop
+000275.844|       0.0000kb|      0.0000kb added| ALWAYS| Finished Play game
+000275.844|       0.0000kb|      0.0000kb added| ALWAYS| {"messageType":"riot__game_client__connection_info","message_body":"Game exited","exit_code":"EXITCODE_ABANDON"}
+000275.923|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() enter
+000275.941|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "caution_small.dds" ref count 1.
+000275.941|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "attack_small.dds" ref count 1.
+000275.941|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "directionIndicator.dds" ref count 1.
+000275.941|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Garen_base_TX_GM.dds" ref count 1.
+000275.941|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Garen_Square.dds" ref count 1.
+000275.941|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "shopkeeper_male_TX_CM.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "yonkey_base_TX_CM.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pantheon.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Pantheon_Square_0.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "killIcon_normal.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "come_here_small.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "on_my_way_small.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "mia_small.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "get_back_small.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingCancel.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingMIA.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingComeHere.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "pingOMW.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "PingGetBack.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Trinket_Yellow_Upgrade_TX_CM.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YellowTrinket_TX_CM.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "HA_AP_Poro.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "SightWard.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "VisionWard.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Nexus_diff.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosInhibitor_D.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Chaos_Inhibitor_diff.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_Destroyed_diff.dds" ref count 1.
+000275.942|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Nexus_diff.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "UNNAMED" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "OrderInhibitor_D.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Inhibitor_diff.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "tower_destroyed_diff.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "brush_SR.dds" ref count 6.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GreatWraith_base_TX_CM.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "ChaosTurretWorm2.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "wraith.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "YoungLizard.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "LizardElder.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "GiantWolf.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lesserwraith.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AncientGolem.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Wolf.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "lichLoadScreen.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Golem.dds" ref count 1.
+000275.943|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Dragon.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Lizard.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedHqTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedGateTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "RedLaneTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueLaneTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueGateTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "BlueHqTower_diff.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_minion_Wizard.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_Basic.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechMelee.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Red_Minion_MechCannon.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Wizard.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_Basic.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechMelee.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Blue_Minion_MechCannon.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "AOE.tga" ref count 2.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "profileIcon0.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_flash.dds" ref count 1.
+000275.944|       0.0000kb|      0.0000kb added|   WARN| r3dRenderLayer::FlushTextures: The following texture was not released: "Summoner_heal.dds" ref count 1.
+000275.947|       0.0000kb|      0.0000kb added| ALWAYS| r3dRenderLayer::Close() exit
+000275.947|       0.0000kb|      0.0000kb added| ALWAYS| Destroying the Renderer (1)
+000275.947|       0.0000kb|      0.0000kb added| ALWAYS| game::Shutdown
+000275.947|       0.0000kb|      0.0000kb added| ALWAYS| ClientFacade::Stop
+000275.950|       0.0000kb|      0.0000kb added| ALWAYS| Bugsplat disabled (end of game?)
+000275.966|       0.0000kb|      0.0000kb added| ALWAYS| Exiting WinMain

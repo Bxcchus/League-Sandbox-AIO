@@ -1,0 +1,6 @@
+tr "flash_link_server_status" = "http://ru.leagueoflegends.com/ru/service-status"
+tr "flash_link_news" = "http://ru.leagueoflegends.com/ru/news"
+tr "flash_link_release_notes" = "http://ru.leagueoflegends.com/ru/news/release-notes"
+
+tr "url_host_news" = "ll.leagueoflegends.com"
+tr "url_path_news" = "/pages/launcher/ru-ru"

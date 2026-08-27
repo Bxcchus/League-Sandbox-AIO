@@ -1,0 +1,84 @@
+2026-08-26T00-46-01: LogOut_File: : logfile started
+2026-08-26T00-46-01: Net Status: low-level initialize success.
+2026-08-26T00-46-01: Note that this new version (12/19/2011) has reduced the frequency of updates so the numbers will be larger
+2026-08-26T00-46-01: time = time of logging
+2026-08-26T00-46-01: address = address of IP address
+2026-08-26T00-46-01: incoming = total size of messages set to me in bytes. Spikes can indicate lag.
+2026-08-26T00-46-01: outgoing = total size of messages set from me in bytes. Spikes can indicate lag.
+2026-08-26T00-46-01: app_ctos = client to server bytes delta excluding overheads (app data only)
+2026-08-26T00-46-01: app_stoc = server to client bytes delta excluding overheads (app data only)
+2026-08-26T00-46-01: loss = number of packets lost. Can indicate lags.  Some node on the network is dropping packets or taking to long and we have to resend them.
+2026-08-26T00-46-01: sent = number of packets sent. Spikes can indicate lag.
+2026-08-26T00-46-01: ping = how long it takes for a packet to get back and forth. Spikes can indicate lag.
+2026-08-26T00-46-01: variance = how much the ping is changing from avg ping. Spikes can indicate lag.
+2026-08-26T00-46-01: reliable delayed = This occurs when we drop reliable packets from sending this frame because we are sending to much data. Unreliable are more likely to be dropped than reliable.
+2026-08-26T00-46-01: unreliable delayed = This occurs when we drop unreliable packets from sending this frame because we are sending to much data.
+2026-08-26T00-46-01: app update delayed = This occurs when the app is taking to long to run code caused by network packets (ie CPU) and packets are delayed until the next frame
+2026-08-26T00-46-01: Time spent in critical section (frame) = This is the time the network thread is blocking the main thread from doing anything.
+2026-08-26T00-46-01: [time], [address], [incoming], [outgoing], [app_ctos], [app_stoc], [loss], [sent], [ping], [variance], [reliable delayed], [unreliable delayed], [app update delayed], [Time spent in critical section (frame)]
+1018,X.X.X.X,70,102,0,0,0,3,438,109,0,0,0,0
+11486,X.X.X.X,20364,3083,18002,983,0,33,11,16,0,0,6,0
+21487,X.X.X.X,30086,4848,8000,317,0,60,7,7,0,0,7,0
+31495,X.X.X.X,40155,7447,7911,1079,0,96,7,7,0,0,7,0
+41500,X.X.X.X,78673,22006,29582,5335,0,178,7,5,0,0,7,0
+51509,X.X.X.X,104532,35810,17959,5280,0,214,7,5,0,0,7,0
+61519,X.X.X.X,128307,48573,16333,4709,0,241,7,5,0,0,7,0
+71527,X.X.X.X,154117,61723,18028,4698,0,268,7,5,0,0,7,0
+81532,X.X.X.X,174088,71219,14497,4000,0,313,7,5,0,0,7,0
+91542,X.X.X.X,210324,80162,29300,2357,0,379,7,5,0,0,7,0
+101549,X.X.X.X,238074,83305,24852,1037,0,413,7,5,0,0,7,0
+111589,X.X.X.X,246414,85079,6750,560,1,435,7,7,0,0,7,0
+121630,X.X.X.X,250474,86104,2820,383,1,455,7,7,0,0,7,0
+131652,X.X.X.X,316291,101147,56705,4799,1,475,7,7,0,0,7,0
+141667,X.X.X.X,507085,130119,173102,7794,2,496,9,11,0,0,7,0
+151685,X.X.X.X,750337,162321,223218,8208,2,516,7,7,0,0,7,0
+161692,X.X.X.X,939685,192613,171040,9050,2,562,7,5,0,0,7,0
+171693,X.X.X.X,1161792,228096,199577,8389,2,609,7,4,0,0,7,0
+181738,X.X.X.X,1495596,271963,304950,8737,5,633,11,14,0,0,7,0
+191747,X.X.X.X,1776123,311305,255063,8346,5,656,7,7,0,0,7,0
+201802,X.X.X.X,1999839,355400,194568,7841,5,678,7,7,0,0,7,0
+211828,X.X.X.X,2287256,406032,253827,8542,5,698,7,7,0,0,7,0
+221852,X.X.X.X,2676694,452250,359480,9512,5,718,7,7,0,0,7,0
+231896,X.X.X.X,2947866,484719,250497,8391,6,738,7,7,0,0,7,0
+241906,X.X.X.X,3158662,515046,191980,7823,6,760,7,7,0,0,7,0
+251912,X.X.X.X,3376747,546881,197895,7925,6,782,7,6,0,0,7,0
+261960,X.X.X.X,3616047,577745,220118,7914,6,802,7,5,0,0,7,0
+271963,X.X.X.X,3801026,607528,166891,8495,6,834,7,4,0,0,7,0
+281966,X.X.X.X,4038654,645557,212699,9359,6,881,7,3,0,0,7,0
+291987,X.X.X.X,4345044,685254,281067,9075,7,905,15,16,0,0,7,0
+302009,X.X.X.X,4623150,720958,255544,8494,7,925,7,7,0,0,7,0
+312047,X.X.X.X,4903265,757118,257473,8726,7,945,7,4,0,0,7,0
+322074,X.X.X.X,5224719,794510,297836,8774,7,965,7,4,0,0,7,0
+332113,X.X.X.X,5570453,836065,318600,8817,7,985,7,4,0,0,7,0
+342121,X.X.X.X,5772575,866254,183432,7887,8,1008,7,6,0,0,7,0
+352131,X.X.X.X,5951135,892831,162312,7313,8,1031,7,6,0,0,7,0
+362177,X.X.X.X,6245955,930469,270310,8280,9,1055,10,10,0,0,7,0
+372214,X.X.X.X,6550275,966145,281007,8250,9,1075,7,6,0,0,7,0
+382217,X.X.X.X,6758099,996671,188988,7860,9,1095,7,5,0,0,7,0
+392236,X.X.X.X,7070541,1034449,288300,8512,9,1115,7,5,0,0,7,0
+402243,X.X.X.X,7342231,1070525,248726,8318,9,1140,7,4,0,0,7,0
+412245,X.X.X.X,7660521,1112591,291213,10096,9,1205,7,4,0,0,7,0
+422278,X.X.X.X,7975623,1157163,285350,8586,9,1231,7,4,0,0,7,0
+432322,X.X.X.X,8274950,1193226,276577,8501,10,1252,7,7,0,0,7,0
+442325,X.X.X.X,8547931,1232119,247879,8171,11,1273,7,6,0,0,7,0
+452344,X.X.X.X,8792201,1264830,224002,8365,11,1293,7,4,0,0,7,0
+462362,X.X.X.X,9034567,1297957,221620,8189,11,1313,7,4,0,0,7,0
+472368,X.X.X.X,9276777,1330749,221748,8086,12,1334,7,7,0,0,7,0
+482418,X.X.X.X,9518087,1364005,220370,8038,12,1354,7,7,0,0,7,0
+492474,X.X.X.X,9765384,1397227,226573,8230,12,1374,7,7,0,0,7,0
+502499,X.X.X.X,10060549,1438924,268075,8359,12,1394,7,7,0,0,7,0
+512526,X.X.X.X,10312929,1476570,227930,7940,13,1415,7,7,0,0,7,0
+522569,X.X.X.X,10511449,1505988,180450,8000,13,1436,7,5,0,0,7,0
+532574,X.X.X.X,10724300,1537975,192965,8009,13,1456,7,4,0,0,7,0
+542575,X.X.X.X,10990942,1572658,244678,7985,14,1477,11,11,0,0,7,0
+552577,X.X.X.X,11230242,1608010,217110,9356,14,1512,7,4,0,0,7,0
+562585,X.X.X.X,11521503,1649470,266167,11566,14,1547,7,3,0,0,7,0
+572586,X.X.X.X,11761801,1682638,219892,8406,35,1599,7,4,0,0,7,0
+582640,X.X.X.X,11761801,1690054,0,6010,72,1645,7,4,0,0,7,0
+2026-08-26T00-55-52: Memory Allocations 
+ Current Allocations = 0 
+ Total Allocations = 624935 
+ Max Allocations = 435 
+ Out of Pool Allocations = 14971 
+ Out of Pool dealloc = 14971 
+

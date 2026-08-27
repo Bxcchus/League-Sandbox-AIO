@@ -1,0 +1,6 @@
+tr "flash_link_server_status" = "http://euw.leagueoflegends.com/fr/service-status"
+tr "flash_link_news" = "http://euw.leagueoflegends.com/fr/news"
+tr "flash_link_release_notes" = "http://euw.leagueoflegends.com/fr/news/release-notes"
+
+tr "url_host_news" = "ll.leagueoflegends.com"
+tr "url_path_news" = "/pages/launcher/euw-fr"

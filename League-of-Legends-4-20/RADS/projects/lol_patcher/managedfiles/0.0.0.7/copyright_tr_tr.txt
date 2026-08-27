@@ -1,0 +1,11 @@
+﻿Telif haklari (c) 2008-2011 Marshall A. Greenblatt. Kısmi telif hakları(c) 2006-2009 Google Inc. Tüm hakları saklıdır.
+
+Aşağıdaki koşullara uyulduğu sürece değiştirilerek ya da değiştirilmeden yeniden dağıtılabilir, kaynak kodunda ve ikili kod biçiminde kullanılabilir:
+
+1. Yeniden dağıtılan kodda, yukarıdaki telif hakkı uyarısı, bu koşullar listesi ve aşağıdaki uyarılar ekli kalmalıdır.
+
+2. İkili kod biçiminde yeniden dağıtıldığında, dağıtımın yanında temin edilen dokümanlarda ve/veya diğer belgelerde yukarıdaki telif hakkı uyarısı, bu koşullar listesi ve aşağıdaki uyarılar ekli kalmalıdır.
+
+3. Bu yazılımdan elde edilen ürünlerin reklam ve tanıtımında telif hakkı sahibinin adı ve katkıda bulunanların adları, önceden verilmiş yazılı izin olmadan kullanılamaz.
+
+BU YAZILIM, TELİF HAKKI SAHİBİ VE KATKIDA BULUNANLAR TARAFINDAN "OLDUĞU GİBİ" DAĞITILMAKTADIR. PAZARLANABİLİRLİK VE BELİRLİ BİR AMACA UYGUNLUK DA DAHİL OLMAK ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE AÇIK YA DA ZIMNÎ HERHANGİ BİR GARANTİ VERİLMEMEKTEDİR. TELİF HAKKI SAHİBİ VE KATKIDA BULUNANLAR HİÇBİR KOŞUL ALTINDA; YERİNE KULLANILABİLECEK ÜRÜN YA DA HİZMETLERİN TEDARİKİ, ARIZA, VERİ YA DA KÂR KAYBI VE İŞ YAPMADA KESİNTİ DURUMLARI DA DAHİL OLMAK ANCAK BUNLARLA SINIRLI OLMAMAK ÜZERE, HERHANGİ BİR DOĞRUDAN, DOLAYLI, TESADÜFİ YA DA KASITLI HASARIN VE (İHMAL VE DİĞER DURUMLAR DA DAHİL OLMAK ÜZERE) YANLIŞ KULLANIMIN SONUÇLARINDAN, KULLANAN BU KONUDA UYARILMIŞ BİLE OLSA SORUMLU YA DA YÜKÜMLÜ TUTULAMAZ.

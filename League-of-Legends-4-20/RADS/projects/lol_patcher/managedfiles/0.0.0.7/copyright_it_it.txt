@@ -1,0 +1,11 @@
+Copyright (c) 2008-2011 Marshall A. Greenblatt. Parti copyright (c) 2006-2009 Google Inc. Tutti i diritti riservati.
+
+È consentita la ridistribuzione e l'utilizzo in forma sorgente e binaria, con o senza modifiche, a patto che vengano soddisfatte le seguenti condizioni:
+
+1. Le ridistribuzioni del codice sorgente devono conservare le note sul copyright di cui sopra, questo elenco di condizioni e la seguente limitazione di responsabilità.
+
+2. Le ridistribuzioni in forma binaria devono contenere le note sul copyright di cui sopra, questo elenco di condizioni e la seguente limitazione di responsabilità nella documentazione e/o negli altri materiali forniti con la distribuzione.
+
+3. Né il nome del titolare del copyright, né quelli dei suoi contributori, possono essere usati per approvare o promuovere prodotti derivati da questo software in assenza di un'autorizzazione scritta.
+
+QUESTO SOFTWARE È FORNITO DAI DETENTORI DEL COPYRIGHT E DAI LORO CONTRIBUTORI "COSÌ COM'È", SENZA ALCUNA GARANZIA, IMPLICITA O ESPLICITA, INCLUSE, A MERO TITOLO ESEMPLIFICATIVO MA NON ESAUSTIVO, LE GARANZIE IMPLICITE DI COMMERCIABILITÀ E IDONEITÀ PER UNO SCOPO PARTICOLARE. IN NESSUN CASO IL DETENTORE DEL COPYRIGHT O I SUOI CONTRIBUTORI POSSONO ESSERE RITENUTI RESPONSABILI PER QUALSIASI TIPO DI DANNI DIRETTI, INDIRETTI, INCIDENTALI, SPECIALI, ESEMPLARI O CONSEQUENZIALI (INCLUSO, A MERO TITOLO ESEMPLIFICATIVO MA NON ESAUSTIVO, PROCACCIAMENTO DI BENI O SERVIZI SOSTITUTIVI, PERDITA D'USO, PERDITA DI DATI, PERDITA DI UTILI O INTERRUZIONE DI ATTIVITÀ COMMERCIALE) QUALUNQUE SIA LA CAUSA E PER QUALSIASI TEORIA SULLA RESPONSABILITÀ, SIA PER RESPONSABILITÀ CONTRATTUALE, RESPONSABILITÀ OGGETTIVA O EXTRACONTRATTUALE (COMPRESA NEGLIGENZA O ALTRO) DERIVANTE IN QUALUNQUE MODO DALL'UTILIZZO DI QUESTO SOFTWARE, ANCHE SE IL DETENTORE DEL COPYRIGHT O I SUOI CONTRIBUTORI ERANO AL CORRENTE DELLA POSSIBILITÀ DI TALI DANNI.

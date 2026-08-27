@@ -1,0 +1,11 @@
+﻿Drepturi de autor (c) 2008-2011 Marshall A. Greenblatt.  Părți drepturi de autor (c) 2006-2009 Google Inc.  Toate drepturile rezervate.
+
+Redistribuirea și utilizarea în format sursă și binar, cu sau fără modificări, sunt permise doar în cazul în care următoarele condiții sunt întrunite:
+
+1. Redistribuirea codului sursă trebuie să conțină notificarea de mai sus privind drepturile de autor, prezenta listă de condiții și următorul disclaimer.
+
+2. Redistribuirea în format binar trebuie să reproducă notificarea de mai sus privind drepturile de autor, prezenta listă de condiții și următorul disclaimer în documentație și/sau alte materiale furnizate odată cu distribuirea.
+
+3. Nici numele deținătorului drepturilor de autor, nici numele colaboratorilor săi nu pot fi utilizate pentru susținerea sau promovarea produselor derivate din acest software fără permisiune prealabilă specifică, în scris.
+
+ACEST SOFTWARE ESTE FURNIZAT DE CĂTRE DEȚINĂTORII DREPTURILOR DE AUTOR ȘI COLABORATORI "CA ATARE" ȘI SE DECLINĂ RĂSPUNDEREA FAȚĂ DE ORICE GARANȚII EXPLICITE SAU IMPLICITE, INCLUSIV, DAR FĂRĂ A SE LIMITA LA, GARANȚIILE IMPLICITE DE VANDABILITATE ȘI ADECVARE PENTRU UN ANUMIT SCOP. ÎN NICIO SITUAȚIE DEȚINĂTORUL DREPTURILOR DE AUTOR SAU COLABORATORII NU SUNT RĂSPUNZĂTORI PENTRU NICIUN FEL DE DAUNE DIRECTE, INDIRECTE, INCIDENTALE, SPECIALE, EXEMPLARE SAU PE CALE DE CONSECINȚĂ (INCLUSIV, DAR FĂRĂ A SE LIMITA LA, ACHIZIȚIA DE BUNURI SAU SERVICII ÎNLOCUITOARE; PIERDEREA UTILIZĂRII, DATELOR SAU PROFITURILOR; SAU ÎNTRERUPEREA ACTIVITĂȚII), ORICARE AR FI CAUZA ȘI RĂSPUNDEREA, FIE PRIN CONTRACT, RĂSPUNDERE STRICTĂ SAU PREJUDICII (INCLUSIV NEGLIJENȚĂ SAU ALTELE), CARE DECURG ÎN ORICE MOD DIN UTILIZAREA ACESTUI SOFTWARE, CHIAR DACĂ AU FOST ÎNȘTIINȚAȚI DE POSIBILITATEA PRODUCERII UNOR ASTFEL DE DAUNE.

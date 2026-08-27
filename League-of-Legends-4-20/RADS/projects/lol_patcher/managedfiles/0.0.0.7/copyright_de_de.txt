@@ -1,0 +1,11 @@
+﻿Copyright © 2008-2011 Marshall A. Greenblatt.  Teile Copyright © 2006-2009 Google Inc.  Alle Rechte vorbehalten.
+
+Die Weitergabe und Verwendung als Quellcode oder Binärcode mit oder ohne Modifikationen ist erlaubt, sofern die folgenden Bedingungen eingehalten werden:
+
+1. Die Weitergabe als Quellcode muss die obige Urheberrechtsangabe enthalten, diese Liste an Bedingungen und den folgenden Haftungsausschluss.
+
+2. Die Weitergabe als Binärcode muss die obige Urheberrechtsangabe enthalten, diese Liste an Bedingungen und den folgenden Haftungsausschluss in der Dokumentation und/oder anderen Materialien, die der Distribution beiliegen.
+
+3. Weder der Name des Urheberrechtsinhabers noch die Namen der Mitwirkenden dürfen verwendet werden, um von dieser Software abgeleitete Produkte zu bewerben oder zu kennzeichnen, sofern keine ausdrückliche schriftliche Erlaubnis vorliegt.
+
+DIESE SOFTWARE WIRD VON DEN URHEBERRECHTSINHABERN UND DEN MITWIRKENDEN „WIE SIE IST“ UND OHNE AUSDRÜCKLICHE ODER IMPLIZIERTE GEWÄHRLEISTUNG ÜBERLASSEN, EINSCHLIEẞLICH, ABER NICHT DARAUF BESCHRÄNKT, GARANTIEN FÜR EINEN BESTIMMTEN ZWECK. IN KEINEM FALL HAFTEN DIE URHEBERRECHTSINHABER ODER MITWIRKENDEN FÜR DIREKTE, INDIREKTE, BEILÄUFIGE, BESONDERE, TYPISCHE ODER SICH AUS DER NUTZUNG ERGEBENDE SCHÄDEN (EINSCHLIEẞLICH ABER NICHT DARAUF BESCHRÄNKT, ERSATZLEISTUNGEN ODER WAREN; DEN VERLUST DER NUTZUNGSMÖGLICHKEIT, VON DATEN PROFITEN; ODER GESCHÄFTSUNTERBRECHUNGEN), UNGEACHTET DEREN URSACHE ODER THEORETISCHER HAFTUNG, OB IM RAHMEN EINES VERTRAGS, STRIKTER VERPFLICHTUNG ODER UNERLAUBTER HANDLUNG (EINSCHLIEẞLICH FAHRLÄSSIGKEIT UND ANDEREM), AUF WELCHEM WEG AUCH IMMER DIESE AUS DER NUTZUNG DIESER SOFTWARE HERVORGEHEN, SELBST WENN AUF DIE MÖGLICHKEIT SOLCHER SCHÄDEN HINGEWIESEN WURDE.

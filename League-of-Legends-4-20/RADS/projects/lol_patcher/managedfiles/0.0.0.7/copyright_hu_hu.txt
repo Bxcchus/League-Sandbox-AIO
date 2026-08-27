@@ -1,0 +1,11 @@
+﻿Copyright (c) 2008–2011 Marshall A. Greenblatt.  Portions Copyright (c) 2006–2009 Google Inc.  Minden jog fenntartva.
+
+A forráskódként vagy bináris formában történő, módosításokat tartalmazó vagy módosítás nélküli ismételt kiadás vagy használat kizárólag az alábbi feltételek teljesülése esetén engedélyezett:
+
+1. A forráskód ismételt kiadásának tartalmaznia kell a fenti szerzői jogi nyilatkozatot, jelen feltételek listáját, valamint az ezt követő felelősséget kizáró nyilatkozatot.
+
+2. A bináris formában történő ismételt kiadásnak tartalmaznia kell a fenti szerzői jogi nyilatkozatot, jelen feltételek listáját, valamint az ezt követő felelősséget kizáró nyilatkozatot a dokumentáció részeként és/vagy a kiadás részeként mellékelt egyéb anyagokban.
+
+3. Előzetes, kifejezett írásos engedély nélkül sem a szerzői jog tulajdonosának, sem pedig a közreműködők neve nem használható fel a szoftverből származtatott termékek népszerűsítésére.
+
+A SZOFTVERT A SZERZŐI JOG TULAJDONOSAI ÉS A KÖZREMŰKÖDŐK „JELENLEGI ÁLLAPOTÁBAN” BOCSÁTJÁK RENDELKEZÉSRE, ÉS SEMMILYEN KIFEJEZETT VAGY HALLGATÓLAGOS JÓTÁLLÁST NEM VÁLLALNAK, KORLÁTOZÁS NÉLKÜL BELEÉRTVE AZ ÉRTÉKESÍTHETŐSÉGRE VAGY AZ ADOTT CÉLRA VALÓ ALKALMASSÁGRA VONATKOZÓ JÓTÁLLÁST. A SZERZŐI JOG TULAJDONOSA ÉS A KÖZREMŰKÖDŐK SEM SZERZŐDÉSBŐL FAKADÓ, SEM OBJEKTÍV FELELŐSSÉGEN ALAPULÓ, SEM PEDIG SZERZŐDÉSEN KÍVÜLI KÁROKOZÁSKÉNT (A GONDATLANSÁGOT IS IDEÉRTVE) NEM VÁLLALNAK FELELŐSSÉGET SEMMILYEN KÖZVETLEN, KÖZVETETT, JÁRULÉKOS, KÜLÖNLEGES, PÉLDAÉRTÉKŰ VAGY KÖVETKEZMÉNYKÉNT FELLÉPŐ, A SZOFTVER HASZNÁLATÁBÓL BÁRMILYEN MÓDON KÖVETKEZŐ KÁRÉRT (KORLÁTOZÁS NÉLKÜL IDEÉRTVE A HELYETTESÍTŐ TERMÉKEK VAGY SZOLGÁLTATÁSOK BESZERZÉSÉT, A HASZNÁLATRA VALÓ ALKALMASSÁG, ADATOK VAGY BEVÉTEL ELVESZTÉSÉT VAGY ELMARADÁSÁT, ILLETVE AZ ÜZEMSZÜNETET), TEKINTET NÉLKÜL A KÖRÜLMÉNYEKRE ÉS ARRA, HOGY KORÁBBAN ÉRTESÜLTEK-E ILYEN KÁR BEKÖVETKEZÉSÉNEK LEHETŐSÉGÉRŐL.
